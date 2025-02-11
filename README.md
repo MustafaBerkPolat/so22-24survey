@@ -3,6 +3,8 @@
 The Stack Overflow developer surveys contain questions regarding demographics info, education and professional experiences, developer types and compensations and organizational questions like employee counts, whether respondents work remotely or in person and how much time they spend providing guidance to or seeking guidance from their coworkers. As these surveys change over the years, either in how each question is formatted or in the asked questions, they need to be comprehensively analyzed and cleaned in order for healthy comparisons to be made between the years. 
 This analysis is mostly focused on how compensation of respondents changed in time, based on different factors like age, country, seniority, education level and job responsibilities, but supporting data is also included
 
+[Tableau Visualization Link](https://public.tableau.com/views/StackOverflowSurveyAnalysis2022-2024/Overview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 # Takeaways
 
 Looking at the data available, we can derive the following insights:
