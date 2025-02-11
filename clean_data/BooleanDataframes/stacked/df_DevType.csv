@@ -1,0 +1,2549 @@
+ResponseId,DevType
+2,Data scientist or machine learning specialist
+2,"Developer, front-end"
+2,"Engineer, data"
+2,"Engineer, site reliability"
+3,"Developer, full-stack"
+4,"Developer, QA or test"
+4,"Developer, back-end"
+4,"Developer, desktop or enterprise applications"
+4,"Developer, front-end"
+4,"Developer, full-stack"
+7,"Developer, full-stack"
+7,Student
+8,"Developer, back-end"
+9,"Developer, desktop or enterprise applications"
+9,"Developer, mobile"
+9,Educator
+10,"Developer, back-end"
+10,"Developer, full-stack"
+11,Engineering manager
+12,"Developer, full-stack"
+13,Database administrator
+13,"Developer, back-end"
+13,"Developer, front-end"
+13,"Developer, full-stack"
+14,Academic researcher
+14,DevOps specialist
+14,"Developer, full-stack"
+15,"Developer, full-stack"
+16,"Developer, full-stack"
+17,"Engineer, data"
+18,"Developer, back-end"
+18,"Developer, desktop or enterprise applications"
+20,Student
+21,"Developer, full-stack"
+22,"Developer, back-end"
+23,Other (please specify):
+24,"Developer, full-stack"
+25,"Developer, back-end"
+25,"Developer, mobile"
+26,"Developer, back-end"
+26,"Developer, full-stack"
+28,"Developer, desktop or enterprise applications"
+28,"Developer, embedded applications or devices"
+28,"Developer, game or graphics"
+29,"Developer, full-stack"
+31,"Developer, full-stack"
+32,Student
+33,Academic researcher
+33,Student
+34,"Developer, back-end"
+36,"Developer, back-end"
+36,Project manager
+37,"Developer, back-end"
+37,"Developer, front-end"
+37,"Developer, full-stack"
+37,Engineering manager
+39,Cloud infrastructure engineer
+39,Data or business analyst
+39,Database administrator
+39,DevOps specialist
+39,"Developer, back-end"
+40,Cloud infrastructure engineer
+40,Data or business analyst
+40,Database administrator
+40,Designer
+40,"Developer, QA or test"
+40,"Developer, back-end"
+40,"Developer, desktop or enterprise applications"
+40,"Developer, embedded applications or devices"
+40,"Developer, front-end"
+40,"Developer, full-stack"
+40,"Developer, mobile"
+40,"Engineer, data"
+41,Data scientist or machine learning specialist
+41,"Developer, back-end"
+41,"Engineer, data"
+42,Database administrator
+42,"Developer, back-end"
+42,"Developer, front-end"
+42,"Developer, full-stack"
+45,"Developer, front-end"
+47,"Developer, back-end"
+47,"Developer, full-stack"
+48,"Developer, back-end"
+48,"Developer, desktop or enterprise applications"
+49,Cloud infrastructure engineer
+49,DevOps specialist
+49,"Developer, back-end"
+49,"Developer, front-end"
+49,"Developer, full-stack"
+50,Academic researcher
+50,Data scientist or machine learning specialist
+50,Scientist
+50,Student
+51,"Developer, back-end"
+52,Cloud infrastructure engineer
+52,"Developer, back-end"
+52,"Engineer, site reliability"
+52,Student
+53,"Developer, desktop or enterprise applications"
+53,"Developer, front-end"
+53,"Developer, full-stack"
+54,Cloud infrastructure engineer
+54,DevOps specialist
+54,"Developer, back-end"
+54,"Developer, desktop or enterprise applications"
+55,"Developer, back-end"
+55,"Developer, full-stack"
+56,"Developer, back-end"
+56,"Developer, embedded applications or devices"
+57,"Developer, back-end"
+57,"Developer, front-end"
+57,"Developer, full-stack"
+58,"Developer, mobile"
+59,"Developer, embedded applications or devices"
+59,Student
+60,Cloud infrastructure engineer
+60,Database administrator
+60,Designer
+60,"Developer, back-end"
+60,"Developer, front-end"
+60,"Developer, full-stack"
+60,"Developer, game or graphics"
+60,Engineering manager
+60,Product manager
+60,Project manager
+60,"Senior Executive (C-Suite, VP, etc.)"
+60,System administrator
+61,Academic researcher
+61,Data or business analyst
+61,Data scientist or machine learning specialist
+61,Database administrator
+61,Designer
+61,"Developer, back-end"
+61,"Developer, desktop or enterprise applications"
+61,Student
+61,System administrator
+62,Designer
+62,"Developer, back-end"
+63,Designer
+63,"Developer, embedded applications or devices"
+63,"Developer, front-end"
+63,"Developer, full-stack"
+65,DevOps specialist
+65,"Developer, back-end"
+66,"Developer, back-end"
+66,"Developer, desktop or enterprise applications"
+66,"Developer, full-stack"
+67,DevOps specialist
+67,"Developer, QA or test"
+67,"Developer, back-end"
+67,"Developer, full-stack"
+68,Blockchain
+68,"Developer, back-end"
+69,Cloud infrastructure engineer
+69,Designer
+69,"Developer, back-end"
+70,"Developer, mobile"
+71,DevOps specialist
+71,"Developer, embedded applications or devices"
+71,Student
+72,Other (please specify):
+73,DevOps specialist
+73,"Developer, QA or test"
+73,"Developer, full-stack"
+74,"Developer, full-stack"
+75,"Developer, back-end"
+75,Student
+76,"Developer, back-end"
+76,Marketing or sales professional
+78,"Developer, full-stack"
+79,Cloud infrastructure engineer
+79,Database administrator
+79,DevOps specialist
+79,"Developer, back-end"
+79,Engineering manager
+80,"Developer, back-end"
+80,"Developer, desktop or enterprise applications"
+80,"Developer, embedded applications or devices"
+80,"Developer, game or graphics"
+80,"Developer, mobile"
+81,Marketing or sales professional
+83,"Developer, full-stack"
+83,Engineering manager
+84,"Developer, full-stack"
+85,Data scientist or machine learning specialist
+85,"Developer, back-end"
+85,"Developer, full-stack"
+85,"Engineer, data"
+87,"Developer, back-end"
+87,Engineering manager
+88,"Developer, full-stack"
+89,"Developer, desktop or enterprise applications"
+89,Project manager
+90,"Engineer, data"
+91,Cloud infrastructure engineer
+91,"Developer, back-end"
+91,"Developer, desktop or enterprise applications"
+91,"Developer, front-end"
+91,"Developer, full-stack"
+92,Academic researcher
+92,"Developer, back-end"
+92,Scientist
+93,"Developer, front-end"
+94,Data scientist or machine learning specialist
+94,Scientist
+95,"Developer, embedded applications or devices"
+95,Security professional
+96,"Developer, full-stack"
+97,Data or business analyst
+97,DevOps specialist
+97,"Developer, back-end"
+97,"Developer, desktop or enterprise applications"
+97,"Developer, front-end"
+97,"Developer, full-stack"
+97,"Engineer, data"
+99,"Developer, full-stack"
+101,"Developer, back-end"
+101,"Developer, full-stack"
+102,DevOps specialist
+102,"Developer, back-end"
+102,Project manager
+102,Student
+102,System administrator
+103,"Developer, full-stack"
+104,"Developer, back-end"
+105,"Developer, full-stack"
+107,Data scientist or machine learning specialist
+107,Database administrator
+107,"Developer, QA or test"
+107,"Developer, back-end"
+107,"Developer, desktop or enterprise applications"
+107,"Developer, embedded applications or devices"
+107,"Developer, front-end"
+107,"Developer, full-stack"
+108,"Developer, full-stack"
+109,"Developer, back-end"
+110,"Developer, back-end"
+110,Student
+111,"Developer, back-end"
+111,"Developer, front-end"
+111,"Developer, full-stack"
+112,"Developer, back-end"
+112,Security professional
+113,Database administrator
+113,"Developer, back-end"
+113,Project manager
+113,Security professional
+114,"Developer, full-stack"
+114,Engineering manager
+114,Other (please specify):
+115,"Developer, back-end"
+116,"Developer, back-end"
+117,Data scientist or machine learning specialist
+117,"Developer, back-end"
+117,"Developer, full-stack"
+117,"Engineer, data"
+117,"Senior Executive (C-Suite, VP, etc.)"
+118,Student
+119,Cloud infrastructure engineer
+119,DevOps specialist
+119,"Engineer, site reliability"
+119,Student
+120,Designer
+120,"Developer, QA or test"
+120,"Developer, back-end"
+120,"Developer, desktop or enterprise applications"
+120,"Developer, full-stack"
+121,"Engineer, data"
+122,"Developer, back-end"
+122,"Developer, front-end"
+122,"Developer, full-stack"
+123,"Developer, QA or test"
+123,"Developer, back-end"
+123,"Developer, front-end"
+123,"Developer, full-stack"
+123,"Developer, mobile"
+123,System administrator
+124,"Developer, back-end"
+124,Student
+124,System administrator
+126,Data or business analyst
+126,"Engineer, data"
+127,Cloud infrastructure engineer
+127,"Developer, back-end"
+127,"Developer, front-end"
+127,"Developer, full-stack"
+128,Data or business analyst
+128,Data scientist or machine learning specialist
+128,Student
+130,"Developer, back-end"
+131,Cloud infrastructure engineer
+131,"Developer, back-end"
+132,"Developer, full-stack"
+133,"Developer, back-end"
+134,"Developer, front-end"
+135,"Developer, back-end"
+137,Designer
+137,"Developer, back-end"
+137,"Developer, full-stack"
+137,Scientist
+138,"Developer, back-end"
+139,DevOps specialist
+140,Designer
+140,"Developer, front-end"
+140,"Developer, full-stack"
+141,"Developer, front-end"
+142,Data scientist or machine learning specialist
+142,"Developer, embedded applications or devices"
+143,Cloud infrastructure engineer
+143,Database administrator
+143,"Developer, back-end"
+143,"Developer, front-end"
+143,"Developer, full-stack"
+143,System administrator
+144,"Developer, desktop or enterprise applications"
+145,"Developer, back-end"
+147,"Engineer, data"
+148,"Developer, full-stack"
+150,"Developer, back-end"
+150,"Developer, desktop or enterprise applications"
+151,Data or business analyst
+151,"Developer, full-stack"
+152,"Developer, back-end"
+152,"Developer, front-end"
+152,"Developer, full-stack"
+152,"Developer, mobile"
+153,Cloud infrastructure engineer
+153,Data or business analyst
+153,Database administrator
+153,"Developer, back-end"
+153,"Developer, front-end"
+153,"Developer, full-stack"
+153,"Engineer, data"
+153,Engineering manager
+154,Other (please specify):
+155,"Developer, full-stack"
+156,DevOps specialist
+156,"Developer, back-end"
+157,Designer
+158,Cloud infrastructure engineer
+158,DevOps specialist
+158,"Engineer, site reliability"
+158,System administrator
+159,"Developer, full-stack"
+160,"Developer, full-stack"
+161,Database administrator
+161,DevOps specialist
+161,System administrator
+162,Engineering manager
+163,"Developer, back-end"
+164,Cloud infrastructure engineer
+164,Database administrator
+164,DevOps specialist
+164,"Developer, back-end"
+164,"Developer, full-stack"
+164,"Senior Executive (C-Suite, VP, etc.)"
+164,System administrator
+165,"Developer, back-end"
+165,"Developer, desktop or enterprise applications"
+167,Data or business analyst
+167,Data scientist or machine learning specialist
+167,"Developer, back-end"
+167,"Engineer, data"
+168,"Developer, full-stack"
+168,Student
+169,"Developer, embedded applications or devices"
+170,"Developer, back-end"
+171,"Developer, embedded applications or devices"
+172,"Developer, back-end"
+175,System administrator
+177,Cloud infrastructure engineer
+177,"Developer, desktop or enterprise applications"
+177,Marketing or sales professional
+178,DevOps specialist
+178,"Developer, back-end"
+178,"Developer, embedded applications or devices"
+179,"Developer, back-end"
+180,Cloud infrastructure engineer
+180,Database administrator
+180,"Developer, back-end"
+180,Engineering manager
+181,"Developer, back-end"
+182,Other (please specify):
+183,Cloud infrastructure engineer
+183,"Developer, back-end"
+184,"Developer, full-stack"
+184,Other (please specify):
+185,Cloud infrastructure engineer
+185,"Developer, QA or test"
+186,"Developer, back-end"
+186,"Developer, embedded applications or devices"
+187,"Developer, desktop or enterprise applications"
+188,"Developer, back-end"
+188,"Developer, front-end"
+188,"Developer, full-stack"
+189,"Developer, back-end"
+191,"Developer, desktop or enterprise applications"
+191,"Developer, full-stack"
+192,"Developer, back-end"
+192,"Engineer, data"
+193,"Developer, back-end"
+194,Other (please specify):
+195,"Developer, back-end"
+196,Data scientist or machine learning specialist
+196,"Developer, back-end"
+198,Other (please specify):
+200,"Developer, desktop or enterprise applications"
+200,"Developer, full-stack"
+201,"Developer, front-end"
+202,Academic researcher
+202,Data scientist or machine learning specialist
+202,"Developer, back-end"
+202,Scientist
+203,"Engineer, data"
+204,DevOps specialist
+204,"Developer, back-end"
+204,"Developer, desktop or enterprise applications"
+205,"Developer, QA or test"
+205,"Developer, back-end"
+205,"Developer, full-stack"
+206,"Developer, full-stack"
+206,Engineering manager
+207,"Developer, full-stack"
+208,"Developer, back-end"
+209,Product manager
+210,"Developer, front-end"
+211,"Developer, back-end"
+211,"Developer, desktop or enterprise applications"
+212,"Developer, full-stack"
+212,Student
+213,"Developer, back-end"
+213,Scientist
+213,System administrator
+214,Data scientist or machine learning specialist
+214,"Developer, back-end"
+214,"Developer, front-end"
+214,"Developer, full-stack"
+214,"Engineer, data"
+214,Scientist
+215,DevOps specialist
+215,"Developer, back-end"
+215,"Developer, desktop or enterprise applications"
+215,"Developer, front-end"
+215,"Developer, full-stack"
+215,Engineering manager
+217,Marketing or sales professional
+218,Cloud infrastructure engineer
+218,Database administrator
+218,DevOps specialist
+218,"Developer, back-end"
+218,"Engineer, site reliability"
+218,Engineering manager
+218,Project manager
+218,Security professional
+218,System administrator
+219,Other (please specify):
+220,Other (please specify):
+221,"Developer, back-end"
+222,"Developer, back-end"
+222,Security professional
+223,"Developer, full-stack"
+223,Engineering manager
+224,"Developer, back-end"
+225,"Developer, full-stack"
+226,Marketing or sales professional
+226,Project manager
+228,Database administrator
+228,DevOps specialist
+228,"Developer, desktop or enterprise applications"
+228,"Developer, full-stack"
+228,Engineering manager
+229,Cloud infrastructure engineer
+229,"Developer, back-end"
+231,"Developer, back-end"
+231,Student
+232,"Engineer, data"
+233,"Developer, full-stack"
+234,Cloud infrastructure engineer
+234,"Developer, back-end"
+235,Engineering manager
+236,"Developer, back-end"
+237,Engineering manager
+238,"Developer, desktop or enterprise applications"
+239,"Developer, back-end"
+239,Product manager
+239,Project manager
+239,Security professional
+239,System administrator
+240,Data or business analyst
+241,Data or business analyst
+241,Data scientist or machine learning specialist
+241,Database administrator
+241,"Engineer, data"
+242,System administrator
+243,Data or business analyst
+243,"Developer, embedded applications or devices"
+244,"Developer, desktop or enterprise applications"
+245,Academic researcher
+245,Data scientist or machine learning specialist
+246,Database administrator
+246,"Developer, back-end"
+246,"Developer, front-end"
+246,"Developer, full-stack"
+247,"Senior Executive (C-Suite, VP, etc.)"
+248,Marketing or sales professional
+249,Blockchain
+249,Data scientist or machine learning specialist
+249,"Developer, back-end"
+249,"Engineer, data"
+250,Designer
+250,"Developer, back-end"
+250,"Developer, desktop or enterprise applications"
+250,"Developer, front-end"
+250,"Developer, full-stack"
+250,"Developer, game or graphics"
+250,"Developer, mobile"
+251,"Developer, back-end"
+251,"Developer, desktop or enterprise applications"
+251,Project manager
+252,Designer
+252,"Developer, front-end"
+252,"Developer, game or graphics"
+252,Project manager
+252,Student
+253,Cloud infrastructure engineer
+253,Designer
+253,DevOps specialist
+253,"Developer, back-end"
+253,"Developer, full-stack"
+254,DevOps specialist
+255,"Developer, embedded applications or devices"
+255,Engineering manager
+256,"Developer, back-end"
+257,"Developer, back-end"
+257,"Developer, full-stack"
+258,"Developer, back-end"
+259,Engineering manager
+260,Database administrator
+260,"Developer, back-end"
+260,"Developer, front-end"
+260,"Developer, full-stack"
+261,"Developer, full-stack"
+262,Other (please specify):
+263,"Developer, back-end"
+263,"Developer, desktop or enterprise applications"
+263,"Developer, embedded applications or devices"
+264,"Engineer, data"
+265,"Developer, back-end"
+266,"Developer, back-end"
+267,Cloud infrastructure engineer
+267,"Developer, QA or test"
+267,"Developer, back-end"
+267,"Developer, full-stack"
+268,Academic researcher
+268,Designer
+268,"Developer, front-end"
+269,Cloud infrastructure engineer
+269,DevOps specialist
+269,"Developer, back-end"
+269,"Engineer, site reliability"
+269,System administrator
+270,"Developer, embedded applications or devices"
+270,Student
+271,"Developer, back-end"
+271,"Developer, desktop or enterprise applications"
+272,"Developer, back-end"
+272,"Developer, desktop or enterprise applications"
+272,"Developer, front-end"
+272,"Developer, full-stack"
+273,"Developer, back-end"
+273,"Developer, full-stack"
+273,Educator
+273,"Engineer, site reliability"
+273,Other (please specify):
+274,Cloud infrastructure engineer
+274,Database administrator
+274,DevOps specialist
+274,"Developer, back-end"
+275,"Developer, QA or test"
+275,"Developer, back-end"
+275,"Developer, full-stack"
+276,"Developer, back-end"
+277,Data or business analyst
+277,DevOps specialist
+277,"Developer, back-end"
+277,"Developer, full-stack"
+277,"Engineer, data"
+278,"Developer, front-end"
+278,"Developer, full-stack"
+279,"Developer, front-end"
+280,"Developer, back-end"
+281,"Developer, full-stack"
+281,"Developer, mobile"
+282,"Developer, embedded applications or devices"
+283,Project manager
+284,Database administrator
+284,"Developer, mobile"
+284,Product manager
+284,Project manager
+285,Security professional
+286,"Developer, full-stack"
+287,"Developer, back-end"
+287,"Developer, front-end"
+287,"Developer, full-stack"
+288,Data scientist or machine learning specialist
+288,"Developer, back-end"
+289,"Developer, desktop or enterprise applications"
+290,"Developer, full-stack"
+291,"Developer, front-end"
+291,"Developer, full-stack"
+292,"Developer, full-stack"
+293,Database administrator
+293,"Developer, back-end"
+293,"Developer, front-end"
+293,"Developer, full-stack"
+293,Student
+294,Data or business analyst
+294,Data scientist or machine learning specialist
+295,Educator
+296,Data scientist or machine learning specialist
+296,"Developer, back-end"
+296,"Engineer, data"
+297,"Developer, back-end"
+298,"Developer, back-end"
+299,"Developer, QA or test"
+299,"Developer, back-end"
+299,"Developer, front-end"
+299,"Developer, full-stack"
+300,"Developer, full-stack"
+301,"Developer, front-end"
+301,"Developer, mobile"
+302,"Developer, full-stack"
+303,Data or business analyst
+303,"Developer, back-end"
+303,Engineering manager
+303,Project manager
+304,"Developer, full-stack"
+305,"Developer, back-end"
+305,"Developer, front-end"
+305,"Developer, full-stack"
+307,Cloud infrastructure engineer
+307,DevOps specialist
+307,"Developer, back-end"
+308,"Developer, back-end"
+309,"Developer, back-end"
+309,Student
+310,"Developer, back-end"
+310,Student
+311,"Developer, full-stack"
+311,Project manager
+312,"Developer, front-end"
+313,"Developer, full-stack"
+315,"Developer, back-end"
+315,"Engineer, data"
+316,Cloud infrastructure engineer
+316,"Developer, back-end"
+316,Engineering manager
+317,DevOps specialist
+317,"Developer, back-end"
+317,"Developer, desktop or enterprise applications"
+317,"Developer, full-stack"
+318,"Developer, mobile"
+319,Engineering manager
+320,Product manager
+321,"Developer, back-end"
+321,"Developer, full-stack"
+322,Cloud infrastructure engineer
+322,"Developer, back-end"
+322,"Engineer, site reliability"
+323,"Developer, QA or test"
+323,"Developer, back-end"
+324,"Developer, embedded applications or devices"
+325,"Developer, back-end"
+325,"Developer, front-end"
+325,"Developer, full-stack"
+326,Designer
+326,"Developer, back-end"
+326,"Developer, desktop or enterprise applications"
+326,"Developer, embedded applications or devices"
+326,"Developer, full-stack"
+327,Cloud infrastructure engineer
+327,"Developer, QA or test"
+327,"Developer, back-end"
+327,"Developer, embedded applications or devices"
+328,"Developer, mobile"
+329,Academic researcher
+329,Scientist
+329,Student
+330,"Developer, front-end"
+330,"Developer, full-stack"
+331,Cloud infrastructure engineer
+331,DevOps specialist
+331,"Engineer, site reliability"
+333,"Developer, embedded applications or devices"
+334,"Developer, embedded applications or devices"
+334,Engineering manager
+335,"Developer, back-end"
+336,Academic researcher
+336,Data scientist or machine learning specialist
+337,"Developer, desktop or enterprise applications"
+338,"Developer, desktop or enterprise applications"
+338,"Developer, full-stack"
+338,"Developer, mobile"
+339,"Developer, full-stack"
+339,Student
+340,"Developer, desktop or enterprise applications"
+340,"Developer, full-stack"
+341,"Developer, desktop or enterprise applications"
+341,"Developer, full-stack"
+341,Project manager
+342,"Developer, full-stack"
+343,Cloud infrastructure engineer
+343,"Developer, back-end"
+344,"Developer, back-end"
+345,Database administrator
+345,System administrator
+346,"Developer, full-stack"
+346,"Engineer, data"
+347,"Developer, full-stack"
+347,Product manager
+348,"Developer, full-stack"
+348,"Developer, mobile"
+348,Educator
+349,"Developer, back-end"
+351,"Developer, desktop or enterprise applications"
+352,"Developer, front-end"
+353,"Developer, full-stack"
+354,Cloud infrastructure engineer
+354,"Developer, back-end"
+354,"Developer, front-end"
+354,"Developer, full-stack"
+356,"Developer, mobile"
+357,"Developer, desktop or enterprise applications"
+357,"Engineer, data"
+357,Engineering manager
+358,"Developer, mobile"
+359,"Developer, embedded applications or devices"
+360,Cloud infrastructure engineer
+360,"Developer, full-stack"
+360,"Engineer, site reliability"
+361,"Developer, full-stack"
+362,"Developer, back-end"
+362,"Developer, embedded applications or devices"
+363,Cloud infrastructure engineer
+363,DevOps specialist
+363,"Developer, full-stack"
+363,System administrator
+364,"Developer, desktop or enterprise applications"
+365,Cloud infrastructure engineer
+365,Database administrator
+365,Designer
+365,DevOps specialist
+365,"Developer, QA or test"
+365,"Developer, back-end"
+365,"Developer, desktop or enterprise applications"
+365,"Developer, front-end"
+365,"Developer, full-stack"
+365,"Developer, mobile"
+365,Educator
+365,Engineering manager
+365,Product manager
+365,Project manager
+365,System administrator
+366,Academic researcher
+366,Data or business analyst
+366,"Developer, back-end"
+366,Educator
+366,"Engineer, data"
+367,Data or business analyst
+367,Data scientist or machine learning specialist
+367,"Engineer, data"
+368,DevOps specialist
+368,"Developer, back-end"
+368,"Developer, front-end"
+368,"Developer, full-stack"
+370,Cloud infrastructure engineer
+370,Database administrator
+370,DevOps specialist
+370,"Developer, back-end"
+370,"Developer, front-end"
+370,"Developer, full-stack"
+370,System administrator
+371,Designer
+371,"Developer, back-end"
+372,"Developer, back-end"
+372,"Engineer, data"
+373,"Developer, back-end"
+373,"Developer, desktop or enterprise applications"
+373,"Developer, full-stack"
+374,"Developer, back-end"
+374,"Developer, full-stack"
+375,"Developer, QA or test"
+376,"Developer, back-end"
+376,"Developer, desktop or enterprise applications"
+376,Student
+378,Cloud infrastructure engineer
+378,Database administrator
+378,"Developer, back-end"
+378,"Developer, front-end"
+378,Security professional
+378,System administrator
+379,Academic researcher
+379,"Developer, desktop or enterprise applications"
+380,Cloud infrastructure engineer
+380,Designer
+380,DevOps specialist
+380,"Developer, back-end"
+380,"Developer, desktop or enterprise applications"
+380,"Developer, front-end"
+380,"Developer, full-stack"
+380,Student
+381,Data or business analyst
+381,"Developer, front-end"
+381,"Engineer, data"
+381,Other (please specify):
+382,"Developer, back-end"
+383,"Developer, full-stack"
+383,System administrator
+385,Cloud infrastructure engineer
+385,DevOps specialist
+385,"Developer, back-end"
+385,"Developer, front-end"
+385,"Developer, full-stack"
+385,Security professional
+386,"Developer, full-stack"
+387,"Developer, full-stack"
+388,Cloud infrastructure engineer
+388,"Developer, full-stack"
+388,Engineering manager
+388,Security professional
+389,"Developer, desktop or enterprise applications"
+390,"Developer, back-end"
+390,"Developer, desktop or enterprise applications"
+391,"Senior Executive (C-Suite, VP, etc.)"
+392,Cloud infrastructure engineer
+392,DevOps specialist
+392,"Developer, back-end"
+392,"Developer, front-end"
+392,"Developer, full-stack"
+392,"Engineer, site reliability"
+393,"Developer, desktop or enterprise applications"
+393,"Developer, full-stack"
+394,"Developer, back-end"
+395,"Developer, back-end"
+395,"Developer, front-end"
+395,"Developer, full-stack"
+396,"Developer, full-stack"
+397,"Developer, full-stack"
+398,"Developer, desktop or enterprise applications"
+398,"Developer, embedded applications or devices"
+398,"Developer, game or graphics"
+398,Engineering manager
+399,"Developer, back-end"
+399,Security professional
+400,Data or business analyst
+401,"Developer, back-end"
+401,"Developer, desktop or enterprise applications"
+402,DevOps specialist
+402,"Developer, front-end"
+402,"Developer, full-stack"
+403,"Developer, front-end"
+403,"Developer, full-stack"
+404,"Developer, full-stack"
+405,"Developer, full-stack"
+406,Data scientist or machine learning specialist
+406,"Developer, back-end"
+406,"Developer, front-end"
+406,"Developer, full-stack"
+406,Engineering manager
+406,"Senior Executive (C-Suite, VP, etc.)"
+407,"Developer, QA or test"
+407,"Developer, full-stack"
+407,Student
+408,Blockchain
+408,"Developer, back-end"
+408,"Developer, game or graphics"
+409,Security professional
+410,"Developer, back-end"
+411,"Developer, back-end"
+411,"Developer, desktop or enterprise applications"
+411,"Developer, front-end"
+411,"Developer, full-stack"
+412,"Developer, full-stack"
+412,"Senior Executive (C-Suite, VP, etc.)"
+413,Marketing or sales professional
+414,"Developer, QA or test"
+414,Other (please specify):
+416,Database administrator
+416,Designer
+416,DevOps specialist
+416,"Developer, back-end"
+416,"Developer, desktop or enterprise applications"
+416,"Developer, front-end"
+416,"Developer, full-stack"
+416,"Engineer, site reliability"
+416,Scientist
+416,Security professional
+416,System administrator
+417,"Developer, back-end"
+419,"Developer, front-end"
+421,"Developer, back-end"
+422,Cloud infrastructure engineer
+422,"Developer, back-end"
+422,"Developer, full-stack"
+422,System administrator
+423,"Developer, full-stack"
+423,Educator
+424,"Developer, desktop or enterprise applications"
+424,Project manager
+426,"Developer, back-end"
+426,Security professional
+427,DevOps specialist
+429,"Developer, back-end"
+429,"Developer, front-end"
+429,"Developer, full-stack"
+430,Database administrator
+430,Designer
+430,DevOps specialist
+430,"Developer, QA or test"
+430,"Developer, back-end"
+430,"Developer, front-end"
+430,"Developer, full-stack"
+430,"Developer, game or graphics"
+430,"Engineer, data"
+430,"Engineer, site reliability"
+430,Engineering manager
+430,Marketing or sales professional
+430,Product manager
+430,Project manager
+430,System administrator
+431,"Developer, mobile"
+432,Designer
+432,"Developer, back-end"
+432,"Developer, desktop or enterprise applications"
+432,"Developer, front-end"
+433,Database administrator
+433,"Developer, back-end"
+433,"Developer, desktop or enterprise applications"
+433,"Developer, embedded applications or devices"
+433,"Developer, front-end"
+433,"Developer, full-stack"
+433,"Developer, mobile"
+433,Educator
+435,"Developer, back-end"
+436,Designer
+436,"Developer, back-end"
+436,"Developer, desktop or enterprise applications"
+436,"Developer, front-end"
+436,"Developer, full-stack"
+437,Student
+438,"Developer, back-end"
+438,"Developer, front-end"
+439,Cloud infrastructure engineer
+439,"Developer, back-end"
+439,"Developer, desktop or enterprise applications"
+439,"Developer, mobile"
+439,Engineering manager
+440,Data scientist or machine learning specialist
+440,"Engineer, data"
+441,"Developer, mobile"
+442,Academic researcher
+442,Blockchain
+442,Cloud infrastructure engineer
+442,Data or business analyst
+442,Data scientist or machine learning specialist
+442,"Developer, front-end"
+442,"Developer, full-stack"
+443,Cloud infrastructure engineer
+443,"Developer, full-stack"
+443,System administrator
+445,"Developer, back-end"
+445,"Developer, front-end"
+445,"Developer, full-stack"
+446,"Engineer, data"
+447,"Developer, back-end"
+447,"Developer, front-end"
+447,"Developer, full-stack"
+448,Data or business analyst
+448,"Developer, back-end"
+448,"Developer, desktop or enterprise applications"
+449,Data scientist or machine learning specialist
+449,"Developer, full-stack"
+449,Educator
+453,"Developer, full-stack"
+454,"Developer, full-stack"
+455,Academic researcher
+455,Scientist
+456,Other (please specify):
+458,"Engineer, data"
+459,Other (please specify):
+460,"Developer, back-end"
+461,Student
+462,"Developer, front-end"
+463,Data scientist or machine learning specialist
+464,Academic researcher
+464,Cloud infrastructure engineer
+464,DevOps specialist
+464,"Developer, full-stack"
+464,Scientist
+465,Other (please specify):
+466,"Developer, back-end"
+467,"Developer, full-stack"
+468,Cloud infrastructure engineer
+468,DevOps specialist
+468,"Developer, full-stack"
+469,"Developer, back-end"
+470,Data scientist or machine learning specialist
+470,"Developer, back-end"
+470,"Developer, desktop or enterprise applications"
+470,"Engineer, data"
+470,Project manager
+471,Database administrator
+471,"Developer, QA or test"
+471,"Developer, back-end"
+471,"Developer, front-end"
+471,"Developer, full-stack"
+471,"Developer, mobile"
+471,System administrator
+472,"Developer, desktop or enterprise applications"
+473,"Developer, back-end"
+474,"Developer, front-end"
+474,"Developer, full-stack"
+475,"Developer, back-end"
+478,"Developer, embedded applications or devices"
+479,Database administrator
+479,Designer
+479,DevOps specialist
+479,"Developer, QA or test"
+479,"Developer, back-end"
+479,"Developer, desktop or enterprise applications"
+479,"Developer, front-end"
+479,"Developer, full-stack"
+479,Product manager
+479,Scientist
+479,System administrator
+481,"Developer, QA or test"
+481,"Developer, back-end"
+481,"Developer, full-stack"
+482,Other (please specify):
+483,"Developer, back-end"
+484,"Engineer, data"
+485,"Developer, back-end"
+485,"Developer, desktop or enterprise applications"
+486,"Developer, full-stack"
+487,"Developer, full-stack"
+487,Student
+488,"Developer, back-end"
+488,"Developer, full-stack"
+489,"Developer, embedded applications or devices"
+489,Student
+490,"Developer, back-end"
+490,"Developer, front-end"
+490,"Developer, full-stack"
+491,"Developer, back-end"
+492,Cloud infrastructure engineer
+492,DevOps specialist
+492,"Engineer, site reliability"
+493,DevOps specialist
+493,"Developer, back-end"
+493,"Developer, front-end"
+493,"Developer, full-stack"
+494,"Developer, back-end"
+494,"Developer, desktop or enterprise applications"
+494,"Developer, embedded applications or devices"
+494,"Developer, front-end"
+494,"Developer, full-stack"
+494,Educator
+495,"Developer, back-end"
+495,Student
+495,System administrator
+496,"Developer, back-end"
+497,Cloud infrastructure engineer
+497,DevOps specialist
+497,"Engineer, site reliability"
+498,"Developer, back-end"
+499,Other (please specify):
+500,"Developer, back-end"
+500,"Developer, front-end"
+500,"Developer, full-stack"
+501,"Developer, embedded applications or devices"
+503,"Developer, full-stack"
+503,Student
+505,Academic researcher
+505,Data or business analyst
+505,Data scientist or machine learning specialist
+505,"Developer, full-stack"
+505,Engineering manager
+507,"Developer, QA or test"
+507,"Developer, back-end"
+508,"Developer, desktop or enterprise applications"
+509,Data scientist or machine learning specialist
+509,"Developer, back-end"
+510,Academic researcher
+510,Database administrator
+510,"Developer, desktop or enterprise applications"
+510,"Engineer, data"
+511,Database administrator
+511,"Developer, back-end"
+511,"Developer, front-end"
+511,"Developer, full-stack"
+511,Student
+511,System administrator
+512,"Developer, front-end"
+512,"Developer, full-stack"
+513,"Developer, desktop or enterprise applications"
+513,"Developer, embedded applications or devices"
+513,"Developer, game or graphics"
+513,Student
+514,DevOps specialist
+514,"Developer, back-end"
+515,"Developer, back-end"
+515,"Developer, front-end"
+515,"Developer, full-stack"
+515,System administrator
+517,"Developer, full-stack"
+519,"Developer, full-stack"
+520,System administrator
+522,Cloud infrastructure engineer
+522,DevOps specialist
+522,"Developer, back-end"
+522,"Developer, desktop or enterprise applications"
+522,"Engineer, data"
+523,Designer
+523,"Developer, full-stack"
+523,Product manager
+524,"Developer, full-stack"
+525,"Developer, QA or test"
+527,"Engineer, site reliability"
+528,"Developer, full-stack"
+529,"Developer, full-stack"
+529,"Developer, game or graphics"
+530,"Developer, back-end"
+530,"Developer, desktop or enterprise applications"
+530,"Developer, embedded applications or devices"
+530,"Developer, full-stack"
+530,"Senior Executive (C-Suite, VP, etc.)"
+530,System administrator
+531,"Developer, back-end"
+531,"Developer, desktop or enterprise applications"
+531,"Developer, full-stack"
+534,"Developer, back-end"
+534,"Developer, front-end"
+534,"Developer, full-stack"
+535,"Developer, front-end"
+535,"Developer, game or graphics"
+536,DevOps specialist
+536,"Developer, full-stack"
+536,System administrator
+537,Blockchain
+537,Cloud infrastructure engineer
+537,Data scientist or machine learning specialist
+537,"Developer, back-end"
+537,"Developer, embedded applications or devices"
+537,"Developer, mobile"
+538,"Developer, full-stack"
+539,"Developer, full-stack"
+540,"Developer, back-end"
+540,"Developer, full-stack"
+541,DevOps specialist
+541,"Developer, back-end"
+541,"Developer, front-end"
+541,"Developer, full-stack"
+541,"Developer, mobile"
+541,Engineering manager
+541,Product manager
+541,System administrator
+543,"Developer, back-end"
+544,"Developer, desktop or enterprise applications"
+544,"Developer, embedded applications or devices"
+544,Student
+545,"Developer, game or graphics"
+545,Student
+546,"Developer, back-end"
+547,"Developer, desktop or enterprise applications"
+547,"Developer, full-stack"
+548,Other (please specify):
+549,"Developer, back-end"
+551,Cloud infrastructure engineer
+551,DevOps specialist
+551,"Developer, back-end"
+551,"Developer, desktop or enterprise applications"
+551,"Developer, front-end"
+551,"Developer, full-stack"
+551,Student
+551,System administrator
+552,"Developer, QA or test"
+552,"Developer, full-stack"
+552,System administrator
+553,"Developer, back-end"
+554,"Developer, full-stack"
+556,"Developer, front-end"
+556,"Developer, full-stack"
+557,Academic researcher
+557,Data or business analyst
+557,Designer
+557,"Developer, back-end"
+557,"Developer, front-end"
+557,"Developer, full-stack"
+557,Educator
+557,Student
+558,"Developer, full-stack"
+559,Data or business analyst
+559,Database administrator
+559,DevOps specialist
+559,"Developer, full-stack"
+559,System administrator
+560,Blockchain
+560,"Developer, back-end"
+560,"Developer, desktop or enterprise applications"
+561,DevOps specialist
+561,"Developer, back-end"
+561,"Developer, desktop or enterprise applications"
+561,"Developer, full-stack"
+562,"Developer, front-end"
+562,"Developer, full-stack"
+563,"Developer, full-stack"
+564,Cloud infrastructure engineer
+564,DevOps specialist
+564,"Engineer, site reliability"
+565,"Developer, back-end"
+565,"Developer, full-stack"
+566,Student
+567,Academic researcher
+567,Student
+568,"Developer, back-end"
+568,"Developer, desktop or enterprise applications"
+568,"Developer, embedded applications or devices"
+568,System administrator
+570,"Developer, desktop or enterprise applications"
+571,"Developer, embedded applications or devices"
+572,Academic researcher
+572,Scientist
+573,Data scientist or machine learning specialist
+573,"Developer, full-stack"
+574,"Developer, embedded applications or devices"
+575,Database administrator
+576,"Developer, game or graphics"
+577,Cloud infrastructure engineer
+577,"Developer, back-end"
+578,"Developer, embedded applications or devices"
+578,"Developer, mobile"
+579,"Developer, full-stack"
+580,Marketing or sales professional
+581,"Developer, back-end"
+581,Educator
+582,"Developer, back-end"
+582,"Developer, desktop or enterprise applications"
+582,"Developer, front-end"
+582,"Developer, full-stack"
+583,Cloud infrastructure engineer
+583,Database administrator
+583,DevOps specialist
+583,"Developer, back-end"
+583,System administrator
+584,"Developer, full-stack"
+585,DevOps specialist
+585,"Developer, embedded applications or devices"
+585,Other (please specify):
+586,DevOps specialist
+586,"Developer, back-end"
+586,"Developer, front-end"
+586,"Developer, full-stack"
+587,"Developer, front-end"
+587,"Developer, game or graphics"
+587,"Developer, mobile"
+589,"Developer, back-end"
+590,"Developer, full-stack"
+590,Student
+591,"Developer, full-stack"
+592,"Developer, back-end"
+592,"Developer, front-end"
+592,"Developer, full-stack"
+592,Project manager
+594,"Developer, back-end"
+594,"Developer, desktop or enterprise applications"
+595,"Developer, full-stack"
+595,Engineering manager
+595,Security professional
+596,"Developer, back-end"
+598,"Developer, full-stack"
+599,Data or business analyst
+599,Database administrator
+599,Designer
+599,"Developer, back-end"
+599,"Developer, front-end"
+599,"Developer, full-stack"
+599,"Developer, mobile"
+599,Marketing or sales professional
+599,Project manager
+599,Security professional
+599,"Senior Executive (C-Suite, VP, etc.)"
+599,System administrator
+600,Student
+601,"Developer, back-end"
+602,DevOps specialist
+602,"Developer, QA or test"
+602,"Developer, back-end"
+602,"Developer, front-end"
+602,Security professional
+602,System administrator
+604,Data scientist or machine learning specialist
+604,"Developer, full-stack"
+605,"Developer, full-stack"
+606,"Developer, back-end"
+607,"Developer, front-end"
+608,"Developer, full-stack"
+609,"Developer, embedded applications or devices"
+609,Other (please specify):
+610,"Developer, mobile"
+611,Designer
+611,"Developer, back-end"
+612,"Developer, embedded applications or devices"
+612,Engineering manager
+613,"Developer, full-stack"
+614,DevOps specialist
+614,Engineering manager
+615,"Developer, back-end"
+615,"Developer, front-end"
+615,"Developer, full-stack"
+615,"Developer, mobile"
+616,DevOps specialist
+616,"Developer, back-end"
+616,System administrator
+617,"Developer, back-end"
+617,"Developer, desktop or enterprise applications"
+617,"Developer, embedded applications or devices"
+617,"Developer, front-end"
+617,"Developer, full-stack"
+617,"Developer, game or graphics"
+618,"Developer, desktop or enterprise applications"
+618,"Developer, full-stack"
+618,"Developer, mobile"
+619,Cloud infrastructure engineer
+619,DevOps specialist
+619,"Developer, back-end"
+619,"Developer, front-end"
+619,"Developer, full-stack"
+620,Data scientist or machine learning specialist
+620,"Engineer, data"
+620,Product manager
+620,Project manager
+620,"Senior Executive (C-Suite, VP, etc.)"
+621,"Developer, back-end"
+621,"Developer, front-end"
+621,"Developer, full-stack"
+622,"Developer, front-end"
+622,"Developer, full-stack"
+623,"Developer, back-end"
+623,"Developer, desktop or enterprise applications"
+623,"Developer, front-end"
+623,"Developer, full-stack"
+623,Student
+624,Blockchain
+624,"Developer, back-end"
+624,"Developer, full-stack"
+625,"Developer, back-end"
+625,"Developer, full-stack"
+627,Designer
+627,"Developer, back-end"
+627,"Developer, front-end"
+627,"Developer, full-stack"
+628,Academic researcher
+629,"Developer, full-stack"
+630,Cloud infrastructure engineer
+630,DevOps specialist
+630,"Developer, QA or test"
+630,"Developer, back-end"
+630,"Developer, full-stack"
+631,Marketing or sales professional
+632,"Developer, QA or test"
+632,"Developer, back-end"
+633,"Developer, back-end"
+634,"Developer, back-end"
+634,Security professional
+635,Blockchain
+635,Data scientist or machine learning specialist
+635,"Developer, QA or test"
+635,"Developer, back-end"
+635,"Developer, embedded applications or devices"
+635,"Developer, front-end"
+635,"Developer, full-stack"
+635,Educator
+635,"Engineer, data"
+635,Scientist
+635,Student
+636,"Developer, full-stack"
+636,Engineering manager
+637,"Developer, back-end"
+637,"Developer, front-end"
+638,"Developer, back-end"
+638,"Developer, desktop or enterprise applications"
+640,Cloud infrastructure engineer
+640,Data or business analyst
+640,Data scientist or machine learning specialist
+640,Database administrator
+640,DevOps specialist
+640,"Developer, QA or test"
+640,"Developer, back-end"
+640,"Developer, front-end"
+640,"Developer, full-stack"
+640,"Developer, mobile"
+641,"Developer, back-end"
+641,"Engineer, data"
+642,"Engineer, data"
+643,"Developer, back-end"
+645,"Developer, back-end"
+645,"Developer, front-end"
+645,"Developer, full-stack"
+646,"Developer, game or graphics"
+647,"Developer, QA or test"
+647,"Developer, back-end"
+647,Project manager
+648,"Developer, full-stack"
+650,"Developer, back-end"
+651,Data scientist or machine learning specialist
+651,"Engineer, data"
+651,Scientist
+652,"Developer, full-stack"
+653,Cloud infrastructure engineer
+653,Educator
+653,Security professional
+653,System administrator
+654,"Developer, QA or test"
+655,Cloud infrastructure engineer
+655,DevOps specialist
+655,"Developer, back-end"
+655,"Engineer, site reliability"
+657,"Developer, full-stack"
+658,Security professional
+659,Academic researcher
+660,"Developer, full-stack"
+661,Security professional
+662,Cloud infrastructure engineer
+662,"Developer, back-end"
+663,"Developer, full-stack"
+664,DevOps specialist
+664,"Developer, back-end"
+664,"Developer, embedded applications or devices"
+665,"Developer, back-end"
+665,"Developer, front-end"
+665,"Developer, full-stack"
+667,Cloud infrastructure engineer
+667,DevOps specialist
+667,"Developer, back-end"
+668,Designer
+668,"Developer, desktop or enterprise applications"
+668,"Developer, full-stack"
+669,Academic researcher
+671,"Developer, back-end"
+671,"Developer, front-end"
+671,"Developer, full-stack"
+672,"Developer, full-stack"
+672,"Senior Executive (C-Suite, VP, etc.)"
+673,"Developer, desktop or enterprise applications"
+673,"Developer, game or graphics"
+674,Cloud infrastructure engineer
+674,"Developer, back-end"
+674,"Developer, full-stack"
+674,"Developer, mobile"
+675,"Developer, back-end"
+676,"Engineer, data"
+677,"Developer, back-end"
+677,Security professional
+678,"Developer, full-stack"
+679,"Developer, back-end"
+680,"Developer, embedded applications or devices"
+680,"Developer, full-stack"
+682,Database administrator
+682,"Developer, QA or test"
+682,"Developer, full-stack"
+682,"Developer, mobile"
+682,Project manager
+683,"Developer, back-end"
+684,"Developer, back-end"
+685,"Developer, back-end"
+685,"Developer, front-end"
+685,"Developer, full-stack"
+685,"Engineer, data"
+686,"Developer, back-end"
+688,"Developer, full-stack"
+689,"Developer, full-stack"
+691,"Developer, back-end"
+693,Cloud infrastructure engineer
+693,"Developer, back-end"
+695,Blockchain
+695,"Developer, back-end"
+696,Data or business analyst
+696,"Developer, back-end"
+696,"Developer, full-stack"
+698,Database administrator
+698,Designer
+698,DevOps specialist
+698,"Developer, back-end"
+698,"Developer, desktop or enterprise applications"
+698,"Developer, front-end"
+698,"Developer, full-stack"
+698,Product manager
+698,Project manager
+698,Security professional
+698,System administrator
+699,"Developer, back-end"
+701,"Developer, back-end"
+701,"Developer, mobile"
+702,"Developer, front-end"
+704,"Developer, back-end"
+706,Other (please specify):
+707,"Developer, back-end"
+708,"Developer, QA or test"
+709,"Developer, desktop or enterprise applications"
+709,"Developer, embedded applications or devices"
+709,"Developer, front-end"
+709,"Developer, full-stack"
+711,"Developer, full-stack"
+711,"Senior Executive (C-Suite, VP, etc.)"
+712,"Developer, QA or test"
+712,"Developer, front-end"
+715,Academic researcher
+715,"Developer, back-end"
+715,"Developer, desktop or enterprise applications"
+715,Project manager
+715,Student
+717,Marketing or sales professional
+718,DevOps specialist
+718,"Developer, QA or test"
+718,"Developer, back-end"
+718,"Developer, desktop or enterprise applications"
+718,"Developer, embedded applications or devices"
+718,"Developer, front-end"
+718,"Developer, full-stack"
+718,"Developer, mobile"
+718,"Engineer, site reliability"
+718,Marketing or sales professional
+718,Product manager
+718,Project manager
+718,Security professional
+718,System administrator
+719,"Developer, back-end"
+719,"Developer, front-end"
+719,"Developer, full-stack"
+719,Student
+720,"Developer, back-end"
+720,"Developer, desktop or enterprise applications"
+720,"Developer, full-stack"
+720,Student
+721,Product manager
+722,"Developer, back-end"
+722,"Developer, desktop or enterprise applications"
+722,"Developer, full-stack"
+723,"Developer, back-end"
+723,"Developer, mobile"
+724,"Developer, back-end"
+724,"Developer, full-stack"
+726,Cloud infrastructure engineer
+726,DevOps specialist
+726,"Developer, back-end"
+726,"Engineer, site reliability"
+726,Security professional
+726,System administrator
+727,Cloud infrastructure engineer
+727,"Developer, back-end"
+728,"Developer, full-stack"
+729,DevOps specialist
+730,Cloud infrastructure engineer
+730,"Engineer, data"
+730,Engineering manager
+730,Product manager
+730,Project manager
+732,"Developer, QA or test"
+733,Database administrator
+733,Designer
+733,"Developer, back-end"
+733,"Developer, front-end"
+733,"Developer, full-stack"
+733,System administrator
+734,"Developer, back-end"
+734,"Senior Executive (C-Suite, VP, etc.)"
+736,"Developer, full-stack"
+737,"Developer, embedded applications or devices"
+738,"Developer, desktop or enterprise applications"
+739,Cloud infrastructure engineer
+739,DevOps specialist
+739,"Developer, back-end"
+739,"Developer, desktop or enterprise applications"
+740,"Developer, back-end"
+741,"Developer, back-end"
+741,"Developer, embedded applications or devices"
+741,"Developer, front-end"
+741,"Developer, full-stack"
+741,"Developer, game or graphics"
+742,Cloud infrastructure engineer
+742,Student
+743,Designer
+743,"Developer, back-end"
+743,"Developer, front-end"
+743,"Developer, full-stack"
+743,"Developer, game or graphics"
+743,Student
+744,Academic researcher
+744,"Developer, back-end"
+744,Educator
+744,Scientist
+744,Student
+744,System administrator
+745,Database administrator
+745,"Developer, back-end"
+746,"Developer, back-end"
+747,"Developer, back-end"
+747,"Developer, desktop or enterprise applications"
+747,Product manager
+749,Data or business analyst
+749,Database administrator
+749,"Developer, QA or test"
+749,"Developer, back-end"
+749,"Developer, desktop or enterprise applications"
+751,"Developer, back-end"
+751,"Engineer, data"
+752,Cloud infrastructure engineer
+752,Security professional
+752,System administrator
+753,"Developer, back-end"
+753,"Developer, desktop or enterprise applications"
+754,Other (please specify):
+755,"Developer, front-end"
+756,Data or business analyst
+756,Database administrator
+756,"Developer, back-end"
+757,"Developer, back-end"
+758,"Developer, QA or test"
+758,"Developer, back-end"
+758,"Developer, desktop or enterprise applications"
+758,"Developer, embedded applications or devices"
+758,"Engineer, site reliability"
+759,"Developer, full-stack"
+759,Engineering manager
+760,Cloud infrastructure engineer
+760,Data or business analyst
+760,Database administrator
+760,Designer
+760,DevOps specialist
+760,"Developer, back-end"
+760,"Developer, full-stack"
+760,Security professional
+761,"Developer, back-end"
+762,Database administrator
+762,"Developer, back-end"
+762,"Developer, front-end"
+762,"Developer, full-stack"
+762,System administrator
+763,"Developer, QA or test"
+763,"Developer, back-end"
+763,"Developer, desktop or enterprise applications"
+763,"Developer, full-stack"
+764,Scientist
+765,Other (please specify):
+766,"Developer, back-end"
+766,"Developer, desktop or enterprise applications"
+766,System administrator
+767,"Developer, back-end"
+768,"Developer, full-stack"
+769,Cloud infrastructure engineer
+769,"Developer, back-end"
+769,"Developer, desktop or enterprise applications"
+769,"Developer, embedded applications or devices"
+770,Student
+771,"Developer, full-stack"
+772,Cloud infrastructure engineer
+772,DevOps specialist
+772,"Developer, full-stack"
+773,"Developer, full-stack"
+774,Cloud infrastructure engineer
+774,Security professional
+775,"Developer, full-stack"
+776,DevOps specialist
+776,"Developer, front-end"
+776,"Developer, full-stack"
+776,"Developer, mobile"
+776,Engineering manager
+776,System administrator
+777,DevOps specialist
+777,"Developer, back-end"
+777,"Developer, front-end"
+777,"Developer, full-stack"
+778,"Developer, embedded applications or devices"
+779,"Developer, front-end"
+779,"Developer, full-stack"
+780,Cloud infrastructure engineer
+780,DevOps specialist
+780,"Developer, back-end"
+781,"Developer, embedded applications or devices"
+781,"Developer, front-end"
+781,"Developer, game or graphics"
+782,"Engineer, site reliability"
+783,DevOps specialist
+783,"Developer, embedded applications or devices"
+784,"Developer, back-end"
+786,Database administrator
+786,Designer
+786,"Developer, back-end"
+786,"Developer, embedded applications or devices"
+786,"Developer, front-end"
+786,"Developer, full-stack"
+786,System administrator
+787,"Developer, back-end"
+788,"Developer, back-end"
+788,Engineering manager
+790,"Developer, QA or test"
+791,Security professional
+792,"Developer, back-end"
+792,"Developer, desktop or enterprise applications"
+795,"Developer, back-end"
+796,"Developer, full-stack"
+797,Cloud infrastructure engineer
+798,Other (please specify):
+798,Student
+799,Data scientist or machine learning specialist
+799,"Developer, back-end"
+799,"Developer, front-end"
+799,"Developer, full-stack"
+799,"Engineer, data"
+799,System administrator
+800,"Developer, embedded applications or devices"
+801,"Developer, back-end"
+802,"Developer, front-end"
+802,"Developer, full-stack"
+803,Academic researcher
+803,Data scientist or machine learning specialist
+803,"Developer, back-end"
+803,Scientist
+803,Student
+804,"Developer, back-end"
+805,Cloud infrastructure engineer
+805,DevOps specialist
+806,"Developer, back-end"
+806,"Developer, game or graphics"
+807,Blockchain
+807,Data or business analyst
+807,"Developer, back-end"
+807,"Engineer, data"
+808,"Developer, back-end"
+809,Other (please specify):
+810,Cloud infrastructure engineer
+810,DevOps specialist
+810,"Engineer, site reliability"
+810,System administrator
+811,"Developer, back-end"
+811,"Developer, desktop or enterprise applications"
+811,"Developer, full-stack"
+812,Other (please specify):
+814,Academic researcher
+814,"Developer, front-end"
+814,"Developer, full-stack"
+814,"Developer, game or graphics"
+814,Educator
+815,"Developer, back-end"
+816,DevOps specialist
+816,"Developer, back-end"
+816,"Developer, front-end"
+816,"Developer, full-stack"
+817,DevOps specialist
+817,"Developer, back-end"
+817,"Developer, desktop or enterprise applications"
+817,"Developer, front-end"
+817,"Developer, full-stack"
+818,"Developer, full-stack"
+818,Educator
+818,Engineering manager
+818,Product manager
+818,Project manager
+819,"Developer, back-end"
+819,"Developer, desktop or enterprise applications"
+820,"Developer, back-end"
+820,"Developer, full-stack"
+821,Designer
+821,"Developer, back-end"
+821,"Developer, full-stack"
+821,Educator
+823,Database administrator
+823,"Developer, full-stack"
+823,Project manager
+826,Cloud infrastructure engineer
+826,"Developer, back-end"
+826,"Engineer, site reliability"
+828,Cloud infrastructure engineer
+828,Database administrator
+828,DevOps specialist
+828,"Developer, back-end"
+828,"Developer, front-end"
+828,"Developer, full-stack"
+828,Engineering manager
+828,"Senior Executive (C-Suite, VP, etc.)"
+829,Cloud infrastructure engineer
+829,"Developer, back-end"
+832,"Developer, desktop or enterprise applications"
+832,"Developer, embedded applications or devices"
+833,"Developer, full-stack"
+833,"Developer, game or graphics"
+833,Project manager
+834,Cloud infrastructure engineer
+835,Academic researcher
+835,Scientist
+835,Student
+838,"Developer, full-stack"
+839,Cloud infrastructure engineer
+839,"Developer, QA or test"
+839,"Developer, back-end"
+840,Academic researcher
+840,"Developer, full-stack"
+841,Cloud infrastructure engineer
+841,Database administrator
+841,DevOps specialist
+841,"Developer, full-stack"
+841,Engineering manager
+841,System administrator
+842,"Developer, full-stack"
+843,"Developer, back-end"
+843,"Developer, desktop or enterprise applications"
+843,"Developer, game or graphics"
+844,"Developer, full-stack"
+844,"Developer, mobile"
+845,"Developer, full-stack"
+846,Database administrator
+846,"Developer, full-stack"
+846,Project manager
+849,Cloud infrastructure engineer
+849,Data scientist or machine learning specialist
+849,Database administrator
+849,"Developer, QA or test"
+849,"Developer, back-end"
+849,"Developer, embedded applications or devices"
+849,"Developer, game or graphics"
+849,"Engineer, data"
+849,"Engineer, site reliability"
+849,Engineering manager
+849,Product manager
+849,Project manager
+849,System administrator
+851,Academic researcher
+851,"Developer, desktop or enterprise applications"
+851,"Developer, game or graphics"
+851,Educator
+851,Scientist
+852,Cloud infrastructure engineer
+852,"Developer, back-end"
+852,"Engineer, data"
+853,Data or business analyst
+853,"Developer, back-end"
+854,Cloud infrastructure engineer
+854,"Developer, back-end"
+855,"Developer, desktop or enterprise applications"
+855,"Developer, full-stack"
+857,"Developer, full-stack"
+858,Cloud infrastructure engineer
+858,DevOps specialist
+858,"Developer, back-end"
+858,Engineering manager
+859,"Developer, full-stack"
+859,Educator
+859,Student
+860,DevOps specialist
+860,"Developer, back-end"
+860,"Developer, front-end"
+860,"Developer, full-stack"
+862,"Developer, front-end"
+862,"Developer, full-stack"
+864,"Developer, full-stack"
+865,"Developer, front-end"
+866,Academic researcher
+866,"Developer, embedded applications or devices"
+866,Security professional
+866,Student
+868,"Engineer, data"
+869,"Developer, desktop or enterprise applications"
+869,"Developer, game or graphics"
+870,"Developer, back-end"
+871,Database administrator
+871,"Developer, back-end"
+871,"Developer, desktop or enterprise applications"
+871,"Developer, full-stack"
+871,Engineering manager
+871,Product manager
+871,Project manager
+871,System administrator
+872,Student
+873,"Developer, back-end"
+874,DevOps specialist
+874,"Developer, back-end"
+874,"Developer, front-end"
+874,"Developer, full-stack"
+874,"Developer, mobile"
+874,System administrator
+877,"Developer, back-end"
+877,"Engineer, site reliability"
+877,System administrator
+878,"Developer, full-stack"
+879,"Developer, full-stack"
+881,"Developer, full-stack"
+882,DevOps specialist
+882,"Developer, back-end"
+882,"Engineer, site reliability"
+883,"Developer, back-end"
+884,Academic researcher
+884,Data scientist or machine learning specialist
+884,"Developer, desktop or enterprise applications"
+884,"Developer, full-stack"
+884,"Engineer, data"
+884,System administrator
+886,"Developer, desktop or enterprise applications"
+886,"Developer, full-stack"
+886,Project manager
+887,"Developer, full-stack"
+889,"Developer, back-end"
+889,"Developer, embedded applications or devices"
+889,"Developer, front-end"
+889,"Developer, full-stack"
+891,"Developer, back-end"
+892,Designer
+892,"Developer, back-end"
+892,"Developer, desktop or enterprise applications"
+892,"Developer, front-end"
+892,"Developer, full-stack"
+893,"Developer, front-end"
+895,"Developer, back-end"
+895,"Developer, full-stack"
+896,"Developer, back-end"
+896,"Developer, front-end"
+896,"Developer, full-stack"
+896,"Developer, mobile"
+897,"Developer, back-end"
+898,"Developer, back-end"
+898,"Developer, embedded applications or devices"
+898,Student
+899,Database administrator
+899,Designer
+899,"Developer, back-end"
+899,"Developer, desktop or enterprise applications"
+899,"Developer, front-end"
+899,"Developer, full-stack"
+902,"Developer, back-end"
+904,Other (please specify):
+904,Student
+905,DevOps specialist
+905,"Engineer, site reliability"
+905,"Senior Executive (C-Suite, VP, etc.)"
+908,"Developer, full-stack"
+908,Engineering manager
+911,"Developer, full-stack"
+912,Academic researcher
+912,Security professional
+913,"Developer, front-end"
+915,Product manager
+916,"Developer, full-stack"
+917,"Developer, back-end"
+918,"Developer, full-stack"
+918,Student
+919,"Developer, back-end"
+919,"Developer, front-end"
+919,"Developer, full-stack"
+919,"Developer, game or graphics"
+919,Engineering manager
+919,Scientist
+919,System administrator
+920,Cloud infrastructure engineer
+920,"Developer, QA or test"
+920,"Developer, desktop or enterprise applications"
+922,Other (please specify):
+922,Scientist
+922,Student
+923,Cloud infrastructure engineer
+923,"Developer, back-end"
+923,"Developer, desktop or enterprise applications"
+923,"Developer, embedded applications or devices"
+925,"Developer, back-end"
+926,"Developer, QA or test"
+926,"Developer, back-end"
+926,"Developer, desktop or enterprise applications"
+926,"Developer, embedded applications or devices"
+927,"Developer, QA or test"
+927,"Developer, back-end"
+927,"Developer, full-stack"
+928,Blockchain
+928,"Developer, back-end"
+928,"Developer, front-end"
+928,"Developer, full-stack"
+930,"Developer, desktop or enterprise applications"
+930,"Developer, full-stack"
+931,Database administrator
+931,"Developer, desktop or enterprise applications"
+931,"Developer, embedded applications or devices"
+931,"Developer, full-stack"
+931,Student
+931,System administrator
+932,"Developer, full-stack"
+932,Student
+935,"Developer, front-end"
+935,"Developer, full-stack"
+936,"Developer, desktop or enterprise applications"
+936,"Developer, full-stack"
+938,Engineering manager
+939,"Developer, back-end"
+939,"Developer, front-end"
+939,"Developer, full-stack"
+939,"Developer, mobile"
+939,Engineering manager
+939,"Senior Executive (C-Suite, VP, etc.)"
+940,"Developer, back-end"
+940,"Developer, desktop or enterprise applications"
+940,"Developer, front-end"
+940,"Developer, full-stack"
+940,"Developer, mobile"
+940,Educator
+941,Blockchain
+941,DevOps specialist
+941,"Developer, back-end"
+942,Project manager
+942,Student
+943,"Developer, full-stack"
+944,"Developer, back-end"
+945,Engineering manager
+945,"Senior Executive (C-Suite, VP, etc.)"
+947,"Developer, mobile"
+948,Data or business analyst
+948,"Developer, back-end"
+948,"Developer, front-end"
+948,"Developer, full-stack"
+948,Product manager
+948,Project manager
+949,"Developer, QA or test"
+949,"Developer, back-end"
+949,"Developer, full-stack"
+949,Engineering manager
+950,"Developer, back-end"
+951,"Developer, full-stack"
+953,"Developer, desktop or enterprise applications"
+954,"Developer, back-end"
+954,"Developer, full-stack"
+955,Academic researcher
+956,Security professional
+958,"Developer, full-stack"
+959,"Developer, back-end"
+959,"Developer, desktop or enterprise applications"
+959,"Engineer, data"
+961,"Developer, back-end"
+962,Cloud infrastructure engineer
+963,"Developer, back-end"
+963,"Engineer, data"
+965,DevOps specialist
+965,"Developer, back-end"
+965,"Developer, front-end"
+965,"Developer, full-stack"
+965,System administrator
+966,Cloud infrastructure engineer
+966,DevOps specialist
+966,"Developer, QA or test"
+966,"Developer, back-end"
+966,"Engineer, data"
+966,Security professional
+967,"Developer, full-stack"
+968,Database administrator
+968,DevOps specialist
+968,"Developer, full-stack"
+968,System administrator
+969,"Developer, back-end"
+970,"Developer, full-stack"
+971,Blockchain
+971,"Developer, back-end"
+971,Other (please specify):
+971,Scientist
+972,"Developer, front-end"
+973,Database administrator
+973,"Developer, QA or test"
+973,"Developer, desktop or enterprise applications"
+974,Security professional
+976,"Developer, desktop or enterprise applications"
+976,"Developer, full-stack"
+977,Designer
+977,"Developer, full-stack"
+977,"Senior Executive (C-Suite, VP, etc.)"
+978,Designer
+978,"Developer, back-end"
+978,"Developer, desktop or enterprise applications"
+978,"Developer, embedded applications or devices"
+978,"Developer, front-end"
+978,"Developer, full-stack"
+979,"Developer, full-stack"
+980,Cloud infrastructure engineer
+980,"Developer, back-end"
+980,Product manager
+981,"Developer, back-end"
+981,Other (please specify):
+982,"Developer, embedded applications or devices"
+983,"Developer, full-stack"
+983,Project manager
+984,"Developer, back-end"
+984,"Developer, front-end"
+984,"Developer, full-stack"
+985,"Developer, full-stack"
+987,"Developer, front-end"
+987,Engineering manager
+988,Blockchain
+988,Cloud infrastructure engineer
+988,DevOps specialist
+988,"Developer, back-end"
+989,DevOps specialist
+989,"Developer, back-end"
+989,"Developer, embedded applications or devices"
+990,"Developer, back-end"
+990,"Developer, desktop or enterprise applications"
+990,"Developer, full-stack"
+990,Student
+992,Cloud infrastructure engineer
+992,DevOps specialist
+992,"Developer, back-end"
+992,"Developer, embedded applications or devices"
+992,Engineering manager
+992,Security professional
+993,Designer
+993,"Developer, back-end"
+993,"Developer, front-end"
+993,"Developer, full-stack"
+994,Cloud infrastructure engineer
+994,DevOps specialist
+994,"Developer, back-end"
+994,"Developer, desktop or enterprise applications"
+994,"Developer, embedded applications or devices"
+994,"Developer, front-end"
+994,"Developer, full-stack"
+994,"Developer, mobile"
+994,Engineering manager
+994,Security professional
+994,System administrator
+995,"Developer, full-stack"
+996,"Senior Executive (C-Suite, VP, etc.)"
+997,Cloud infrastructure engineer
+997,DevOps specialist
+997,"Engineer, site reliability"
+997,Security professional
+998,"Developer, back-end"
+1000,"Developer, back-end"
+1000,"Developer, desktop or enterprise applications"
+1002,Cloud infrastructure engineer
+1002,Data or business analyst
+1002,Database administrator
+1002,Designer
+1002,DevOps specialist
+1002,"Developer, QA or test"
+1002,"Developer, back-end"
+1002,"Developer, desktop or enterprise applications"
+1002,"Developer, embedded applications or devices"
+1002,"Developer, front-end"
+1002,"Developer, full-stack"
+1002,"Developer, game or graphics"
+1002,"Developer, mobile"
+1002,Educator
+1002,Engineering manager
+1002,Product manager
+1002,Project manager
+1002,"Senior Executive (C-Suite, VP, etc.)"
+1002,System administrator
+1003,"Developer, back-end"
+1004,"Developer, back-end"
+1005,"Developer, back-end"
+1006,Cloud infrastructure engineer
+1006,DevOps specialist
+1006,"Developer, back-end"
+1006,"Engineer, site reliability"
+1007,Designer
+1007,"Developer, full-stack"
+1007,"Developer, mobile"
+1008,Data scientist or machine learning specialist
+1008,"Developer, back-end"
+1008,Engineering manager
+1008,"Senior Executive (C-Suite, VP, etc.)"
+1009,Academic researcher
+1009,Cloud infrastructure engineer
+1009,Data or business analyst
+1009,Data scientist or machine learning specialist
+1009,Database administrator
+1009,DevOps specialist
+1009,"Developer, back-end"
+1009,"Developer, front-end"
+1009,"Developer, full-stack"
+1009,"Engineer, data"
+1009,Engineering manager
+1009,Scientist
+1009,System administrator
+1010,"Developer, front-end"
+1010,"Developer, full-stack"
+1010,Security professional
+1011,"Developer, back-end"
+1011,"Developer, desktop or enterprise applications"
+1011,"Developer, front-end"
+1011,"Developer, full-stack"
+1012,Database administrator
+1012,"Developer, QA or test"
+1012,"Developer, back-end"
+1012,"Developer, desktop or enterprise applications"
+1013,"Developer, back-end"
+1013,"Developer, game or graphics"
+1014,"Developer, mobile"
+1015,"Developer, back-end"
+1015,"Developer, desktop or enterprise applications"
+1015,"Developer, embedded applications or devices"
+1015,"Developer, mobile"
+1015,Other (please specify):
+1016,"Developer, desktop or enterprise applications"
+1016,Project manager
+1016,System administrator
+1017,"Developer, back-end"
+1017,Student
+1019,"Developer, back-end"
+1019,"Developer, full-stack"
+1019,Student
+1020,Blockchain
+1020,"Developer, back-end"
+1020,Engineering manager
+1020,"Senior Executive (C-Suite, VP, etc.)"
+1021,"Developer, front-end"
+1021,"Developer, full-stack"
+1021,Engineering manager
+1022,"Developer, full-stack"
+1022,Engineering manager
+1023,"Developer, full-stack"
+1023,"Engineer, data"
+1024,Cloud infrastructure engineer
+1024,"Developer, back-end"
+1024,"Engineer, data"
+1025,Cloud infrastructure engineer
+1025,Database administrator
+1025,DevOps specialist
+1025,"Developer, back-end"
+1025,"Developer, front-end"
+1025,"Developer, full-stack"
+1025,"Developer, mobile"
+1025,Project manager
+1025,Security professional
+1025,System administrator
+1027,"Developer, full-stack"
+1027,Engineering manager
+1028,Academic researcher
+1028,"Engineer, data"
+1028,Scientist
+1029,Cloud infrastructure engineer
+1029,DevOps specialist
+1029,"Developer, back-end"
+1029,Engineering manager
+1029,Product manager
+1029,"Senior Executive (C-Suite, VP, etc.)"
+1030,"Developer, back-end"
+1032,"Developer, embedded applications or devices"
+1032,Security professional
+1034,Database administrator
+1034,Designer
+1034,DevOps specialist
+1034,"Developer, full-stack"
+1034,"Developer, mobile"
+1036,Designer
+1036,DevOps specialist
+1036,"Developer, back-end"
+1036,"Developer, front-end"
+1036,"Developer, full-stack"
+1036,"Developer, mobile"
+1037,"Developer, back-end"
+1037,"Developer, full-stack"
+1038,DevOps specialist
+1038,"Developer, QA or test"
+1038,"Developer, back-end"
+1038,"Developer, desktop or enterprise applications"
+1038,"Developer, front-end"
+1038,"Developer, full-stack"
+1038,"Developer, mobile"
+1038,System administrator
+1039,Academic researcher
+1039,Scientist
+1039,Student
+1040,"Developer, full-stack"
+1040,System administrator
+1041,"Developer, full-stack"
+1042,"Developer, desktop or enterprise applications"
+1043,"Developer, back-end"
+1043,"Developer, front-end"
+1043,"Developer, full-stack"
+1043,Educator
+1044,"Developer, full-stack"
+1046,Cloud infrastructure engineer
+1046,"Developer, back-end"
+1047,"Developer, back-end"
+1048,Database administrator
+1048,"Developer, full-stack"
+1048,System administrator
+1049,"Developer, game or graphics"
+1050,"Developer, back-end"
+1050,Security professional
+1050,System administrator
+1051,"Developer, back-end"
+1052,Product manager
+1053,Other (please specify):
+1055,"Developer, desktop or enterprise applications"
+1056,"Developer, back-end"
+1057,Cloud infrastructure engineer
+1057,"Developer, back-end"
+1057,"Developer, front-end"
+1057,"Developer, game or graphics"
+1057,"Engineer, site reliability"
+1058,"Developer, back-end"
+1058,"Developer, embedded applications or devices"
+1058,"Developer, mobile"
+1058,"Senior Executive (C-Suite, VP, etc.)"
+1059,"Developer, full-stack"
+1060,"Developer, QA or test"
+1060,"Developer, back-end"
+1060,Educator
+1060,Student
+1061,Student
+1062,Data scientist or machine learning specialist
+1062,Security professional
+1063,"Developer, front-end"
+1063,"Developer, full-stack"
+1065,DevOps specialist
+1065,"Developer, embedded applications or devices"
+1067,"Developer, full-stack"
+1068,Blockchain
+1068,"Developer, back-end"
+1069,"Developer, embedded applications or devices"
+1070,Academic researcher
+1070,Scientist
+1071,Student
+1073,Cloud infrastructure engineer
+1073,"Developer, full-stack"
+1073,"Engineer, data"
+1073,Engineering manager
+1073,"Senior Executive (C-Suite, VP, etc.)"
+1074,Designer
+1074,DevOps specialist
+1074,"Developer, back-end"
+1074,"Developer, desktop or enterprise applications"
+1074,"Developer, front-end"
+1074,Educator
+1075,"Developer, embedded applications or devices"
+1076,"Developer, full-stack"
+1078,"Developer, full-stack"
+1079,"Developer, back-end"
+1081,"Developer, back-end"
+1081,"Developer, desktop or enterprise applications"
+1081,"Developer, full-stack"
+1081,System administrator
+1082,"Developer, back-end"
+1082,"Developer, front-end"
+1082,"Developer, full-stack"
+1083,"Developer, desktop or enterprise applications"
+1083,"Developer, full-stack"
+1084,"Developer, game or graphics"
+1086,"Developer, back-end"
+1086,Security professional
+1088,"Developer, back-end"
+1088,"Developer, embedded applications or devices"
+1088,"Developer, full-stack"
+1089,Data scientist or machine learning specialist
+1090,"Developer, back-end"
+1090,"Developer, desktop or enterprise applications"
+1090,"Developer, full-stack"
+1091,Other (please specify):
+1093,Designer
+1093,"Developer, back-end"
+1093,"Developer, front-end"
+1093,"Developer, full-stack"
+1094,Data or business analyst
+1094,Scientist
+1094,Student
+1095,Academic researcher
+1095,Educator
+1095,Scientist
+1095,Security professional
+1095,Student
+1096,"Developer, front-end"
+1097,"Developer, desktop or enterprise applications"
+1098,"Developer, back-end"
+1099,Database administrator
+1099,"Developer, full-stack"
+1099,Project manager
+1100,Designer
+1100,DevOps specialist
+1100,"Developer, QA or test"
+1100,"Developer, front-end"
+1100,"Developer, full-stack"
+1101,"Developer, back-end"
+1101,"Developer, full-stack"
+1102,Cloud infrastructure engineer
+1102,"Developer, full-stack"
+1103,DevOps specialist
+1103,"Developer, full-stack"
+1104,"Developer, QA or test"
+1104,"Developer, full-stack"
+1105,"Developer, back-end"
+1105,"Developer, desktop or enterprise applications"
+1105,"Developer, embedded applications or devices"
+1105,"Developer, game or graphics"
+1106,"Developer, mobile"
+1107,Cloud infrastructure engineer
+1107,Database administrator
+1107,"Developer, back-end"
+1107,Product manager
+1107,Project manager
+1107,"Senior Executive (C-Suite, VP, etc.)"
+1108,"Engineer, data"
+1109,"Developer, embedded applications or devices"
+1109,"Engineer, data"
+1110,"Developer, back-end"
+1110,"Developer, front-end"
+1110,"Developer, full-stack"
+1111,"Developer, embedded applications or devices"
+1112,"Developer, desktop or enterprise applications"
+1112,"Developer, embedded applications or devices"
+1112,"Developer, game or graphics"
+1113,"Developer, back-end"
+1113,"Developer, front-end"
+1113,"Developer, full-stack"
+1114,"Developer, back-end"
+1114,"Developer, embedded applications or devices"
+1115,DevOps specialist
+1115,"Developer, back-end"
+1115,"Engineer, site reliability"
+1116,Data scientist or machine learning specialist
+1116,Designer
+1116,"Developer, desktop or enterprise applications"
+1116,"Developer, embedded applications or devices"
+1116,"Developer, full-stack"
+1116,"Developer, mobile"
+1116,"Engineer, data"
+1116,Product manager
+1118,"Developer, embedded applications or devices"
+1119,"Developer, game or graphics"
+1119,"Senior Executive (C-Suite, VP, etc.)"
+1120,DevOps specialist
+1120,"Developer, back-end"
+1120,"Developer, embedded applications or devices"
+1120,System administrator
+1121,Cloud infrastructure engineer
+1121,Database administrator
+1121,"Developer, back-end"
+1121,"Developer, desktop or enterprise applications"
+1121,"Developer, front-end"
+1121,"Developer, full-stack"
+1121,"Developer, mobile"
+1122,Other (please specify):
+1123,"Developer, desktop or enterprise applications"
+1123,Student
+1124,"Developer, back-end"
+1124,"Developer, front-end"
+1124,"Developer, full-stack"
+1125,Academic researcher
+1125,Data or business analyst
+1125,Designer
+1125,"Developer, desktop or enterprise applications"
+1125,"Developer, full-stack"
+1125,"Developer, mobile"
+1125,Product manager
+1125,Project manager
+1125,Student
+1126,"Developer, back-end"
+1126,"Developer, front-end"
+1126,"Developer, full-stack"
+1127,Data or business analyst
+1127,"Developer, QA or test"
+1127,"Developer, back-end"
+1129,"Developer, full-stack"
+1129,"Developer, mobile"
+1130,"Developer, desktop or enterprise applications"
+1130,Product manager
+1131,"Developer, QA or test"
+1131,"Developer, back-end"
+1131,"Developer, front-end"
+1131,"Developer, full-stack"
+1132,Data scientist or machine learning specialist
+1132,"Developer, desktop or enterprise applications"
+1133,"Developer, back-end"
+1133,"Developer, full-stack"
+1134,"Developer, full-stack"
+1135,"Developer, full-stack"
+1136,Student
+1137,"Developer, game or graphics"
+1138,Cloud infrastructure engineer
+1138,"Developer, back-end"
+1138,"Developer, full-stack"
+1138,Project manager
+1139,Academic researcher
+1139,Data scientist or machine learning specialist
+1139,Educator
+1139,Other (please specify):
+1139,Scientist
+1140,Database administrator
+1140,Designer
+1140,"Developer, back-end"
+1140,"Developer, desktop or enterprise applications"
+1140,"Developer, front-end"
+1140,"Developer, full-stack"
+1141,"Developer, back-end"
+1141,"Developer, front-end"
+1143,Student
+1144,Product manager
+1145,"Developer, back-end"
+1145,Educator
+1146,"Developer, full-stack"
+1149,Student
+1150,"Developer, back-end"
+1150,"Developer, desktop or enterprise applications"
+1151,Blockchain
+1151,"Developer, desktop or enterprise applications"
+1152,"Developer, back-end"
+1153,"Developer, QA or test"
+1153,Other (please specify):
+1154,Data or business analyst
+1154,Data scientist or machine learning specialist
+1154,Database administrator
+1154,"Developer, back-end"
+1154,"Developer, desktop or enterprise applications"
+1154,System administrator
+1155,Cloud infrastructure engineer
+1156,"Developer, full-stack"
+1156,"Developer, game or graphics"
+1157,"Developer, back-end"
+1158,Database administrator
+1158,"Developer, back-end"
+1158,"Developer, front-end"
+1158,"Developer, full-stack"
+1158,System administrator
+1159,"Developer, full-stack"
+1159,"Engineer, site reliability"
+1160,Student
+1160,System administrator
+1161,"Developer, game or graphics"
+1162,"Developer, full-stack"
+1162,Engineering manager
+1163,"Developer, back-end"
+1164,DevOps specialist
+1164,"Developer, back-end"
+1164,"Developer, full-stack"
+1165,"Developer, back-end"
+1165,"Developer, front-end"
+1165,Student
+1166,"Developer, full-stack"
+1166,"Developer, mobile"
+1167,"Developer, desktop or enterprise applications"
+1167,"Developer, front-end"
+1167,"Developer, full-stack"
+1167,"Developer, mobile"
+1168,Cloud infrastructure engineer
+1168,DevOps specialist

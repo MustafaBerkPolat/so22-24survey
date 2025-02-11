@@ -1,0 +1,1001 @@
+EdLevel,YearsCode,YearsCodePro,WorkExp,OrgSize,Country,Currency,ConvertedCompYearly,ResponseId
+,,,,,Canada,CAD	Canadian dollar,,1
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",14,5,,20 to 99 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,40205.0,2
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",20,17,,100 to 499 employees,Israel,ILS	Israeli new shekel,215232.0,3
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",8,3,,20 to 99 employees,United States of America,USD	United States dollar,,4
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",15,,,,Germany,,,5
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",3,,,,India,,,6
+Some college/university study without earning a degree,1,,,,India,,,7
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",6,6,6.0,I don’t know,Netherlands,EUR European Euro,49056.0,8
+Some college/university study without earning a degree,37,30,,"Just me - I am a freelancer, sole proprietor, etc.",Croatia,HRK	Croatian kuna,,9
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",5,2,,100 to 499 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,60307.0,10
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",12,10,14.0,20 to 99 employees,United States of America,USD	United States dollar,194400.0,11
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",12,5,5.0,2 to 9 employees,United States of America,USD	United States dollar,65000.0,12
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",22,15,15.0,20 to 99 employees,Australia,AUD	Australian dollar,,13
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",11,5,5.0,"5,000 to 9,999 employees",United States of America,USD	United States dollar,110000.0,14
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",4,4,,"Just me - I am a freelancer, sole proprietor, etc.",Russian Federation,RUB	Russian ruble,,15
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",7,4,,2 to 9 employees,Czech Republic,CZK	Czech koruna,19224.0,16
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",13,10,,"1,000 to 4,999 employees",Austria,EUR European Euro,202623.0,17
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",36,22,,100 to 499 employees,Austria,EUR European Euro,51192.0,18
+Some college/university study without earning a degree,2,,,,Serbia,,,19
+Some college/university study without earning a degree,1,,,,Austria,,,20
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",5,4,4.0,20 to 99 employees,Italy,EUR European Euro,34126.0,21
+Something else,25,20,23.0,100 to 499 employees,Canada,CAD	Canadian dollar,97605.0,22
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",10,6,,20 to 99 employees,Netherlands,EUR European Euro,,23
+Some college/university study without earning a degree,40,40,,"Just me - I am a freelancer, sole proprietor, etc.",Israel,ILS	Israeli new shekel,,24
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",16,9,9.0,20 to 99 employees,Germany,EUR European Euro,90647.0,25
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",10,5,,20 to 99 employees,United States of America,USD	United States dollar,106960.0,26
+Something else,4,,,,Israel,,,27
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",20,14,14.0,"10,000 or more employees",United States of America,USD	United States dollar,130000.0,28
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",27,22,22.0,"Just me - I am a freelancer, sole proprietor, etc.",Ireland,EUR European Euro,1663644.0,29
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",24,21,21.0,"10,000 or more employees",United States of America,USD	United States dollar,102000.0,31
+Primary/elementary school,3,,,,Canada,,,32
+Some college/university study without earning a degree,8,,,,Israel,,,33
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",6,5,6.0,100 to 499 employees,Poland,PLN	Polish zloty,83256.0,34
+"Other doctoral degree (Ph.D., Ed.D., etc.)",16,,,,Israel,,,35
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",12,7,5.0,20 to 99 employees,Canada,CAD	Canadian dollar,,36
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",19,14,,"Just me - I am a freelancer, sole proprietor, etc.",Israel,ILS	Israeli new shekel,,37
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",2,,,,Slovenia,,,38
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",24,18,,2 to 9 employees,Czech Republic,CZK	Czech koruna,,39
+"Associate degree (A.A., A.S., etc.)",20,15,,100 to 499 employees,United States of America,USD	United States dollar,130000.0,40
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",3,3,3.0,20 to 99 employees,Israel,ILS	Israeli new shekel,68160.0,41
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",4,,,,Iraq,,,42
+Some college/university study without earning a degree,15,,,,Sweden,,,43
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",6,,,,Austria,,,44
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",4,3,3.0,500 to 999 employees,Madagascar,EUR European Euro,5124.0,45
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",7,,,,Norway,,,46
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",6,5,5.0,"1,000 to 4,999 employees",United States of America,USD	United States dollar,135000.0,47
+Some college/university study without earning a degree,40,25,28.0,20 to 99 employees,Germany,EUR European Euro,106644.0,48
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",7,4,7.0,100 to 499 employees,Germany,EUR European Euro,51192.0,49
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",11,,4.0,,Czech Republic,,,50
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",7,3,3.0,20 to 99 employees,Poland,PLN	Polish zloty,38856.0,51
+Some college/university study without earning a degree,8,,,,Czech Republic,,,52
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",15,10,12.0,100 to 499 employees,United States of America,USD	United States dollar,170000.0,53
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",12,7,7.0,20 to 99 employees,Norway,NOK	Norwegian krone,103705.0,54
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",9,5,5.0,100 to 499 employees,United States of America,USD	United States dollar,141000.0,55
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",8,3,3.0,100 to 499 employees,Taiwan,TWD	New Taiwan dollar,55163.0,56
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",16,8,8.0,20 to 99 employees,Netherlands,EUR European Euro,46704.0,57
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",10,6,6.0,20 to 99 employees,Hong Kong (S.A.R.),HKD	Hong Kong dollar,,58
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",4,2,2.0,100 to 499 employees,Germany,EUR European Euro,63986.0,59
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",17,4,4.0,2 to 9 employees,Canada,CAD	Canadian dollar,66372.0,60
+Some college/university study without earning a degree,2,,,,Mexico,,,61
+"Professional degree (JD, MD, etc.)",14,14,,I don’t know,France,EUR European Euro,74651.0,62
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",18,12,,500 to 999 employees,United States of America,USD	United States dollar,150000.0,63
+"Associate degree (A.A., A.S., etc.)",7,,,,France,,,64
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",3,2,2.0,"10,000 or more employees",India,INR	Indian rupee,,65
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",25,20,20.0,"1,000 to 4,999 employees",Brazil,BRL	Brazilian real,24924.0,66
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",26,,,,Australia,,,67
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",3,,,,Lithuania,,,68
+Some college/university study without earning a degree,17,15,15.0,20 to 99 employees,Uruguay,UYU	Uruguayan peso,38808.0,69
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",4,3,,10 to 19 employees,Serbia,RSD	Serbian dinar,,70
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",5,,,,Poland,,,71
+"Associate degree (A.A., A.S., etc.)",24,22,22.0,,United States of America,,,72
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",10,2,5.0,"10,000 or more employees",Germany,EUR European Euro,63986.0,73
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",9,6,,10 to 19 employees,Sweden,SEK	Swedish krona,50220.0,74
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",6,,,,Germany,,,75
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",24,20,27.0,500 to 999 employees,United States of America,USD	United States dollar,160000.0,76
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",More than 50 years,45,,,United Kingdom of Great Britain and Northern Ireland,,,77
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",6,1,1.0,20 to 99 employees,Serbia,RSD	Serbian dinar,,78
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",16,10,10.0,20 to 99 employees,France,EUR European Euro,87448.0,79
+Primary/elementary school,20,15,,"Just me - I am a freelancer, sole proprietor, etc.",Denmark,DKK	Danish krone,,80
+"Associate degree (A.A., A.S., etc.)",1,,,,Netherlands,,,81
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",15,,,,Germany,,,82
+Some college/university study without earning a degree,29,20,22.0,100 to 499 employees,Uruguay,USD	United States dollar,150000.0,83
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",12,7,7.0,20 to 99 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,69102.0,84
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",10,7,7.0,100 to 499 employees,United States of America,USD	United States dollar,95000.0,85
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",13,8,9.0,100 to 499 employees,Spain,EUR European Euro,95979.0,87
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",7,6,,100 to 499 employees,Germany,EUR European Euro,71451.0,88
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",16,5,6.0,"1,000 to 4,999 employees",Sweden,SEK	Swedish krona,57288.0,89
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",5,5,9.0,20 to 99 employees,France,EUR European Euro,63986.0,90
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",30,19,19.0,100 to 499 employees,France,EUR European Euro,63986.0,91
+"Other doctoral degree (Ph.D., Ed.D., etc.)",5,1,,"10,000 or more employees",Israel,ILS	Israeli new shekel,,92
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",9,5,5.0,10 to 19 employees,United States of America,USD	United States dollar,166000.0,93
+"Other doctoral degree (Ph.D., Ed.D., etc.)",6,3,,20 to 99 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,52769.0,94
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",7,4,4.0,100 to 499 employees,United States of America,USD	United States dollar,92000.0,95
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",6,6,7.0,20 to 99 employees,Israel,ILS	Israeli new shekel,143484.0,96
+Some college/university study without earning a degree,26,22,22.0,100 to 499 employees,United States of America,USD	United States dollar,450000.0,97
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",,,,,Egypt,EGP	Egyptian pound,,98
+"Associate degree (A.A., A.S., etc.)",11,7,,"10,000 or more employees",Turkey,TRY	Turkish lira,12024.0,99
+Primary/elementary school,11,,,,South Africa,,,100
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",6,1,1.0,"10,000 or more employees",Germany,EUR European Euro,79983.0,101
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",7,4,4.0,10 to 19 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,47743.0,102
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",22,17,,100 to 499 employees,United States of America,USD	United States dollar,200000.0,103
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",6,4,4.0,500 to 999 employees,Israel,ILS	Israeli new shekel,,104
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",6,5,10.0,100 to 499 employees,Italy,EUR European Euro,93420.0,105
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",3,,,,Canada,,,106
+Some college/university study without earning a degree,7,5,13.0,100 to 499 employees,United States of America,USD	United States dollar,35000.0,107
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",8,7,,100 to 499 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,75384.0,108
+Some college/university study without earning a degree,10,8,8.0,20 to 99 employees,Spain,EUR European Euro,44790.0,109
+"Associate degree (A.A., A.S., etc.)",4,,,,Ukraine,,,110
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",17,10,10.0,"10,000 or more employees",United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,78525.0,111
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",32,20,20.0,"10,000 or more employees",Poland,PLN	Polish zloty,76313.0,112
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",27,25,30.0,"1,000 to 4,999 employees",United States of America,USD	United States dollar,130000.0,113
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",14,12,12.0,"10,000 or more employees",Uruguay,UYU	Uruguayan peso,26868.0,114
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",7,3,3.0,100 to 499 employees,United States of America,USD	United States dollar,110000.0,115
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",30,,,,United Kingdom of Great Britain and Northern Ireland,,,116
+Some college/university study without earning a degree,32,28,28.0,10 to 19 employees,United States of America,USD	United States dollar,6000000.0,117
+Some college/university study without earning a degree,2,,,,Denmark,,,118
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",20,,14.0,,Finland,,,119
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",7,4,4.0,500 to 999 employees,Canada,CAD	Canadian dollar,66372.0,120
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",4,4,5.0,20 to 99 employees,Sweden,SEK	Swedish krona,81672.0,121
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",7,3,3.0,"10,000 or more employees",Romania,RON	Romanian leu,45300.0,122
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",15,12,15.0,100 to 499 employees,Italy,EUR European Euro,21120.0,123
+Some college/university study without earning a degree,10,,,,United Kingdom of Great Britain and Northern Ireland,,,124
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",10,2,,I don’t know,Israel,ILS	Israeli new shekel,,125
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",12,5,5.0,"10,000 or more employees",Canada,CAD	Canadian dollar,78084.0,126
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",10,5,,"Just me - I am a freelancer, sole proprietor, etc.",Brazil,BRL	Brazilian real,,127
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",4,,,,United Kingdom of Great Britain and Northern Ireland,,,128
+Some college/university study without earning a degree,7,,,,Portugal,,,129
+Some college/university study without earning a degree,22,15,,20 to 99 employees,Italy,EUR European Euro,614268.0,130
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",22,22,,500 to 999 employees,United States of America,USD	United States dollar,,131
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",5,5,5.0,"10,000 or more employees",United States of America,USD	United States dollar,98000.0,132
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",26,24,,100 to 499 employees,United States of America,USD	United States dollar,144000.0,133
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",Less than 1 year,,1.0,,Brazil,,,134
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",24,20,,500 to 999 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,123127.0,135
+Some college/university study without earning a degree,10,,,,United States of America,,,136
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",8,1,1.0,10 to 19 employees,Netherlands,EUR European Euro,,137
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",12,10,10.0,"10,000 or more employees",Israel,ILS	Israeli new shekel,197292.0,138
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",19,,,,United States of America,,,139
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",13,12,12.0,"10,000 or more employees",India,INR	Indian rupee,,140
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",5,3,,"10,000 or more employees",Sweden,SEK	Swedish krona,,141
+"Other doctoral degree (Ph.D., Ed.D., etc.)",20,8,,"10,000 or more employees",Singapore,SGD	Singapore dollar,1571124.0,142
+Some college/university study without earning a degree,20,15,15.0,20 to 99 employees,Uruguay,USD	United States dollar,103500.0,143
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",7,1,1.0,100 to 499 employees,Canada,CAD	Canadian dollar,35138.0,144
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",18,11,,500 to 999 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,80409.0,145
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",18,14,,500 to 999 employees,Austria,EUR European Euro,,147
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",6,5,5.0,500 to 999 employees,France,EUR European Euro,,148
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",14,,,,Turkey,,,149
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",20,15,,100 to 499 employees,Portugal,EUR European Euro,,150
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",12,12,12.0,"10,000 or more employees",India,INR	Indian rupee,15480.0,151
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",6,4,6.0,20 to 99 employees,Oman,SAR	Saudi Arabian riyal,,152
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",15,11,11.0,"1,000 to 4,999 employees",United States of America,USD	United States dollar,200000.0,153
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",14,7,7.0,500 to 999 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,904608.0,154
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",6,1,,"1,000 to 4,999 employees",United States of America,USD	United States dollar,132000.0,155
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",18,9,,"1,000 to 4,999 employees",Belgium,EUR European Euro,63984.0,156
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",1,,4.0,,Chile,,,157
+"Other doctoral degree (Ph.D., Ed.D., etc.)",10,7,7.0,20 to 99 employees,Germany,EUR European Euro,92136.0,158
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",14,9,,I don’t know,Bulgaria,BGN	Bulgarian lev,32712.0,159
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",10,3,3.0,100 to 499 employees,Netherlands,EUR European Euro,38388.0,160
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",32,23,,500 to 999 employees,Germany,EUR European Euro,165298.0,161
+"Associate degree (A.A., A.S., etc.)",3,,12.0,,India,,,162
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",,7,3.0,"10,000 or more employees",Ireland,EUR European Euro,106644.0,163
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",29,15,15.0,2 to 9 employees,United States of America,USD	United States dollar,136000.0,164
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",7,1,,500 to 999 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,331692.0,165
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",4,,,,Romania,,,166
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",7,5,6.0,20 to 99 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,54025.0,167
+Some college/university study without earning a degree,2,,,,United States of America,,,168
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",7,6,,"Just me - I am a freelancer, sole proprietor, etc.",India,INR	Indian rupee,,169
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",48,45,,"1,000 to 4,999 employees",United States of America,USD	United States dollar,400000.0,170
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",4,Less than 1 year,,I don’t know,United States of America,USD	United States dollar,130000.0,171
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",30,18,18.0,500 to 999 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,136947.0,172
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",7,,,,Latvia,,,173
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",4,,,,Italy,,,174
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",30,25,,,Hong Kong (S.A.R.),,,175
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",10,,,,United Kingdom of Great Britain and Northern Ireland,,,176
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",5,3,,,Philippines,,,177
+Some college/university study without earning a degree,8,6,8.0,"10,000 or more employees",Poland,PLN	Polish zloty,41625.0,178
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",7,7,6.0,100 to 499 employees,India,INR	Indian rupee,,179
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",30,25,,2 to 9 employees,United States of America,USD	United States dollar,,180
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",7,5,5.0,"1,000 to 4,999 employees",Brazil,BRL	Brazilian real,,181
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",25,15,,500 to 999 employees,United States of America,USD	United States dollar,200000.0,182
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",12,7,7.0,500 to 999 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,118729.0,183
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",30,23,,100 to 499 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,1130760.0,184
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",7,3,2.0,"1,000 to 4,999 employees",United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,497532.0,185
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",30,10,,2 to 9 employees,Germany,EUR European Euro,,186
+Some college/university study without earning a degree,45,40,,"Just me - I am a freelancer, sole proprietor, etc.",Germany,EUR European Euro,159966.0,187
+"Associate degree (A.A., A.S., etc.)",12,10,10.0,10 to 19 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,678456.0,188
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",3,2,8.0,10 to 19 employees,Israel,ILS	Israeli new shekel,,189
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",3,2,2.0,500 to 999 employees,Greece,EUR European Euro,358320.0,191
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",14,3,3.0,20 to 99 employees,United States of America,USD	United States dollar,110000.0,192
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",12,1,1.0,100 to 499 employees,United States of America,USD	United States dollar,70000.0,193
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",38,32,,500 to 999 employees,United States of America,USD	United States dollar,,194
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",14,4,,500 to 999 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,,195
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",8,5,5.0,10 to 19 employees,India,INR	Indian rupee,58037.0,196
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",4,,,,United States of America,,,197
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",10,3,,I don’t know,United States of America,USD	United States dollar,,198
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",30,19,,"Just me - I am a freelancer, sole proprietor, etc.",Hong Kong (S.A.R.),HKD	Hong Kong dollar,,199
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",39,27,27.0,500 to 999 employees,United States of America,USD	United States dollar,,200
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",9,6,2.0,"10,000 or more employees",Portugal,EUR European Euro,44790396.0,201
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",9,7,7.0,"5,000 to 9,999 employees",Netherlands,EUR European Euro,53322.0,202
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",8,4,4.0,100 to 499 employees,France,EUR European Euro,52789.0,203
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",14,4,3.0,500 to 999 employees,United States of America,USD	United States dollar,100000.0,204
+"Associate degree (A.A., A.S., etc.)",15,10,10.0,"1,000 to 4,999 employees",United States of America,USD	United States dollar,120000.0,205
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",32,32,,500 to 999 employees,United States of America,USD	United States dollar,,206
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",11,8,8.0,20 to 99 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,60307.0,207
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",18,16,,500 to 999 employees,Belarus,BYN	Belarusian ruble,,208
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",24,20,20.0,,United States of America,,,209
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",12,9,11.0,100 to 499 employees,United States of America,USD	United States dollar,100000.0,210
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",4,Less than 1 year,,20 to 99 employees,Russian Federation,RUB	Russian ruble,10392.0,211
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",3,Less than 1 year,1.0,500 to 999 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,27641.0,212
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",45,44,47.0,10 to 19 employees,Austria,EUR European Euro,,213
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",8,5,1.0,"5,000 to 9,999 employees",United States of America,USD	United States dollar,75000.0,214
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",10,5,,10 to 19 employees,Belgium,EUR European Euro,63984.0,215
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",7,,,,Slovenia,,,216
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",20,15,,500 to 999 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,213587.0,217
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",28,15,15.0,100 to 499 employees,France,EUR European Euro,85315.0,218
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",32,26,,500 to 999 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,,219
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",7,4,,500 to 999 employees,United States of America,USD	United States dollar,,220
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",18,11,,500 to 999 employees,Saudi Arabia,SAR	Saudi Arabian riyal,160008.0,221
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",20,14,14.0,100 to 499 employees,United States of America,USD	United States dollar,147000.0,222
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",6,2,2.0,100 to 499 employees,United States of America,USD	United States dollar,172000.0,223
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",12,7,7.0,"10,000 or more employees",United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,59050.0,224
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",19,14,14.0,20 to 99 employees,United States of America,USD	United States dollar,101000.0,225
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",28,25,,500 to 999 employees,United States of America,USD	United States dollar,,226
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",3,,,,United States of America,,,227
+"Associate degree (A.A., A.S., etc.)",9,9,17.0,"1,000 to 4,999 employees",United States of America,USD	United States dollar,120000.0,228
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",16,7,,"5,000 to 9,999 employees",United States of America,USD	United States dollar,,229
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",9,,,,Germany,,,231
+"Associate degree (A.A., A.S., etc.)",23,19,19.0,"10,000 or more employees",United States of America,USD	United States dollar,160000.0,232
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",8,4,4.0,100 to 499 employees,United States of America,USD	United States dollar,175000.0,233
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",8,3,,"10,000 or more employees",Brazil,BRL	Brazilian real,42440.0,234
+Some college/university study without earning a degree,5,2,,500 to 999 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,,235
+"Associate degree (A.A., A.S., etc.)",10,8,,100 to 499 employees,Turkey,TRY	Turkish lira,,236
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",6,5,,500 to 999 employees,Canada,CAD	Canadian dollar,136647.0,237
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",43,37,,20 to 99 employees,Netherlands,EUR European Euro,62387.0,238
+Some college/university study without earning a degree,48,46,46.0,2 to 9 employees,United States of America,USD	United States dollar,100000.0,239
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",1,,,,United Kingdom of Great Britain and Northern Ireland,,,240
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",10,3,,500 to 999 employees,France,EUR European Euro,58654.0,241
+Something else,4,Less than 1 year,,2 to 9 employees,Canada,CAD	Canadian dollar,46850.0,242
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",24,20,20.0,10 to 19 employees,Germany,EUR European Euro,68252.0,243
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",3,Less than 1 year,,"1,000 to 4,999 employees",Mexico,USD	United States dollar,12500.0,244
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",11,3,,500 to 999 employees,Spain,EUR European Euro,26128.0,245
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",9,5,,10 to 19 employees,United States of America,USD	United States dollar,75000.0,246
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",26,22,27.0,"1,000 to 4,999 employees",United States of America,USD	United States dollar,250000.0,247
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",15,15,,500 to 999 employees,United States of America,USD	United States dollar,,248
+Some college/university study without earning a degree,1,,,,Austria,,,249
+Primary/elementary school,5,2,,"Just me - I am a freelancer, sole proprietor, etc.",United States of America,USD	United States dollar,,250
+"Other doctoral degree (Ph.D., Ed.D., etc.)",18,9,,2 to 9 employees,France,EUR European Euro,,251
+Primary/elementary school,2,,,,United States of America,,,252
+Some college/university study without earning a degree,25,12,,100 to 499 employees,Netherlands,EUR European Euro,49056.0,253
+Some college/university study without earning a degree,12,3,3.0,500 to 999 employees,Canada,CAD	Canadian dollar,75507.0,254
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",27,20,22.0,20 to 99 employees,Sweden,SEK	Swedish krona,,255
+Some college/university study without earning a degree,4,2,,"10,000 or more employees",Israel,ILS	Israeli new shekel,,256
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",10,8,8.0,2 to 9 employees,Portugal,EUR European Euro,,257
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",10,2,2.0,100 to 499 employees,Poland,PLN	Polish zloty,27756.0,258
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",9,11,9.0,500 to 999 employees,Israel,ILS	Israeli new shekel,197292.0,259
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",15,6,,20 to 99 employees,Sweden,SEK	Swedish krona,73140.0,260
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",7,3,3.0,I don’t know,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,27641.0,261
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",9,2,3.0,"10,000 or more employees",Canada,CAD	Canadian dollar,43727.0,262
+"Other doctoral degree (Ph.D., Ed.D., etc.)",22,11,,100 to 499 employees,Germany,EUR European Euro,,263
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",18,15,,"10,000 or more employees",Israel,ILS	Israeli new shekel,190925.0,264
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",12,,,,United States of America,,,265
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",7,7,7.0,100 to 499 employees,Czech Republic,CZK	Czech koruna,114324.0,266
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",18,10,,100 to 499 employees,Poland,PLN	Polish zloty,50875.0,267
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",6,3,3.0,500 to 999 employees,Kenya,KES	Kenyan shilling,8244.0,268
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",13,7,7.0,500 to 999 employees,United States of America,USD	United States dollar,,269
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",2,,,,Switzerland,,,270
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",14,7,7.0,500 to 999 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,96742.0,271
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",25,20,,10 to 19 employees,Switzerland,CHF	Swiss franc,155129.0,272
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",38,23,25.0,"1,000 to 4,999 employees",United States of America,USD	United States dollar,140000.0,273
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",29,25,25.0,"1,000 to 4,999 employees",United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,125639.0,274
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",8,6,7.0,20 to 99 employees,Israel,ILS	Israeli new shekel,96852.0,275
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",12,2,1.0,"1,000 to 4,999 employees",United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,42089.0,276
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",17,12,12.0,20 to 99 employees,Netherlands,EUR European Euro,93846.0,277
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",4,2,2.0,100 to 499 employees,United States of America,USD	United States dollar,67000.0,278
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",15,15,15.0,20 to 99 employees,Brazil,USD	United States dollar,86304.0,279
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",24,18,18.0,"10,000 or more employees",United States of America,USD	United States dollar,315000.0,280
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",6,4,,10 to 19 employees,United States of America,USD	United States dollar,,281
+Some college/university study without earning a degree,8,1,1.0,"1,000 to 4,999 employees",Netherlands,EUR European Euro,213287.0,282
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",15,10,10.0,,United States of America,,,283
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",8,3,3.0,20 to 99 employees,Italy,EUR European Euro,35192.0,284
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",18,13,,"1,000 to 4,999 employees",Austria,EUR European Euro,66119.0,285
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",10,4,,"10,000 or more employees",United States of America,USD	United States dollar,,286
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",5,3,,100 to 499 employees,Germany,EUR European Euro,71451.0,287
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",10,3,,100 to 499 employees,United States of America,USD	United States dollar,150000.0,288
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",9,,,,United Kingdom of Great Britain and Northern Ireland,,,289
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",7,3,,"1,000 to 4,999 employees",United States of America,USD	United States dollar,83000.0,290
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",17,11,12.0,"1,000 to 4,999 employees",India,INR	Indian rupee,,291
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",15,10,10.0,"10,000 or more employees",Sweden,SEK	Swedish krona,71916.0,292
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",12,,,,Germany,,,293
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",9,5,,"1,000 to 4,999 employees",France,EUR European Euro,34126.0,294
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",18,,,,France,,,295
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",12,7,10.0,20 to 99 employees,Canada,CAD	Canadian dollar,70276.0,296
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",21,14,15.0,100 to 499 employees,Canada,CAD	Canadian dollar,140551.0,297
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",6,4,5.0,20 to 99 employees,Poland,PLN	Polish zloty,41628.0,298
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",10,8,10.0,100 to 499 employees,United States of America,USD	United States dollar,104000.0,299
+Some college/university study without earning a degree,10,5,,500 to 999 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,,300
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",6,2,6.0,"1,000 to 4,999 employees",India,INR	Indian rupee,,301
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",8,1,,20 to 99 employees,United States of America,USD	United States dollar,155000.0,302
+Some college/university study without earning a degree,41,37,,,United States of America,,,303
+Something else,7,7,,10 to 19 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,26384.0,304
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",8,6,,2 to 9 employees,United States of America,USD	United States dollar,4500000.0,305
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",6,,,,Germany,,,306
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",20,10,25.0,500 to 999 employees,United States of America,USD	United States dollar,206000.0,307
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",9,5,5.0,100 to 499 employees,United States of America,USD	United States dollar,8000000.0,308
+Primary/elementary school,1,,,,Czech Republic,,,309
+Some college/university study without earning a degree,5,,,,United States of America,,,310
+Some college/university study without earning a degree,22,15,,2 to 9 employees,Spain,EUR European Euro,49056.0,311
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",3,3,15.0,100 to 499 employees,United States of America,USD	United States dollar,45000.0,312
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",6,6,14.0,100 to 499 employees,United States of America,USD	United States dollar,,313
+Primary/elementary school,5,,,,Germany,,,314
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",5,2,3.0,100 to 499 employees,United States of America,USD	United States dollar,130000.0,315
+Some college/university study without earning a degree,18,10,10.0,"5,000 to 9,999 employees",United States of America,USD	United States dollar,230000.0,316
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",18,12,18.0,"1,000 to 4,999 employees",United States of America,USD	United States dollar,155000.0,317
+Primary/elementary school,5,5,5.0,10 to 19 employees,Latvia,EUR European Euro,38392.0,318
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",5,,,,France,,,319
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",14,9,9.0,10 to 19 employees,Serbia,RSD	Serbian dinar,,320
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",8,,,,Belgium,,,321
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",22,19,19.0,"10,000 or more employees",United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,138203.0,322
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",40,24,24.0,20 to 99 employees,Austria,EUR European Euro,74651.0,323
+"Other doctoral degree (Ph.D., Ed.D., etc.)",35,24,,2 to 9 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,,324
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",18,4,4.0,"1,000 to 4,999 employees",United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,75384.0,325
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",11,6,11.0,500 to 999 employees,Germany,EUR European Euro,,326
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",22,18,20.0,20 to 99 employees,Ireland,EUR European Euro,,327
+"Associate degree (A.A., A.S., etc.)",5,2,1.0,"10,000 or more employees",Turkey,TRY	Turkish lira,,328
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",13,,7.0,,Austria,,,329
+Some college/university study without earning a degree,14,10,10.0,"5,000 to 9,999 employees",Canada,CAD	Canadian dollar,74180.0,330
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",11,4,6.0,100 to 499 employees,United States of America,USD	United States dollar,130000.0,331
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",5,,,,France,,,332
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",17,12,,100 to 499 employees,Israel,ILS	Israeli new shekel,194303.0,333
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",16,11,11.0,20 to 99 employees,Portugal,EUR European Euro,,334
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",29,24,,100 to 499 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,81666.0,335
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",8,,6.0,,Canada,,,336
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",5,1,1.0,100 to 499 employees,United States of America,USD	United States dollar,80000.0,337
+Some college/university study without earning a degree,5,4,,I don’t know,United States of America,USD	United States dollar,,338
+Something else,3,,,,Netherlands,,,339
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",20,15,28.0,100 to 499 employees,Ireland,EUR European Euro,53322.0,340
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",32,20,,"Just me - I am a freelancer, sole proprietor, etc.",France,EUR European Euro,44796.0,341
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",30,21,21.0,"5,000 to 9,999 employees",South Africa,ZAR	South African rand,56897.0,342
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",10,5,,"10,000 or more employees",Iceland,ISK	Icelandic krona,,343
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",14,4,,"10,000 or more employees",United States of America,USD	United States dollar,240000.0,344
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",20,20,,500 to 999 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,,345
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",6,1,1.0,"1,000 to 4,999 employees",Germany,EUR European Euro,44790.0,346
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",17,Less than 1 year,1.0,500 to 999 employees,United States of America,USD	United States dollar,100000.0,347
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",10,7,6.0,20 to 99 employees,United States of America,USD	United States dollar,75000.0,348
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",41,26,27.0,100 to 499 employees,Canada,CAD	Canadian dollar,,349
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",4,,,,Viet Nam,,,350
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",6,3,3.0,100 to 499 employees,Austria,EUR European Euro,43512.0,351
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",5,4,4.0,"1,000 to 4,999 employees",Netherlands,EUR European Euro,51192.0,352
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",7,5,7.0,10 to 19 employees,Finland,EUR European Euro,,353
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",15,10,,"10,000 or more employees",Sweden,SEK	Swedish krona,68256.0,354
+Some college/university study without earning a degree,20,,,,Australia,,,355
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",4,3,8.0,"1,000 to 4,999 employees",United States of America,USD	United States dollar,120000.0,356
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",27,20,,500 to 999 employees,United States of America,USD	United States dollar,160000.0,357
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",7,3,3.0,"1,000 to 4,999 employees",Thailand,THB	Thai baht,45899.0,358
+"Other doctoral degree (Ph.D., Ed.D., etc.)",38,32,31.0,"10,000 or more employees",United States of America,USD	United States dollar,175000.0,359
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",12,5,5.0,"10,000 or more employees",China,CNY	Chinese Yuan Renminbi,75684.0,360
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",17,11,11.0,20 to 99 employees,United States of America,USD	United States dollar,150000.0,361
+Some college/university study without earning a degree,12,7,9.0,"1,000 to 4,999 employees",Sweden,SEK	Swedish krona,60948.0,362
+Some college/university study without earning a degree,14,14,14.0,500 to 999 employees,United States of America,USD	United States dollar,120000.0,363
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",26,20,20.0,"10,000 or more employees",United States of America,USD	United States dollar,210000.0,364
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",21,20,20.0,100 to 499 employees,United States of America,USD	United States dollar,,365
+"Other doctoral degree (Ph.D., Ed.D., etc.)",50,40,,"1,000 to 4,999 employees",United States of America,USD	United States dollar,350000.0,366
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",8,4,4.0,"5,000 to 9,999 employees",United States of America,USD	United States dollar,109000.0,367
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",8,4,4.0,"1,000 to 4,999 employees",United States of America,USD	United States dollar,70000.0,368
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",13,,,,Germany,,,369
+"Associate degree (A.A., A.S., etc.)",19,13,,10 to 19 employees,United States of America,USD	United States dollar,150000.0,370
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",5,3,,"10,000 or more employees",France,EUR European Euro,,371
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",7,5,,"10,000 or more employees",United States of America,USD	United States dollar,100000.0,372
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",21,19,19.0,10 to 19 employees,Brazil,BRL	Brazilian real,74784.0,373
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",7,2,,10 to 19 employees,Montenegro,EUR European Euro,13560.0,374
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",5,1,,500 to 999 employees,India,INR	Indian rupee,,375
+Some college/university study without earning a degree,10,,4.0,,Serbia,,,376
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",14,,,,Brazil,,,377
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",9,1,,2 to 9 employees,Italy,EUR European Euro,14460.0,378
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",6,1,,20 to 99 employees,Germany,EUR European Euro,153564.0,379
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",15,,10.0,,United States of America,,,380
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",18,15,20.0,500 to 999 employees,United States of America,USD	United States dollar,96000.0,381
+Some college/university study without earning a degree,10,2,2.0,100 to 499 employees,United States of America,USD	United States dollar,52800.0,382
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",15,10,10.0,2 to 9 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,50256.0,383
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",12,,,,Turkey,,,384
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",25,22,23.0,500 to 999 employees,United States of America,USD	United States dollar,160000.0,385
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",9,6,,10 to 19 employees,Finland,EUR European Euro,42228.0,386
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",12,9,9.0,"5,000 to 9,999 employees",United States of America,USD	United States dollar,124000.0,387
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",17,12,12.0,20 to 99 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,125639.0,388
+"Associate degree (A.A., A.S., etc.)",9,7,7.0,500 to 999 employees,United States of America,USD	United States dollar,,389
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",7,5,5.0,"10,000 or more employees",France,EUR European Euro,44790.0,390
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",24,20,20.0,20 to 99 employees,United States of America,USD	United States dollar,205000.0,391
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",25,14,19.0,100 to 499 employees,Slovakia,EUR European Euro,53748.0,392
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",12,6,7.0,20 to 99 employees,Netherlands,EUR European Euro,54384.0,393
+Some college/university study without earning a degree,7,4,,20 to 99 employees,United States of America,USD	United States dollar,100000.0,394
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",4,Less than 1 year,0.0,20 to 99 employees,Ireland,EUR European Euro,69318.0,395
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",3,2,,2 to 9 employees,Germany,EUR European Euro,21504.0,396
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",12,9,,20 to 99 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,55281.0,397
+Some college/university study without earning a degree,33,22,22.0,10 to 19 employees,Montenegro,EUR European Euro,,398
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",17,14,14.0,500 to 999 employees,India,INR	Indian rupee,,399
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",9,5,5.0,500 to 999 employees,France,EUR European Euro,52255.0,400
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",17,13,13.0,20 to 99 employees,United States of America,USD	United States dollar,,401
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",12,4,4.0,500 to 999 employees,Israel,ILS	Israeli new shekel,111204.0,402
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",10,7,,"10,000 or more employees",United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,56538.0,403
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",5,1,2.0,100 to 499 employees,United States of America,USD	United States dollar,76000.0,404
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",18,8,8.0,20 to 99 employees,United States of America,USD	United States dollar,115000.0,405
+"Associate degree (A.A., A.S., etc.)",11,8,9.0,100 to 499 employees,United States of America,USD	United States dollar,200000.0,406
+Some college/university study without earning a degree,4,,41.0,,United States of America,,,407
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",10,5,,20 to 99 employees,Japan,USD	United States dollar,252000.0,408
+Some college/university study without earning a degree,12,,10.0,,Serbia,,,409
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",9,2,2.0,100 to 499 employees,Denmark,DKK	Danish krone,103248.0,410
+"Associate degree (A.A., A.S., etc.)",3,3,3.0,20 to 99 employees,Germany,EUR European Euro,40956.0,411
+Some college/university study without earning a degree,28,17,,"Just me - I am a freelancer, sole proprietor, etc.",United States of America,USD	United States dollar,,412
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",10,,,,United States of America,,,413
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",40,28,,500 to 999 employees,Sweden,SEK	Swedish krona,,414
+"Other doctoral degree (Ph.D., Ed.D., etc.)",12,,,,United Kingdom of Great Britain and Northern Ireland,,,415
+Something else,4,,,,Spain,,,416
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",8,8,,500 to 999 employees,India,INR	Indian rupee,,417
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",12,,,,Portugal,,,418
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",16,12,,20 to 99 employees,United States of America,USD	United States dollar,86000.0,419
+Something else,4,,,,Germany,,,420
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",10,7,8.0,,United States of America,,,421
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",10,5,,"10,000 or more employees",United States of America,USD	United States dollar,165000.0,422
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",13,9,,"Just me - I am a freelancer, sole proprietor, etc.",United States of America,USD	United States dollar,350000.0,423
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",27,23,,10 to 19 employees,Belgium,EUR European Euro,92780.0,424
+Some college/university study without earning a degree,2,,,,Canada,,,425
+Some college/university study without earning a degree,6,Less than 1 year,,"1,000 to 4,999 employees",United States of America,USD	United States dollar,160000.0,426
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",6,5,,100 to 499 employees,United States of America,USD	United States dollar,145000.0,427
+"Associate degree (A.A., A.S., etc.)",8,,,,France,,,428
+"Associate degree (A.A., A.S., etc.)",11,6,,20 to 99 employees,United States of America,USD	United States dollar,80000.0,429
+Some college/university study without earning a degree,10,10,,"Just me - I am a freelancer, sole proprietor, etc.",France,EUR European Euro,,430
+Some college/university study without earning a degree,9,6,6.0,10 to 19 employees,Spain,EUR European Euro,31993.0,431
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",6,3,9.0,"5,000 to 9,999 employees",United States of America,USD	United States dollar,96300.0,432
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",40,31,,2 to 9 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,62820.0,433
+Some college/university study without earning a degree,2,,,,United States of America,,,434
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",6,1,1.0,"1,000 to 4,999 employees",Germany,EUR European Euro,57588.0,435
+Some college/university study without earning a degree,3,1,,500 to 999 employees,United States of America,USD	United States dollar,55000.0,436
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",8,,,,United States of America,,,437
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",10,4,,2 to 9 employees,Germany,EUR European Euro,,438
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",16,12,12.0,"10,000 or more employees",United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,126142.0,439
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",11,4,4.0,100 to 499 employees,United States of America,USD	United States dollar,158000.0,440
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",12,9,9.0,"10,000 or more employees",United States of America,USD	United States dollar,350000.0,441
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",10,6,4.0,10 to 19 employees,China,CNY	Chinese Yuan Renminbi,,442
+"Other doctoral degree (Ph.D., Ed.D., etc.)",11,5,5.0,10 to 19 employees,United States of America,USD	United States dollar,90000.0,443
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",6,,,,United States of America,,,444
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",17,10,10.0,I don’t know,Spain,EUR European Euro,25594.0,445
+Some college/university study without earning a degree,Less than 1 year,Less than 1 year,,100 to 499 employees,Spain,EUR European Euro,21329.0,446
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",11,6,6.0,20 to 99 employees,United States of America,USD	United States dollar,150000.0,447
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",29,22,,500 to 999 employees,Germany,EUR European Euro,,448
+"Other doctoral degree (Ph.D., Ed.D., etc.)",38,25,28.0,20 to 99 employees,Germany,EUR European Euro,127972.0,449
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",10,,,,Germany,,,450
+Something else,4,,,,United States of America,,,451
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",3,,,,Czech Republic,,,452
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",35,30,43.0,2 to 9 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,,453
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",4,4,,10 to 19 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,87948.0,454
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",12,20,,"1,000 to 4,999 employees",United States of America,USD	United States dollar,,455
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",7,,,,United States of America,,,456
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",2,,,,India,,,457
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",14,7,7.0,"5,000 to 9,999 employees",Sweden,SEK	Swedish krona,92436.0,458
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",11,4,,10 to 19 employees,Germany,EUR European Euro,,459
+Some college/university study without earning a degree,10,1,,"1,000 to 4,999 employees",United States of America,USD	United States dollar,75000.0,460
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Less than 1 year,,,,Italy,,,461
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",5,4,,"1,000 to 4,999 employees",Brazil,BRL	Brazilian real,,462
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",13,9,,20 to 99 employees,Israel,ILS	Israeli new shekel,150660.0,463
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",15,5,6.0,20 to 99 employees,Germany,EUR European Euro,,464
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",40,22,,500 to 999 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,108050.0,465
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",12,5,5.0,"1,000 to 4,999 employees",France,EUR European Euro,36259.0,466
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",8,1,2.0,100 to 499 employees,Canada,CAD	Canadian dollar,89016.0,467
+Some college/university study without earning a degree,9,8,9.0,"1,000 to 4,999 employees",United States of America,USD	United States dollar,120000.0,468
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",12,3,3.0,100 to 499 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,100511.0,469
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",8,6,6.0,"10,000 or more employees",United States of America,USD	United States dollar,140000.0,470
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",4,,,,Netherlands,,,471
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",4,,2.0,,United States of America,,,472
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",3,2,3.0,100 to 499 employees,Netherlands,EUR European Euro,42228.0,473
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",20,11,12.0,100 to 499 employees,United States of America,USD	United States dollar,320000.0,474
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",20,19,19.0,500 to 999 employees,Australia,AUD	Australian dollar,106157.0,475
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",9,,,,United States of America,,,476
+Some college/university study without earning a degree,10,,,,Austria,,,477
+"Other doctoral degree (Ph.D., Ed.D., etc.)",43,39,40.0,"5,000 to 9,999 employees",United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,75384.0,478
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",20,17,,"Just me - I am a freelancer, sole proprietor, etc.",Canada,CAD	Canadian dollar,,479
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",8,,,,Germany,,,480
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",6,1,,20 to 99 employees,Greece,EUR European Euro,17063.0,481
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",8,,,,United Kingdom of Great Britain and Northern Ireland,,,482
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",26,20,,500 to 999 employees,United States of America,USD	United States dollar,200000.0,483
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",12,12,,500 to 999 employees,Luxembourg,EUR European Euro,,484
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",6,5,5.0,"10,000 or more employees",Czech Republic,CZK	Czech koruna,24420.0,485
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",8,1,1.0,100 to 499 employees,Viet Nam,VND	Vietnamese dong,6216.0,486
+Some college/university study without earning a degree,11,,6.0,,United States of America,,,487
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",28,17,17.0,2 to 9 employees,United States of America,USD	United States dollar,160000.0,488
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",10,,,,Netherlands,,,489
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",8,5,5.0,"5,000 to 9,999 employees",United States of America,USD	United States dollar,110000.0,490
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",7,5,,100 to 499 employees,Poland,PLN	Polish zloty,27750.0,491
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",15,10,9.0,"1,000 to 4,999 employees",United States of America,USD	United States dollar,,492
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",11,4,4.0,10 to 19 employees,Netherlands,EUR European Euro,62712.0,493
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",10,6,7.0,100 to 499 employees,Germany,EUR European Euro,63986.0,494
+Primary/elementary school,Less than 1 year,Less than 1 year,10.0,2 to 9 employees,Turkey,USD	United States dollar,,495
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",10,1,,"1,000 to 4,999 employees",Australia,AUD	Australian dollar,67940.0,496
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",20,15,,500 to 999 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,125639.0,497
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",14,8,,"10,000 or more employees",United States of America,USD	United States dollar,300000.0,498
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",11,6,6.0,"10,000 or more employees",United States of America,USD	United States dollar,300000.0,499
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",10,4,16.0,"10,000 or more employees",United States of America,USD	United States dollar,53000.0,500
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",13,10,10.0,100 to 499 employees,Switzerland,CHF	Swiss franc,110659.0,501
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",10,,,,United Kingdom of Great Britain and Northern Ireland,,,502
+"Associate degree (A.A., A.S., etc.)",10,,,,United States of America,,,503
+Primary/elementary school,6,,,,Australia,,,504
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",10,8,,"Just me - I am a freelancer, sole proprietor, etc.",Portugal,EUR European Euro,,505
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",2,,,,Finland,,,506
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",4,3,3.0,20 to 99 employees,United States of America,USD	United States dollar,72000.0,507
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",30,21,,"Just me - I am a freelancer, sole proprietor, etc.",Canada,CAD	Canadian dollar,101509.0,508
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",9,3,3.0,100 to 499 employees,Canada,CAD	Canadian dollar,62467.0,509
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",6,3,3.0,2 to 9 employees,United States of America,USD	United States dollar,50000.0,510
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",5,,,,France,,,511
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",14,9,9.0,500 to 999 employees,France,EUR European Euro,106644.0,512
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",10,,8.0,,United States of America,,,513
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",7,5,6.0,500 to 999 employees,United States of America,USD	United States dollar,1740000.0,514
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",30,27,28.0,100 to 499 employees,Canada,CAD	Canadian dollar,54659.0,515
+,,,,,Turkmenistan,,,516
+"Professional degree (JD, MD, etc.)",5,2,,20 to 99 employees,Germany,EUR European Euro,,517
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",2,,,,Israel,,,518
+Some college/university study without earning a degree,4,,,,Uruguay,,,519
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",12,2,3.0,100 to 499 employees,Finland,EUR European Euro,38388.0,520
+Some college/university study without earning a degree,10,4,,2 to 9 employees,Portugal,EUR European Euro,,521
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",18,15,15.0,"1,000 to 4,999 employees",Belgium,EUR European Euro,,522
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",7,7,,"Just me - I am a freelancer, sole proprietor, etc.",Canada,CAD	Canadian dollar,,523
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",13,4,4.0,"10,000 or more employees",United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,60307.0,524
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",13,13,,500 to 999 employees,India,INR	Indian rupee,30948.0,525
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",8,,,,Canada,,,526
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",11,5,,"10,000 or more employees",United States of America,USD	United States dollar,262000.0,527
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",20,9,9.0,20 to 99 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,50256.0,528
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",10,6,,"Just me - I am a freelancer, sole proprietor, etc.",France,EUR European Euro,,529
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",36,32,,2 to 9 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,,530
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",35,25,,"Just me - I am a freelancer, sole proprietor, etc.",Denmark,DKK	Danish krone,,531
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",6,,,,United States of America,,,532
+Some college/university study without earning a degree,5,,,,France,,,533
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",8,4,,100 to 499 employees,Canada,CAD	Canadian dollar,58563.0,534
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",6,1,1.0,I don’t know,Canada,CAD	Canadian dollar,,535
+Some college/university study without earning a degree,6,6,6.0,"5,000 to 9,999 employees",United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,56538.0,536
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",10,5,5.0,10 to 19 employees,Singapore,SGD	Singapore dollar,,537
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",15,11,11.0,20 to 99 employees,Portugal,EUR European Euro,50123.0,538
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",15,1,3.0,100 to 499 employees,United States of America,USD	United States dollar,200000.0,539
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",7,5,,10 to 19 employees,Canada,CAD	Canadian dollar,,540
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",30,23,,10 to 19 employees,Spain,EUR European Euro,,541
+Some college/university study without earning a degree,37,28,,500 to 999 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,113075.0,543
+Some college/university study without earning a degree,10,3,4.0,20 to 99 employees,Argentina,ARS	Argentine peso,13128.0,544
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",8,,,,United States of America,,,545
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",6,2,2.0,"10,000 or more employees",Hungary,HUF	Hungarian forint,23436.0,546
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",9,3,3.0,"1,000 to 4,999 employees",United States of America,USD	United States dollar,90000.0,547
+Some college/university study without earning a degree,15,,,,Germany,,,548
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",6,Less than 1 year,,100 to 499 employees,Germany,EUR European Euro,614268.0,549
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",8,6,,100 to 499 employees,United States of America,USD	United States dollar,750000.0,550
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",15,,,,Germany,,,551
+"Professional degree (JD, MD, etc.)",7,3,4.0,20 to 99 employees,Tunisia,TND	Tunisian dinar,7908.0,552
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",4,2,5.0,100 to 499 employees,United States of America,USD	United States dollar,70000.0,553
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",4,2,,"10,000 or more employees",United States of America,USD	United States dollar,171000.0,554
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",6,,,,France,,,555
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",8,6,,100 to 499 employees,United States of America,USD	United States dollar,6240000.0,556
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",3,1,,10 to 19 employees,France,EUR European Euro,26661.0,557
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",37,17,,500 to 999 employees,United States of America,USD	United States dollar,7750000.0,558
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",22,14,14.0,100 to 499 employees,United States of America,USD	United States dollar,86000.0,559
+Some college/university study without earning a degree,12,9,9.0,100 to 499 employees,United States of America,USD	United States dollar,105000.0,560
+Something else,12,7,7.0,500 to 999 employees,Germany,EUR European Euro,47990.0,561
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",6,2,2.0,"10,000 or more employees",United States of America,USD	United States dollar,78000.0,562
+Some college/university study without earning a degree,9,5,5.0,20 to 99 employees,France,EUR European Euro,72518.0,563
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",20,15,,500 to 999 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,,564
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",24,22,22.0,100 to 499 employees,United States of America,USD	United States dollar,187000.0,565
+Some college/university study without earning a degree,5,,,,Netherlands,,,566
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",15,,,,United States of America,,,567
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",12,,,,Sweden,,,568
+Some college/university study without earning a degree,40,25,,,Belgium,,,569
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",10,5,,100 to 499 employees,India,INR	Indian rupee,64486.0,570
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",7,1,2.0,100 to 499 employees,United States of America,USD	United States dollar,78337.0,571
+"Other doctoral degree (Ph.D., Ed.D., etc.)",24,14,,20 to 99 employees,Poland,PLN	Polish zloty,27756.0,572
+"Other doctoral degree (Ph.D., Ed.D., etc.)",20,15,15.0,2 to 9 employees,Germany,EUR European Euro,,573
+Some college/university study without earning a degree,15,10,10.0,"10,000 or more employees",Australia,AUD	Australian dollar,81387.0,574
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",20,15,,500 to 999 employees,Spain,EUR European Euro,,575
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",12,8,8.0,20 to 99 employees,Hungary,HUF	Hungarian forint,23436.0,576
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",15,11,11.0,20 to 99 employees,United States of America,USD	United States dollar,215000.0,577
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",10,5,,"1,000 to 4,999 employees",Canada,CAD	Canadian dollar,85112.0,578
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",3,2,4.0,10 to 19 employees,Canada,CAD	Canadian dollar,50755.0,579
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",8,7,,500 to 999 employees,United States of America,USD	United States dollar,150000.0,580
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",11,6,3.0,20 to 99 employees,France,EUR European Euro,47990.0,581
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",15,10,,"10,000 or more employees",United States of America,USD	United States dollar,,582
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",20,16,15.0,100 to 499 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,81666.0,583
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",14,14,14.0,100 to 499 employees,Germany,EUR European Euro,170630.0,584
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",8,4,4.0,"10,000 or more employees",United States of America,USD	United States dollar,162373.0,585
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",25,14,14.0,500 to 999 employees,France,EUR European Euro,69318.0,586
+"Associate degree (A.A., A.S., etc.)",7,2,2.0,"10,000 or more employees",Canada,CAD	Canadian dollar,64029.0,587
+Some college/university study without earning a degree,6,,,,Canada,,,588
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",6,1,1.0,20 to 99 employees,United States of America,USD	United States dollar,55000.0,589
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",9,,,,United States of America,,,590
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",5,5,,100 to 499 employees,India,INR	Indian rupee,,591
+Some college/university study without earning a degree,14,10,10.0,10 to 19 employees,Netherlands,EUR European Euro,41592.0,592
+,,,,,France,,,593
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",16,6,6.0,100 to 499 employees,Denmark,DKK	Danish krone,86040.0,594
+Some college/university study without earning a degree,20,15,,100 to 499 employees,United States of America,USD	United States dollar,125000.0,595
+Some college/university study without earning a degree,31,31,31.0,100 to 499 employees,United States of America,USD	United States dollar,200000.0,596
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",2,,,,Switzerland,,,597
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",6,5,5.0,2 to 9 employees,China,CNY	Chinese Yuan Renminbi,18024.0,598
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",18,18,,"10,000 or more employees",United States of America,USD	United States dollar,160000.0,599
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",1,,,,Turkey,,,600
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",5,,,,United States of America,,,601
+Some college/university study without earning a degree,15,12,12.0,100 to 499 employees,United States of America,USD	United States dollar,110000.0,602
+Some college/university study without earning a degree,4,,,,India,,,603
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",13,2,,100 to 499 employees,United States of America,USD	United States dollar,250000.0,604
+Some college/university study without earning a degree,8,7,8.0,"10,000 or more employees",United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,71614.0,605
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",40,26,,"1,000 to 4,999 employees",United States of America,USD	United States dollar,400000.0,606
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",5,,,,Italy,,,607
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",20,15,,100 to 499 employees,Finland,EUR European Euro,69744.0,608
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",12,4,4.0,10 to 19 employees,United States of America,USD	United States dollar,82000.0,609
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",17,8,4.0,"10,000 or more employees",United States of America,USD	United States dollar,125000.0,610
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",25,25,25.0,20 to 99 employees,United States of America,USD	United States dollar,150000.0,611
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",14,7,7.0,100 to 499 employees,United States of America,USD	United States dollar,180000.0,612
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",7,1,1.0,"1,000 to 4,999 employees",Switzerland,CHF	Swiss franc,93078.0,613
+"Associate degree (A.A., A.S., etc.)",25,17,,"10,000 or more employees",United States of America,USD	United States dollar,310000.0,614
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",34,20,,20 to 99 employees,Norway,NOK	Norwegian krone,,615
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",29,17,17.0,"1,000 to 4,999 employees",Czech Republic,CZK	Czech koruna,93540.0,616
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",25,20,20.0,100 to 499 employees,United States of America,USD	United States dollar,140000.0,617
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",21,21,21.0,100 to 499 employees,United States of America,USD	United States dollar,95000.0,618
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",10,6,6.0,20 to 99 employees,Finland,EUR European Euro,76788.0,619
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",38,26,,2 to 9 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,,620
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",11,7,7.0,500 to 999 employees,United States of America,USD	United States dollar,125000.0,621
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",4,2,2.0,2 to 9 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,32666.0,622
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",12,,,,Austria,,,623
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",20,15,,100 to 499 employees,South Africa,USD	United States dollar,115000.0,624
+Primary/elementary school,1,1,,2 to 9 employees,Australia,AUD	Australian dollar,,625
+Some college/university study without earning a degree,10,,,,Israel,,,626
+Something else,40,34,,"Just me - I am a freelancer, sole proprietor, etc.",Canada,CAD	Canadian dollar,,627
+"Other doctoral degree (Ph.D., Ed.D., etc.)",30,25,,,United Kingdom of Great Britain and Northern Ireland,,,628
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",12,2,,2 to 9 employees,Netherlands,EUR European Euro,154633.0,629
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",9,5,,"10,000 or more employees",Canada,CAD	Canadian dollar,121030.0,630
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",15,,,,United States of America,,,631
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",8,3,3.0,100 to 499 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,62820.0,632
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",23,16,16.0,"10,000 or more employees",Hungary,HUF	Hungarian forint,66948.0,633
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",12,12,12.0,100 to 499 employees,Poland,PLN	Polish zloty,77700.0,634
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",More than 50 years,,42.0,,United States of America,,,635
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",15,10,3.0,20 to 99 employees,Germany,EUR European Euro,90647.0,636
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",26,16,16.0,10 to 19 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,59679.0,637
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",26,21,,100 to 499 employees,Netherlands,EUR European Euro,159950.0,638
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",8,,,,United States of America,,,639
+"Other doctoral degree (Ph.D., Ed.D., etc.)",20,10,10.0,500 to 999 employees,Germany,EUR European Euro,95979.0,640
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",15,11,,20 to 99 employees,Romania,RON	Romanian leu,,641
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",8,6,,100 to 499 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,72243.0,642
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",20,15,15.0,"5,000 to 9,999 employees",Canada,CAD	Canadian dollar,117126.0,643
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",2,,,,Denmark,,,644
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",10,6,7.0,20 to 99 employees,Bangladesh,BDT	Bangladeshi taka,8184.0,645
+"Associate degree (A.A., A.S., etc.)",12,7,,"Just me - I am a freelancer, sole proprietor, etc.",United States of America,USD	United States dollar,,646
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",13,9,10.0,500 to 999 employees,Romania,RON	Romanian leu,36240.0,647
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",8,,,,Austria,,,648
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",10,,,,Canada,,,649
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",15,10,,"10,000 or more employees",United States of America,USD	United States dollar,265000.0,650
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",11,,,,Canada,,,651
+Some college/university study without earning a degree,9,5,6.0,2 to 9 employees,Germany,EUR European Euro,486300.0,652
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",8,2,,20 to 99 employees,Belgium,EUR European Euro,29436.0,653
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",8,2,,500 to 999 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,44853.0,654
+Some college/university study without earning a degree,21,12,12.0,100 to 499 employees,United States of America,USD	United States dollar,135000.0,655
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",Less than 1 year,,,,Norway,,,656
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",9,5,5.0,500 to 999 employees,Germany,EUR European Euro,65268.0,657
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",12,2,2.0,"10,000 or more employees",United States of America,USD	United States dollar,110000.0,658
+"Associate degree (A.A., A.S., etc.)",8,,,,United States of America,,,659
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",12,7,10.0,"10,000 or more employees",United States of America,USD	United States dollar,75000.0,660
+Some college/university study without earning a degree,4,,,,Israel,,,661
+"Associate degree (A.A., A.S., etc.)",10,1,,2 to 9 employees,Brazil,BRL	Brazilian real,112176.0,662
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",32,23,23.0,100 to 499 employees,United States of America,USD	United States dollar,120000.0,663
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",16,11,,"1,000 to 4,999 employees",United States of America,USD	United States dollar,,664
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",10,6,,100 to 499 employees,United States of America,USD	United States dollar,120000.0,665
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",3,,,,United States of America,,,666
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",20,17,17.0,"1,000 to 4,999 employees",Ukraine,USD	United States dollar,55000.0,667
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",11,6,6.0,10 to 19 employees,Maldives,MVR	Maldivian rufiyaa,23352.0,668
+"Other doctoral degree (Ph.D., Ed.D., etc.)",25,22,,"10,000 or more employees",Spain,EUR European Euro,53322.0,669
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",48,31,,,United States of America,,,670
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",18,8,,"1,000 to 4,999 employees",United States of America,USD	United States dollar,114000.0,671
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",14,8,,20 to 99 employees,Australia,AUD	Australian dollar,1273884.0,672
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",27,25,,10 to 19 employees,United States of America,USD	United States dollar,161000.0,673
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",17,11,10.0,500 to 999 employees,United States of America,USD	United States dollar,175000.0,674
+Some college/university study without earning a degree,30,20,27.0,100 to 499 employees,United States of America,USD	United States dollar,172000.0,675
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",17,6,6.0,"1,000 to 4,999 employees",Singapore,SGD	Singapore dollar,,676
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",12,,,,Turkey,,,677
+"Associate degree (A.A., A.S., etc.)",14,11,,"10,000 or more employees",Canada,CAD	Canadian dollar,105414.0,678
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",40,38,,500 to 999 employees,United States of America,USD	United States dollar,,679
+"Associate degree (A.A., A.S., etc.)",10,,,,United States of America,,,680
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",3,,,,Norway,,,681
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",8,,3.0,,Dominican Republic,,,682
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",10,3,,100 to 499 employees,Germany,EUR European Euro,63984.0,683
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",10,4,4.0,100 to 499 employees,United States of America,USD	United States dollar,400000.0,684
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",11,4,,"1,000 to 4,999 employees",Canada,CAD	Canadian dollar,,685
+Some college/university study without earning a degree,3,,,,Lithuania,,,686
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",4,,,,Czech Republic,,,687
+"Professional degree (JD, MD, etc.)",37,22,,"Just me - I am a freelancer, sole proprietor, etc.",Chile,CLP	Chilean peso,,688
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",9,8,12.0,"1,000 to 4,999 employees",United States of America,USD	United States dollar,62000.0,689
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",6,,,,China,,,690
+Some college/university study without earning a degree,34,25,,"10,000 or more employees",United States of America,USD	United States dollar,,691
+Primary/elementary school,3,,,,United States of America,,,692
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",10,Less than 1 year,,"5,000 to 9,999 employees",United States of America,USD	United States dollar,297000.0,693
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",10,,,,Germany,,,694
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",5,1,1.0,"1,000 to 4,999 employees",Thailand,THB	Thai baht,17568.0,695
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",17,13,,20 to 99 employees,Poland,USD	United States dollar,110000.0,696
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",8,,,,Poland,,,697
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",18,11,11.0,100 to 499 employees,Germany,EUR European Euro,69318.0,698
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",9,5,,500 to 999 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,87948.0,699
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",6,,,,Iraq,,,700
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",15,10,10.0,100 to 499 employees,Russian Federation,RUB	Russian ruble,,701
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",28,15,,"5,000 to 9,999 employees",United States of America,USD	United States dollar,200000.0,702
+Some college/university study without earning a degree,9,,,,Netherlands,,,703
+"Other doctoral degree (Ph.D., Ed.D., etc.)",30,30,,100 to 499 employees,Austria,EUR European Euro,159966.0,704
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",25,21,21.0,500 to 999 employees,United States of America,USD	United States dollar,,706
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",6,2,2.0,"1,000 to 4,999 employees",United States of America,USD	United States dollar,75000.0,707
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",14,2,2.0,500 to 999 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,41461.0,708
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",8,5,5.0,"1,000 to 4,999 employees",United States of America,USD	United States dollar,125000.0,709
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",5,,,,Czech Republic,,,710
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",17,15,15.0,2 to 9 employees,Germany,EUR European Euro,,711
+Some college/university study without earning a degree,5,4,,"10,000 or more employees",United States of America,USD	United States dollar,85000.0,712
+Some college/university study without earning a degree,3,,,,Netherlands,,,713
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",8,,,,Belgium,,,714
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",6,,,,Poland,,,715
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",5,,,,India,,,716
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",20,15,,,United States of America,,,717
+Some college/university study without earning a degree,18,14,,500 to 999 employees,United States of America,USD	United States dollar,51000.0,718
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",6,,,,Slovakia,,,719
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",5,,,,Denmark,,,720
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",30,25,30.0,500 to 999 employees,United States of America,USD	United States dollar,3600000.0,721
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",9,7,,20 to 99 employees,France,EUR European Euro,49908.0,722
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",12,7,7.0,2 to 9 employees,Germany,EUR European Euro,110568.0,723
+Some college/university study without earning a degree,20,6,6.0,20 to 99 employees,United States of America,USD	United States dollar,120000.0,724
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",5,,,,Germany,,,725
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",13,,5.0,,Canada,,,726
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",9,5,,"10,000 or more employees",Canada,CAD	Canadian dollar,149922.0,727
+"Other doctoral degree (Ph.D., Ed.D., etc.)",6,3,,10 to 19 employees,France,EUR European Euro,,728
+"Associate degree (A.A., A.S., etc.)",30,25,25.0,20 to 99 employees,Hong Kong (S.A.R.),HKD	Hong Kong dollar,114708.0,729
+Some college/university study without earning a degree,14,8,,100 to 499 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,113075.0,730
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",6,,,,Germany,,,731
+Some college/university study without earning a degree,3,,,,Canada,,,732
+Something else,7,,,,Netherlands,,,733
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",12,10,11.0,20 to 99 employees,United States of America,USD	United States dollar,225000.0,734
+Some college/university study without earning a degree,9,,,,Spain,,,735
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",20,10,,20 to 99 employees,United States of America,USD	United States dollar,220000.0,736
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",11,11,,"10,000 or more employees",United States of America,USD	United States dollar,180000.0,737
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",9,4,4.0,"5,000 to 9,999 employees",United States of America,USD	United States dollar,,738
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",16,11,,20 to 99 employees,Italy,EUR European Euro,,739
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",13,5,5.0,"10,000 or more employees",United States of America,USD	United States dollar,105000.0,740
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",16,,,,Sweden,,,741
+Some college/university study without earning a degree,8,,,,Germany,,,742
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",2,,,,India,,,743
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",14,,,,Australia,,,744
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",21,16,,10 to 19 employees,Spain,EUR European Euro,358320.0,745
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",10,5,5.0,"1,000 to 4,999 employees",Romania,USD	United States dollar,165000.0,746
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",12,5,7.0,"10,000 or more employees",Germany,EUR European Euro,95979.0,747
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",4,,,,United States of America,,,748
+"Associate degree (A.A., A.S., etc.)",30,22,22.0,20 to 99 employees,Spain,EUR European Euro,44790.0,749
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",38,,,,United States of America,,,750
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",17,8,8.0,"10,000 or more employees",Canada,CAD	Canadian dollar,166319.0,751
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",10,,5.0,,Canada,,,752
+Some college/university study without earning a degree,35,34,35.0,10 to 19 employees,Brazil,BRL	Brazilian real,13212.0,753
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",6,Less than 1 year,1.0,100 to 499 employees,France,EUR European Euro,,754
+Some college/university study without earning a degree,8,,,,Russian Federation,,,755
+"Other doctoral degree (Ph.D., Ed.D., etc.)",13,10,9.0,20 to 99 employees,Spain,EUR European Euro,37325.0,756
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",10,6,,500 to 999 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,62820.0,757
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",17,6,,100 to 499 employees,United States of America,USD	United States dollar,460000.0,758
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",4,4,6.0,100 to 499 employees,United States of America,USD	United States dollar,120000.0,759
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",15,10,10.0,"Just me - I am a freelancer, sole proprietor, etc.",United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,,760
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",17,3,3.0,20 to 99 employees,Russian Federation,RUB	Russian ruble,103908.0,761
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",12,8,8.0,20 to 99 employees,Mexico,MXN	Mexican peso,18060.0,762
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",14,9,9.0,20 to 99 employees,United States of America,USD	United States dollar,120000.0,763
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",9,3,,"10,000 or more employees",United States of America,USD	United States dollar,120000.0,764
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",46,46,46.0,20 to 99 employees,United States of America,USD	United States dollar,,765
+Some college/university study without earning a degree,10,3,3.0,"10,000 or more employees",Brazil,BRL	Brazilian real,14208.0,766
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",7,4,4.0,500 to 999 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,75384.0,767
+Some college/university study without earning a degree,25,12,,100 to 499 employees,Norway,NOK	Norwegian krone,186670.0,768
+Some college/university study without earning a degree,20,13,13.0,20 to 99 employees,Austria,EUR European Euro,79983.0,769
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",7,,,,Germany,,,770
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",4,1,,"10,000 or more employees",United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,542760.0,771
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",17,10,,"10,000 or more employees",Hungary,HUF	Hungarian forint,43524.0,772
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",8,8,,100 to 499 employees,United States of America,USD	United States dollar,162000.0,773
+Some college/university study without earning a degree,10,10,20.0,"5,000 to 9,999 employees",United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,175895.0,774
+Some college/university study without earning a degree,5,2,2.0,100 to 499 employees,United States of America,USD	United States dollar,115000.0,775
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",10,8,,"Just me - I am a freelancer, sole proprietor, etc.",Belgium,EUR European Euro,64500.0,776
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",13,2,2.0,I don’t know,Norway,NOK	Norwegian krone,66371.0,777
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",6,,1.0,,Switzerland,,,778
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",10,4,4.0,20 to 99 employees,Austria,EUR European Euro,,779
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",12,12,12.0,100 to 499 employees,United States of America,USD	United States dollar,250000.0,780
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",12,6,6.0,"10,000 or more employees",United States of America,USD	United States dollar,160000.0,781
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",6,2,2.0,"10,000 or more employees",India,INR	Indian rupee,28374.0,782
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",9,,6.0,,Denmark,,,783
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",21,12,10.0,"5,000 to 9,999 employees",United States of America,USD	United States dollar,160000.0,784
+Some college/university study without earning a degree,14,,,,Sweden,,,785
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",11,10,10.0,2 to 9 employees,Sweden,SEK	Swedish krona,,786
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",10,1,,"1,000 to 4,999 employees",United States of America,USD	United States dollar,145.0,787
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",21,16,,100 to 499 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,125639.0,788
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",4,,,,France,,,789
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",8,3,3.0,500 to 999 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,55910.0,790
+Some college/university study without earning a degree,2,,,,United States of America,,,791
+"Associate degree (A.A., A.S., etc.)",9,6,,"Just me - I am a freelancer, sole proprietor, etc.",Canada,CAD	Canadian dollar,163977.0,792
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",7,,,,United States of America,,,793
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",4,,,,United States of America,,,794
+Some college/university study without earning a degree,24,13,13.0,"1,000 to 4,999 employees",United States of America,USD	United States dollar,88000.0,795
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",22,9,9.0,"10,000 or more employees",United States of America,USD	United States dollar,350000.0,796
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",9,2,,"10,000 or more employees",Romania,RON	Romanian leu,72480.0,797
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",3,,3.0,,United States of America,,,798
+Some college/university study without earning a degree,11,6,6.0,10 to 19 employees,Netherlands,EUR European Euro,31993.0,799
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",5,3,,20 to 99 employees,Australia,AUD	Australian dollar,849252.0,800
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",9,9,,100 to 499 employees,Poland,PLN	Polish zloty,69372.0,801
+"Associate degree (A.A., A.S., etc.)",4,2,,"Just me - I am a freelancer, sole proprietor, etc.",Egypt,EGP	Egyptian pound,3264.0,802
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",11,,,,Czech Republic,,,803
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",20,15,,10 to 19 employees,Switzerland,CHF	Swiss franc,279233.0,804
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",12,12,12.0,"10,000 or more employees",Czech Republic,CZK	Czech koruna,57156.0,805
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",14,6,8.0,100 to 499 employees,United States of America,USD	United States dollar,142500.0,806
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",6,2,,10 to 19 employees,France,EUR European Euro,639864.0,807
+"Associate degree (A.A., A.S., etc.)",,,1.0,20 to 99 employees,Bangladesh,BDT	Bangladeshi taka,5256.0,808
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",20,20,22.0,100 to 499 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,87948.0,809
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",27,18,,"Just me - I am a freelancer, sole proprietor, etc.",Germany,EUR European Euro,127968.0,810
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",39,27,27.0,10 to 19 employees,Denmark,DKK	Danish krone,111840.0,811
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",6,,,,United States of America,,,812
+Some college/university study without earning a degree,11,,,,Canada,,,813
+"Other doctoral degree (Ph.D., Ed.D., etc.)",40,35,,"Just me - I am a freelancer, sole proprietor, etc.",United States of America,USD	United States dollar,,814
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",,,20.0,500 to 999 employees,United States of America,USD	United States dollar,,815
+Some college/university study without earning a degree,10,5,5.0,20 to 99 employees,Thailand,THB	Thai baht,11244.0,816
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",31,25,25.0,20 to 99 employees,United States of America,USD	United States dollar,,817
+"Other doctoral degree (Ph.D., Ed.D., etc.)",25,20,,100 to 499 employees,United States of America,USD	United States dollar,134000.0,818
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",10,4,4.0,"10,000 or more employees",Germany,EUR European Euro,60040.0,819
+Some college/university study without earning a degree,7,6,7.0,20 to 99 employees,United States of America,USD	United States dollar,175000.0,820
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",25,8,11.0,20 to 99 employees,Denmark,DKK	Danish krone,77688.0,821
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",3,,,,Germany,,,822
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",19,17,,"Just me - I am a freelancer, sole proprietor, etc.",Germany,EUR European Euro,74651.0,823
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",3,,,,Bangladesh,,,824
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",5,,,,United States of America,,,825
+"Professional degree (JD, MD, etc.)",12,7,7.0,10 to 19 employees,United States of America,USD	United States dollar,100000.0,826
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",3,,,,Finland,,,827
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",15,4,,10 to 19 employees,France,EUR European Euro,38392.0,828
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",20,13,13.0,10 to 19 employees,Serbia,RSD	Serbian dinar,43584.0,829
+Primary/elementary school,9,,,,Finland,,,830
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",4,,,,Israel,,,831
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",8,1,1.0,20 to 99 employees,France,EUR European Euro,49056.0,832
+"Other doctoral degree (Ph.D., Ed.D., etc.)",30,20,20.0,500 to 999 employees,Sweden,SEK	Swedish krona,,833
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",10,4,2.0,"5,000 to 9,999 employees",Canada,USD	United States dollar,200000.0,834
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",10,,2.0,,Canada,,,835
+Something else,3,,,,United States of America,,,836
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",8,,,,Poland,,,837
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",13,10,10.0,10 to 19 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,138203.0,838
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",10,4,5.0,100 to 499 employees,United States of America,USD	United States dollar,150000.0,839
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",9,4,,"Just me - I am a freelancer, sole proprietor, etc.",United Kingdom of Great Britain and Northern Ireland,EUR European Euro,,840
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",13,12,13.0,20 to 99 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,1206132.0,841
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",12,8,8.0,"5,000 to 9,999 employees",United States of America,USD	United States dollar,147000.0,842
+Some college/university study without earning a degree,13,10,,20 to 99 employees,United States of America,USD	United States dollar,165000.0,843
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",8,5,8.0,100 to 499 employees,Brazil,BRL	Brazilian real,16200.0,844
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",16,12,,20 to 99 employees,Italy,EUR European Euro,36259.0,845
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",25,25,25.0,10 to 19 employees,United States of America,USD	United States dollar,1500000.0,846
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",6,,,,Egypt,,,847
+Primary/elementary school,1,,,,Jordan,,,848
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",39,25,,100 to 499 employees,United States of America,USD	United States dollar,,849
+Primary/elementary school,1,,,,United States of America,,,850
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",20,,11.0,,Austria,,,851
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",30,20,20.0,100 to 499 employees,Spain,EUR European Euro,473496.0,852
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",8,6,6.0,"10,000 or more employees",India,INR	Indian rupee,24118.0,853
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",10,8,,"1,000 to 4,999 employees",United States of America,USD	United States dollar,140000.0,854
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",11,7,,"10,000 or more employees",United States of America,USD	United States dollar,116000.0,855
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",35,,,,United Kingdom of Great Britain and Northern Ireland,,,856
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",12,10,10.0,500 to 999 employees,United States of America,USD	United States dollar,155000.0,857
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",22,16,,20 to 99 employees,United States of America,USD	United States dollar,175000.0,858
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",10,,,,United States of America,,,859
+Some college/university study without earning a degree,5,3,3.0,100 to 499 employees,United States of America,USD	United States dollar,135000.0,860
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",More than 50 years,35,,"Just me - I am a freelancer, sole proprietor, etc.",United States of America,USD	United States dollar,,861
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",13,9,9.0,"1,000 to 4,999 employees",Canada,CAD	Canadian dollar,5075450.0,862
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",4,,,,United States of America,,,863
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",10,6,,20 to 99 employees,United States of America,USD	United States dollar,6000000.0,864
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",9,7,,500 to 999 employees,Canada,CAD	Canadian dollar,2623632.0,865
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",8,,1.0,,Netherlands,,,866
+Some college/university study without earning a degree,7,,,,Canada,,,867
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",6,2,,500 to 999 employees,United States of America,USD	United States dollar,140000.0,868
+Primary/elementary school,11,10,10.0,"10,000 or more employees",Sweden,SEK	Swedish krona,75576.0,869
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",9,4,4.0,"1,000 to 4,999 employees",United States of America,USD	United States dollar,61000.0,870
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",30,24,24.0,10 to 19 employees,United States of America,USD	United States dollar,178000.0,871
+Some college/university study without earning a degree,1,,,,United States of America,,,872
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",20,15,,500 to 999 employees,Canada,CAD	Canadian dollar,,873
+Some college/university study without earning a degree,26,26,30.0,20 to 99 employees,United States of America,USD	United States dollar,1800000.0,874
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",5,,,,Denmark,,,875
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",2,,,,United States of America,,,876
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",25,7,,I don’t know,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,125639.0,877
+"Professional degree (JD, MD, etc.)",10,10,,"1,000 to 4,999 employees",United States of America,USD	United States dollar,160000.0,878
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",10,2,2.0,500 to 999 employees,United States of America,USD	United States dollar,89000.0,879
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",7,,,,Norway,,,880
+"Associate degree (A.A., A.S., etc.)",3,Less than 1 year,,2 to 9 employees,United States of America,USD	United States dollar,50000.0,881
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",27,13,23.0,"5,000 to 9,999 employees",United States of America,USD	United States dollar,185000.0,882
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",20,16,,100 to 499 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,100511.0,883
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",7,3,,"10,000 or more employees",United States of America,USD	United States dollar,90000.0,884
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",9,,,,United Kingdom of Great Britain and Northern Ireland,,,885
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",22,18,20.0,20 to 99 employees,France,EUR European Euro,,886
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",9,2,,10 to 19 employees,France,EUR European Euro,30713.0,887
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",6,,,,Germany,,,888
+Some college/university study without earning a degree,6,3,3.0,2 to 9 employees,Brazil,BRL	Brazilian real,5736.0,889
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",6,,,,United States of America,,,890
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",10,6,6.0,"10,000 or more employees",United States of America,USD	United States dollar,320000.0,891
+Some college/university study without earning a degree,9,7,,10 to 19 employees,United States of America,USD	United States dollar,62500.0,892
+Some college/university study without earning a degree,3,2,,100 to 499 employees,United States of America,USD	United States dollar,,893
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",4,,,,Poland,,,894
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",5,3,3.0,100 to 499 employees,United States of America,USD	United States dollar,105000.0,895
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",24,20,,2 to 9 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,1206132.0,896
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",1,1,,100 to 499 employees,Singapore,SGD	Singapore dollar,39276.0,897
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",8,,,,Germany,,,898
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",44,40,,10 to 19 employees,United States of America,USD	United States dollar,,899
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",15,,,,Germany,,,900
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",3,,,,Canada,,,901
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",15,9,9.0,"1,000 to 4,999 employees",United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,182177.0,902
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",8,,,,Germany,,,903
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",6,,,,Switzerland,,,904
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",24,15,,,Germany,,,905
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",5,,,,Greece,,,906
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",6,,,I don’t know,India,INR	Indian rupee,,907
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",12,11,,100 to 499 employees,United States of America,USD	United States dollar,180000.0,908
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",3,,,,Jordan,,,909
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",5,,,,Czech Republic,,,910
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",2,3,,"Just me - I am a freelancer, sole proprietor, etc.",United States of America,USD	United States dollar,,911
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",17,,12.0,,Germany,,,912
+"Associate degree (A.A., A.S., etc.)",5,1,1.0,2 to 9 employees,Canada,CAD	Canadian dollar,,913
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",4,,,,United Kingdom of Great Britain and Northern Ireland,,,914
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",15,10,15.0,500 to 999 employees,United States of America,USD	United States dollar,,915
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",3,2,,2 to 9 employees,Pakistan,PKR	Pakistani rupee,8976.0,916
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",10,3,,100 to 499 employees,Norway,NOK	Norwegian krone,67409.0,917
+Some college/university study without earning a degree,7,,,,Germany,,,918
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",10,6,10.0,2 to 9 employees,Nepal,NPR	Nepalese rupee,9672.0,919
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",12,6,6.0,100 to 499 employees,United States of America,USD	United States dollar,80000.0,920
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",8,,,,France,,,921
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",12,,,,Canada,,,922
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",9,7,7.0,20 to 99 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,69102.0,923
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",3,,,,Italy,,,924
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",8,1,1.0,"1,000 to 4,999 employees",United States of America,USD	United States dollar,128750.0,925
+Some college/university study without earning a degree,13,4,,20 to 99 employees,Germany,EUR European Euro,34126.0,926
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",15,3,,"10,000 or more employees",United States of America,USD	United States dollar,170000.0,927
+"Associate degree (A.A., A.S., etc.)",18,8,,100 to 499 employees,United States of America,USD	United States dollar,125000.0,928
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",12,,,,Italy,,,929
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",5,4,4.0,"10,000 or more employees",United States of America,USD	United States dollar,80000.0,930
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",6,,,,Germany,,,931
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",10,,,,United States of America,,,932
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",6,,,,France,,,933
+,,,,,United States of America,,,934
+"Associate degree (A.A., A.S., etc.)",7,3,3.0,100 to 499 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,45858.0,935
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",14,7,7.0,"1,000 to 4,999 employees",Belgium,EUR European Euro,63986.0,936
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",2,,,,India,,,937
+Some college/university study without earning a degree,9,6,6.0,,Poland,,,938
+Some college/university study without earning a degree,6,4,4.0,2 to 9 employees,United States of America,USD	United States dollar,170000.0,939
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",40,35,35.0,10 to 19 employees,Sweden,SEK	Swedish krona,65820.0,940
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",8,8,8.0,20 to 99 employees,India,INR	Indian rupee,77383.0,941
+"Associate degree (A.A., A.S., etc.)",10,,5.0,,Spain,,,942
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",5,4,15.0,20 to 99 employees,United States of America,USD	United States dollar,100000.0,943
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",11,10,15.0,"10,000 or more employees",Norway,NOK	Norwegian krone,103705.0,944
+"Associate degree (A.A., A.S., etc.)",29,21,21.0,,United States of America,,,945
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",9,,,,Hungary,,,946
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",5,Less than 1 year,,100 to 499 employees,United States of America,USD	United States dollar,120000.0,947
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",23,20,21.0,20 to 99 employees,United States of America,USD	United States dollar,,948
+Some college/university study without earning a degree,15,13,13.0,"5,000 to 9,999 employees",United States of America,USD	United States dollar,200000.0,949
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",7,2,2.0,"10,000 or more employees",United States of America,USD	United States dollar,165000.0,950
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",5,2,1.0,20 to 99 employees,Denmark,DKK	Danish krone,77436.0,951
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",4,,,,Hong Kong (S.A.R.),,,952
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",15,10,10.0,100 to 499 employees,Hungary,HUF	Hungarian forint,46872.0,953
+Some college/university study without earning a degree,29,25,25.0,500 to 999 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,163331.0,954
+"Other doctoral degree (Ph.D., Ed.D., etc.)",20,15,,"5,000 to 9,999 employees",Switzerland,CHF	Swiss franc,134445.0,955
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",30,23,16.0,100 to 499 employees,Hungary,HUF	Hungarian forint,117168.0,956
+Primary/elementary school,1,Less than 1 year,,20 to 99 employees,Denmark,DKK	Danish krone,50200.0,957
+"Other doctoral degree (Ph.D., Ed.D., etc.)",20,20,,"5,000 to 9,999 employees",Australia,AUD	Australian dollar,99080.0,958
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",12,6,6.0,500 to 999 employees,India,INR	Indian rupee,51589.0,959
+Primary/elementary school,3,,,,"Iran, Islamic Republic of...",,,960
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",12,10,10.0,10 to 19 employees,Israel,ILS	Israeli new shekel,125544.0,961
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",13,,,,Germany,,,962
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",11,7,7.0,100 to 499 employees,United States of America,USD	United States dollar,250000.0,963
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",6,,,,Italy,,,964
+Some college/university study without earning a degree,25,14,14.0,10 to 19 employees,Argentina,ARS	Argentine peso,30300.0,965
+Some college/university study without earning a degree,10,3,,20 to 99 employees,United States of America,USD	United States dollar,95000.0,966
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",16,9,8.0,2 to 9 employees,Egypt,EGP	Egyptian pound,33924.0,967
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",,18,10.0,"10,000 or more employees",France,EUR European Euro,33603.0,968
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",6,3,3.0,100 to 499 employees,Poland,PLN	Polish zloty,31908.0,969
+"Associate degree (A.A., A.S., etc.)",23,9,10.0,"10,000 or more employees",United States of America,USD	United States dollar,81000.0,970
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",11,7,7.0,2 to 9 employees,United States of America,USD	United States dollar,80000.0,971
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",25,,,,United Kingdom of Great Britain and Northern Ireland,,,972
+Some college/university study without earning a degree,22,8,,500 to 999 employees,Netherlands,EUR European Euro,,973
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",17,,,,Canada,,,974
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",2,,,,France,,,975
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",9,Less than 1 year,,100 to 499 employees,United States of America,USD	United States dollar,105000.0,976
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",6,2,2.0,20 to 99 employees,United Kingdom of Great Britain and Northern Ireland,GBP	Pound sterling,37692.0,977
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",15,6,6.0,"1,000 to 4,999 employees",Netherlands,EUR European Euro,,978
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",15,10,6.0,"10,000 or more employees",United States of America,USD	United States dollar,175000.0,979
+Some college/university study without earning a degree,7,4,4.0,100 to 499 employees,Belgium,EUR European Euro,53748.0,980
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",22,6,6.0,20 to 99 employees,Netherlands,EUR European Euro,83184.0,981
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",12,,,,United States of America,,,982
+Some college/university study without earning a degree,12,4,4.0,20 to 99 employees,United States of America,USD	United States dollar,,983
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",17,6,,"10,000 or more employees",United States of America,USD	United States dollar,120000.0,984
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",14,12,12.0,500 to 999 employees,Finland,EUR European Euro,74651.0,985
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",1,,,,India,,,986
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",20,14,14.0,100 to 499 employees,United States of America,USD	United States dollar,195000.0,987
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",12,7,,20 to 99 employees,Spain,EUR European Euro,69318.0,988
+Something else,23,23,16.0,20 to 99 employees,Israel,ILS	Israeli new shekel,157836.0,989
+Some college/university study without earning a degree,5,,,,Germany,,,990
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",7,,,,Russian Federation,,,991
+"Associate degree (A.A., A.S., etc.)",25,14,,"Just me - I am a freelancer, sole proprietor, etc.",Denmark,DKK	Danish krone,316608.0,992
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",29,20,,"Just me - I am a freelancer, sole proprietor, etc.",Sweden,SEK	Swedish krona,48756.0,993
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",19,10,12.0,100 to 499 employees,Germany,EUR European Euro,511884.0,994
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",8,5,5.0,100 to 499 employees,United States of America,USD	United States dollar,160000.0,995
+Some college/university study without earning a degree,6,3,8.0,2 to 9 employees,United States of America,USD	United States dollar,,996
+"Associate degree (A.A., A.S., etc.)",4,4,6.0,100 to 499 employees,United States of America,USD	United States dollar,181000.0,997
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",17,11,,I don’t know,United States of America,USD	United States dollar,145000.0,998
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",6,,,,Poland,,,999
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",35,23,,20 to 99 employees,Hungary,HUF	Hungarian forint,40176.0,1000
+"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",3,,,,United States of America,,,1001
+Some college/university study without earning a degree,38,38,,"Just me - I am a freelancer, sole proprietor, etc.",United States of America,USD	United States dollar,,1002
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",12,4,8.0,"1,000 to 4,999 employees",Germany,EUR European Euro,85315.0,1003
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",20,18,20.0,100 to 499 employees,France,EUR European Euro,92136.0,1004
+"Bachelor’s degree (B.A., B.S., B.Eng., etc.)",6,3,,100 to 499 employees,United States of America,USD	United States dollar,82000.0,1005
+Some college/university study without earning a degree,9,9,9.0,"10,000 or more employees",United States of America,USD	United States dollar,180000.0,1006
+"Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",6,2,1.0,20 to 99 employees,Croatia,HRK	Croatian kuna,13464.0,1007

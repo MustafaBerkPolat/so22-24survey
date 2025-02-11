@@ -1,0 +1,1001 @@
+Knowledge_6,Knowledge_7,Knowledge_5,Knowledge_2,Knowledge_3,Knowledge_1,Knowledge_4,Frequency_2,Frequency_3,Frequency_1,TimeSearching,TimeAnswering,ResponseId
+Agree,Disagree,Agree,Disagree,Agree,Agree,Agree,3-5 times a week,Never,3-5 times a week,15-30 minutes a day,Over 120 minutes a day,8
+Agree,Agree,Agree,Agree,Disagree,Strongly agree,Agree,10+ times a week,3-5 times a week,10+ times a week,30-60 minutes a day,60-120 minutes a day,11
+Agree,Disagree,Strongly agree,Disagree,Strongly agree,Neither agree nor disagree,Strongly agree,Never,Never,Never,30-60 minutes a day,Less than 15 minutes a day,12
+Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,10+ times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,30-60 minutes a day,13
+Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,3-5 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,14
+Strongly agree,Agree,Neither agree nor disagree,Disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,6-10 times a week,3-5 times a week,1-2 times a week,30-60 minutes a day,60-120 minutes a day,21
+Disagree,Agree,Disagree,Agree,Disagree,Neither agree nor disagree,Disagree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,22
+Disagree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,60-120 minutes a day,25
+Neither agree nor disagree,Agree,Disagree,Neither agree nor disagree,Disagree,Agree,Disagree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,28
+Agree,Disagree,Agree,Neither agree nor disagree,Agree,Strongly agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,15-30 minutes a day,29
+Strongly agree,Strongly agree,Disagree,Strongly agree,Strongly disagree,Agree,Disagree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,31
+Strongly agree,Neither agree nor disagree,Strongly agree,Strongly agree,Neither agree nor disagree,Agree,Agree,1-2 times a week,1-2 times a week,Never,30-60 minutes a day,30-60 minutes a day,34
+Disagree,Disagree,Agree,Neither agree nor disagree,Agree,Agree,Strongly agree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,36
+Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Disagree,Agree,Agree,10+ times a week,Never,1-2 times a week,30-60 minutes a day,15-30 minutes a day,41
+Strongly agree,Agree,Strongly agree,Agree,Agree,Strongly agree,Strongly agree,1-2 times a week,Never,1-2 times a week,Less than 15 minutes a day,15-30 minutes a day,45
+Agree,Agree,Agree,Agree,Disagree,Strongly agree,Disagree,6-10 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,47
+Agree,Disagree,Disagree,Disagree,Neither agree nor disagree,Strongly agree,Disagree,3-5 times a week,Never,1-2 times a week,15-30 minutes a day,Less than 15 minutes a day,48
+Agree,Disagree,Strongly agree,Agree,Agree,Neither agree nor disagree,Agree,1-2 times a week,1-2 times a week,Never,30-60 minutes a day,15-30 minutes a day,49
+,,,,,Strongly disagree,,,,,15-30 minutes a day,Less than 15 minutes a day,50
+Neither agree nor disagree,Agree,Neither agree nor disagree,Disagree,Agree,Agree,Neither agree nor disagree,1-2 times a week,Never,1-2 times a week,Over 120 minutes a day,15-30 minutes a day,51
+Disagree,Disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,1-2 times a week,Never,Never,15-30 minutes a day,Less than 15 minutes a day,53
+Agree,Disagree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,6-10 times a week,Never,1-2 times a week,30-60 minutes a day,Over 120 minutes a day,54
+Agree,Agree,Disagree,Disagree,Agree,Strongly agree,Neither agree nor disagree,3-5 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,55
+Neither agree nor disagree,Agree,Agree,Agree,Agree,Strongly agree,Strongly agree,3-5 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,60-120 minutes a day,56
+Disagree,Strongly disagree,Agree,Strongly disagree,Strongly disagree,Strongly agree,Strongly agree,10+ times a week,Never,1-2 times a week,15-30 minutes a day,15-30 minutes a day,57
+Agree,Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,10+ times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,15-30 minutes a day,58
+Disagree,Strongly agree,Agree,Strongly agree,Agree,Strongly agree,Strongly disagree,1-2 times a week,3-5 times a week,1-2 times a week,Over 120 minutes a day,30-60 minutes a day,59
+Agree,Agree,Neither agree nor disagree,Disagree,Disagree,Agree,Agree,1-2 times a week,Never,1-2 times a week,30-60 minutes a day,30-60 minutes a day,60
+Agree,Agree,Agree,Agree,Disagree,Strongly agree,Agree,1-2 times a week,3-5 times a week,Never,30-60 minutes a day,15-30 minutes a day,65
+Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Agree,6-10 times a week,6-10 times a week,6-10 times a week,60-120 minutes a day,30-60 minutes a day,66
+Agree,Strongly agree,Neither agree nor disagree,Strongly agree,Agree,Strongly agree,Strongly agree,3-5 times a week,Never,Never,30-60 minutes a day,60-120 minutes a day,69
+Strongly agree,Strongly agree,Strongly disagree,Agree,Disagree,Strongly agree,Strongly disagree,3-5 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,Over 120 minutes a day,72
+Neither agree nor disagree,Agree,Agree,Disagree,Agree,Strongly agree,Agree,10+ times a week,Never,1-2 times a week,15-30 minutes a day,30-60 minutes a day,73
+Strongly agree,Disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Agree,6-10 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,30-60 minutes a day,76
+Neither agree nor disagree,Agree,Agree,Strongly disagree,Agree,Agree,Neither agree nor disagree,10+ times a week,Never,Never,15-30 minutes a day,30-60 minutes a day,78
+Agree,Neither agree nor disagree,Strongly agree,Agree,Neither agree nor disagree,Strongly agree,Agree,10+ times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,60-120 minutes a day,79
+,,,,,,,,,,30-60 minutes a day,30-60 minutes a day,81
+Strongly agree,Agree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,Strongly agree,Disagree,1-2 times a week,3-5 times a week,1-2 times a week,15-30 minutes a day,30-60 minutes a day,83
+Strongly agree,Agree,Agree,Neither agree nor disagree,Agree,Strongly agree,Agree,6-10 times a week,Never,1-2 times a week,15-30 minutes a day,60-120 minutes a day,84
+Agree,Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,Strongly agree,Agree,6-10 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,15-30 minutes a day,85
+Strongly agree,Agree,Agree,Agree,Agree,Strongly agree,Neither agree nor disagree,3-5 times a week,3-5 times a week,3-5 times a week,30-60 minutes a day,30-60 minutes a day,87
+Neither agree nor disagree,Agree,Agree,Agree,Disagree,Neither agree nor disagree,Disagree,Never,1-2 times a week,Never,60-120 minutes a day,Less than 15 minutes a day,89
+Disagree,Strongly disagree,Disagree,Agree,Neither agree nor disagree,Disagree,Neither agree nor disagree,1-2 times a week,,1-2 times a week,15-30 minutes a day,30-60 minutes a day,90
+Neither agree nor disagree,Disagree,Strongly agree,Neither agree nor disagree,Agree,Agree,Agree,1-2 times a week,1-2 times a week,Never,Less than 15 minutes a day,30-60 minutes a day,91
+Agree,Agree,Agree,Neither agree nor disagree,Agree,Agree,Agree,Never,1-2 times a week,Never,Less than 15 minutes a day,15-30 minutes a day,93
+Agree,Agree,Neither agree nor disagree,Agree,Agree,Strongly agree,Agree,6-10 times a week,1-2 times a week,3-5 times a week,60-120 minutes a day,60-120 minutes a day,95
+Neither agree nor disagree,Disagree,Neither agree nor disagree,Disagree,Disagree,Strongly agree,Neither agree nor disagree,6-10 times a week,Never,1-2 times a week,60-120 minutes a day,15-30 minutes a day,96
+Agree,Disagree,Agree,Disagree,Agree,Strongly agree,Strongly agree,3-5 times a week,1-2 times a week,1-2 times a week,Less than 15 minutes a day,30-60 minutes a day,97
+Disagree,Agree,Agree,Neither agree nor disagree,Agree,Agree,Disagree,1-2 times a week,Never,Never,15-30 minutes a day,Less than 15 minutes a day,101
+Disagree,Disagree,Agree,Agree,Agree,Agree,Strongly agree,1-2 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,15-30 minutes a day,102
+,,,,Agree,Agree,,,,,,,104
+Agree,Neither agree nor disagree,Strongly agree,Agree,Strongly disagree,Strongly agree,Agree,6-10 times a week,3-5 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,105
+Strongly agree,Strongly agree,Agree,Strongly agree,Disagree,Agree,Disagree,3-5 times a week,6-10 times a week,Never,30-60 minutes a day,15-30 minutes a day,107
+Neither agree nor disagree,Agree,Disagree,Agree,Strongly agree,Agree,Disagree,1-2 times a week,1-2 times a week,Never,Over 120 minutes a day,Less than 15 minutes a day,109
+Disagree,Neither agree nor disagree,Disagree,Disagree,Agree,Agree,Neither agree nor disagree,3-5 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,30-60 minutes a day,111
+Neither agree nor disagree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Agree,Strongly agree,1-2 times a week,1-2 times a week,Never,60-120 minutes a day,30-60 minutes a day,112
+Agree,Disagree,Agree,Disagree,Agree,Agree,Agree,3-5 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,60-120 minutes a day,113
+Agree,Agree,Agree,Neither agree nor disagree,Agree,Agree,Agree,6-10 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,114
+Neither agree nor disagree,Agree,Strongly agree,Agree,Disagree,Neither agree nor disagree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,Less than 15 minutes a day,115
+Agree,Agree,Strongly agree,Strongly disagree,Strongly agree,Strongly agree,Strongly agree,1-2 times a week,Never,1-2 times a week,15-30 minutes a day,15-30 minutes a day,117
+Strongly agree,Strongly agree,Agree,Agree,Strongly disagree,Strongly agree,Agree,6-10 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,30-60 minutes a day,119
+Agree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,Agree,Strongly agree,Strongly agree,3-5 times a week,Never,1-2 times a week,30-60 minutes a day,60-120 minutes a day,120
+Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,Disagree,Strongly agree,Agree,10+ times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,30-60 minutes a day,121
+Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,1-2 times a week,1-2 times a week,Never,15-30 minutes a day,30-60 minutes a day,122
+Agree,Agree,Agree,Disagree,Agree,Agree,Neither agree nor disagree,3-5 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,123
+Strongly agree,Agree,Agree,Neither agree nor disagree,Agree,Agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,Over 120 minutes a day,15-30 minutes a day,126
+Agree,Agree,Agree,Strongly agree,Strongly disagree,Disagree,Agree,1-2 times a week,1-2 times a week,Never,30-60 minutes a day,15-30 minutes a day,132
+Neither agree nor disagree,Strongly agree,Agree,Disagree,Strongly disagree,Neither agree nor disagree,Strongly disagree,1-2 times a week,Never,Never,30-60 minutes a day,15-30 minutes a day,134
+Strongly agree,Disagree,Disagree,Neither agree nor disagree,Disagree,Strongly agree,Disagree,1-2 times a week,Never,Never,30-60 minutes a day,15-30 minutes a day,137
+Neither agree nor disagree,Agree,Agree,Disagree,Agree,Neither agree nor disagree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,138
+Agree,Agree,Neither agree nor disagree,Disagree,Agree,Agree,Agree,1-2 times a week,Never,Never,30-60 minutes a day,30-60 minutes a day,140
+Disagree,Strongly disagree,Agree,Disagree,Agree,Strongly agree,Agree,3-5 times a week,Never,1-2 times a week,15-30 minutes a day,15-30 minutes a day,143
+Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Never,Never,Never,Less than 15 minutes a day,Less than 15 minutes a day,144
+Agree,Agree,Agree,Agree,Agree,Agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,148
+Agree,Agree,Agree,Disagree,Agree,Strongly agree,Agree,Never,Never,Never,30-60 minutes a day,Less than 15 minutes a day,151
+Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Agree,Strongly agree,Strongly agree,Strongly agree,3-5 times a week,1-2 times a week,3-5 times a week,30-60 minutes a day,30-60 minutes a day,153
+Agree,Disagree,Strongly agree,Strongly agree,Agree,Strongly agree,Agree,6-10 times a week,10+ times a week,1-2 times a week,60-120 minutes a day,Over 120 minutes a day,154
+Neither agree nor disagree,Agree,Agree,Agree,Agree,Agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,Less than 15 minutes a day,157
+Agree,Neither agree nor disagree,Agree,Disagree,Agree,Strongly agree,Agree,10+ times a week,1-2 times a week,Never,30-60 minutes a day,30-60 minutes a day,158
+Agree,Strongly disagree,Strongly agree,Neither agree nor disagree,Agree,Disagree,Agree,Never,1-2 times a week,Never,30-60 minutes a day,15-30 minutes a day,160
+Agree,Agree,Agree,Disagree,Agree,Agree,Neither agree nor disagree,1-2 times a week,1-2 times a week,3-5 times a week,Less than 15 minutes a day,15-30 minutes a day,162
+Disagree,Agree,Agree,Neither agree nor disagree,Agree,Agree,Disagree,1-2 times a week,1-2 times a week,Never,30-60 minutes a day,15-30 minutes a day,163
+Strongly disagree,Neither agree nor disagree,Agree,Strongly disagree,Strongly agree,Strongly agree,Strongly agree,1-2 times a week,Never,1-2 times a week,30-60 minutes a day,30-60 minutes a day,164
+Disagree,Disagree,Neither agree nor disagree,Agree,Agree,Agree,Agree,3-5 times a week,3-5 times a week,Never,30-60 minutes a day,15-30 minutes a day,167
+Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,Agree,Agree,Agree,3-5 times a week,1-2 times a week,1-2 times a week,Less than 15 minutes a day,15-30 minutes a day,172
+Agree,Neither agree nor disagree,Disagree,Strongly agree,Disagree,Strongly agree,Disagree,6-10 times a week,10+ times a week,1-2 times a week,30-60 minutes a day,Over 120 minutes a day,178
+Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Never,1-2 times a week,Never,60-120 minutes a day,60-120 minutes a day,179
+Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Disagree,Agree,Disagree,6-10 times a week,3-5 times a week,3-5 times a week,Over 120 minutes a day,60-120 minutes a day,181
+Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,3-5 times a week,3-5 times a week,3-5 times a week,30-60 minutes a day,30-60 minutes a day,183
+Disagree,Agree,,Neither agree nor disagree,Agree,Agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,Less than 15 minutes a day,185
+Strongly agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,3-5 times a week,3-5 times a week,Never,15-30 minutes a day,30-60 minutes a day,188
+Agree,Disagree,Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Never,1-2 times a week,Never,60-120 minutes a day,15-30 minutes a day,189
+Agree,Disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Never,Never,Never,30-60 minutes a day,15-30 minutes a day,191
+Agree,Agree,Agree,Disagree,Strongly agree,Agree,Agree,1-2 times a week,1-2 times a week,Never,30-60 minutes a day,15-30 minutes a day,192
+Neither agree nor disagree,Strongly agree,Agree,Strongly agree,Neither agree nor disagree,Strongly agree,Agree,3-5 times a week,3-5 times a week,3-5 times a week,15-30 minutes a day,Less than 15 minutes a day,193
+Strongly agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Disagree,Neither agree nor disagree,Neither agree nor disagree,1-2 times a week,1-2 times a week,1-2 times a week,Less than 15 minutes a day,30-60 minutes a day,196
+Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,Agree,Strongly agree,Agree,1-2 times a week,1-2 times a week,Never,15-30 minutes a day,Less than 15 minutes a day,200
+Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,Strongly agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,Less than 15 minutes a day,201
+Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Disagree,Agree,Agree,3-5 times a week,3-5 times a week,1-2 times a week,60-120 minutes a day,30-60 minutes a day,202
+Strongly agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,Never,1-2 times a week,Never,15-30 minutes a day,15-30 minutes a day,203
+Disagree,Strongly agree,Disagree,Agree,Strongly agree,Agree,Disagree,1-2 times a week,1-2 times a week,Never,30-60 minutes a day,Less than 15 minutes a day,204
+Agree,Neither agree nor disagree,Disagree,Strongly agree,Disagree,Agree,Disagree,6-10 times a week,10+ times a week,1-2 times a week,30-60 minutes a day,60-120 minutes a day,205
+Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,Strongly agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,15-30 minutes a day,207
+Neither agree nor disagree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,10+ times a week,1-2 times a week,1-2 times a week,Less than 15 minutes a day,Less than 15 minutes a day,209
+Agree,Agree,Agree,Neither agree nor disagree,Disagree,Agree,Neither agree nor disagree,1-2 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,Less than 15 minutes a day,210
+Neither agree nor disagree,Strongly agree,Agree,Neither agree nor disagree,Agree,Agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,212
+Agree,Agree,Agree,Agree,Neither agree nor disagree,Agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,Less than 15 minutes a day,213
+Agree,Agree,Disagree,Agree,Agree,Agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,214
+Agree,Disagree,Strongly agree,Strongly disagree,Strongly disagree,Strongly agree,Strongly agree,6-10 times a week,Never,3-5 times a week,Less than 15 minutes a day,15-30 minutes a day,218
+Neither agree nor disagree,Disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,Less than 15 minutes a day,222
+Agree,Agree,Agree,Neither agree nor disagree,Agree,Agree,Disagree,10+ times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,60-120 minutes a day,223
+Disagree,Neither agree nor disagree,Agree,Disagree,Neither agree nor disagree,Agree,Agree,Never,Never,Never,30-60 minutes a day,15-30 minutes a day,224
+Neither agree nor disagree,Disagree,Agree,Agree,Agree,Agree,Neither agree nor disagree,1-2 times a week,Never,Never,Less than 15 minutes a day,15-30 minutes a day,225
+Strongly agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Disagree,Strongly agree,Disagree,1-2 times a week,,1-2 times a week,Less than 15 minutes a day,30-60 minutes a day,228
+Disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,30-60 minutes a day,232
+Agree,Strongly agree,Agree,Disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,Less than 15 minutes a day,15-30 minutes a day,233
+Strongly agree,Agree,Agree,Strongly disagree,Strongly agree,Strongly agree,Agree,1-2 times a week,Never,1-2 times a week,15-30 minutes a day,15-30 minutes a day,239
+Disagree,Agree,Agree,Disagree,Agree,Agree,Agree,3-5 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,30-60 minutes a day,243
+Agree,Agree,Agree,Agree,Disagree,Strongly agree,Disagree,10+ times a week,6-10 times a week,6-10 times a week,30-60 minutes a day,60-120 minutes a day,247
+Strongly agree,Disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,10+ times a week,1-2 times a week,Never,Over 120 minutes a day,30-60 minutes a day,254
+Strongly agree,Agree,Agree,Disagree,Agree,Strongly agree,Neither agree nor disagree,10+ times a week,Never,1-2 times a week,30-60 minutes a day,60-120 minutes a day,255
+Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Agree,Agree,3-5 times a week,3-5 times a week,3-5 times a week,30-60 minutes a day,60-120 minutes a day,257
+Agree,Agree,Agree,Neither agree nor disagree,Strongly disagree,Agree,Neither agree nor disagree,1-2 times a week,Never,Never,30-60 minutes a day,Less than 15 minutes a day,258
+Agree,Agree,Neither agree nor disagree,Agree,Disagree,Strongly agree,Neither agree nor disagree,10+ times a week,1-2 times a week,3-5 times a week,30-60 minutes a day,30-60 minutes a day,259
+Disagree,Neither agree nor disagree,Agree,Disagree,Agree,Strongly agree,Agree,6-10 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,30-60 minutes a day,261
+Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,3-5 times a week,Never,1-2 times a week,15-30 minutes a day,Less than 15 minutes a day,262
+Neither agree nor disagree,Agree,Neither agree nor disagree,Strongly disagree,Strongly agree,Agree,Agree,3-5 times a week,Never,1-2 times a week,30-60 minutes a day,15-30 minutes a day,266
+Strongly agree,Strongly agree,Agree,Neither agree nor disagree,Strongly agree,Agree,Agree,3-5 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,268
+Neither agree nor disagree,Strongly agree,Agree,Strongly agree,Neither agree nor disagree,Strongly agree,Agree,1-2 times a week,3-5 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,269
+Strongly agree,Strongly disagree,Agree,Strongly agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,1-2 times a week,1-2 times a week,Never,15-30 minutes a day,60-120 minutes a day,271
+Agree,Disagree,Agree,Neither agree nor disagree,Agree,Strongly agree,Agree,3-5 times a week,Never,1-2 times a week,30-60 minutes a day,60-120 minutes a day,273
+Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Agree,Agree,1-2 times a week,Never,1-2 times a week,60-120 minutes a day,60-120 minutes a day,274
+Disagree,Agree,Disagree,Strongly agree,Disagree,Agree,Disagree,1-2 times a week,,Never,60-120 minutes a day,15-30 minutes a day,275
+Agree,Agree,Strongly agree,Disagree,Agree,Strongly agree,Neither agree nor disagree,1-2 times a week,Never,1-2 times a week,60-120 minutes a day,30-60 minutes a day,276
+Agree,Agree,Neither agree nor disagree,Agree,Agree,Strongly agree,Neither agree nor disagree,6-10 times a week,1-2 times a week,3-5 times a week,30-60 minutes a day,15-30 minutes a day,277
+Disagree,Disagree,Neither agree nor disagree,Disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Never,Never,Never,15-30 minutes a day,Less than 15 minutes a day,278
+Agree,Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,1-2 times a week,1-2 times a week,3-5 times a week,15-30 minutes a day,Less than 15 minutes a day,279
+Disagree,Strongly agree,Strongly disagree,Agree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,10+ times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,30-60 minutes a day,280
+Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Strongly agree,Strongly agree,Strongly agree,10+ times a week,Never,1-2 times a week,15-30 minutes a day,15-30 minutes a day,282
+Strongly agree,Agree,Agree,Agree,Neither agree nor disagree,Strongly agree,Agree,6-10 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,60-120 minutes a day,283
+Strongly agree,Strongly agree,Neither agree nor disagree,Disagree,Strongly disagree,Neither agree nor disagree,Agree,10+ times a week,10+ times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,284
+Agree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,Agree,Agree,Strongly agree,3-5 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,Less than 15 minutes a day,291
+Neither agree nor disagree,Strongly agree,Agree,Agree,Agree,Strongly agree,Agree,3-5 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,15-30 minutes a day,292
+Neither agree nor disagree,Disagree,Neither agree nor disagree,Disagree,Agree,Strongly agree,Neither agree nor disagree,1-2 times a week,Never,1-2 times a week,,30-60 minutes a day,296
+Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,Agree,Strongly agree,Agree,10+ times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,30-60 minutes a day,297
+Neither agree nor disagree,Agree,Agree,Agree,Agree,Agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,Over 120 minutes a day,30-60 minutes a day,298
+Disagree,Agree,Agree,Agree,Disagree,Disagree,Agree,1-2 times a week,3-5 times a week,1-2 times a week,15-30 minutes a day,15-30 minutes a day,299
+Strongly agree,Agree,Agree,Strongly disagree,Agree,Strongly agree,Agree,6-10 times a week,Never,1-2 times a week,30-60 minutes a day,Less than 15 minutes a day,301
+Strongly agree,Strongly agree,Disagree,Strongly agree,Agree,Strongly agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,307
+Neither agree nor disagree,Agree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,Agree,Disagree,3-5 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,15-30 minutes a day,308
+Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,Agree,Agree,Agree,1-2 times a week,Never,Never,30-60 minutes a day,Less than 15 minutes a day,312
+Disagree,Agree,Agree,Strongly agree,Agree,Strongly agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,Less than 15 minutes a day,313
+Neither agree nor disagree,Strongly agree,Agree,Agree,Agree,Strongly agree,Agree,3-5 times a week,3-5 times a week,3-5 times a week,30-60 minutes a day,30-60 minutes a day,315
+Agree,Agree,Neither agree nor disagree,Agree,Disagree,Agree,Disagree,1-2 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,15-30 minutes a day,316
+Agree,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Disagree,Strongly agree,Neither agree nor disagree,3-5 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,317
+Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Strongly disagree,Strongly agree,Strongly agree,Strongly agree,3-5 times a week,Never,Never,60-120 minutes a day,15-30 minutes a day,318
+Strongly agree,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly agree,Strongly agree,1-2 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,30-60 minutes a day,320
+Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,,,,,,321
+Agree,Agree,Agree,Neither agree nor disagree,Agree,Agree,Agree,3-5 times a week,1-2 times a week,3-5 times a week,Less than 15 minutes a day,30-60 minutes a day,322
+Neither agree nor disagree,Disagree,Strongly agree,Agree,Agree,Disagree,Strongly agree,1-2 times a week,1-2 times a week,Never,Less than 15 minutes a day,15-30 minutes a day,323
+Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,1-2 times a week,3-5 times a week,1-2 times a week,15-30 minutes a day,Less than 15 minutes a day,325
+Agree,Agree,Strongly agree,Agree,Neither agree nor disagree,Agree,Strongly agree,1-2 times a week,3-5 times a week,1-2 times a week,60-120 minutes a day,30-60 minutes a day,327
+,,,,,,,,,,60-120 minutes a day,15-30 minutes a day,328
+,,,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,10+ times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,30-60 minutes a day,329
+Disagree,Agree,Agree,Strongly agree,Agree,Disagree,Agree,1-2 times a week,,1-2 times a week,30-60 minutes a day,Less than 15 minutes a day,330
+Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,Strongly agree,Strongly agree,Agree,6-10 times a week,3-5 times a week,1-2 times a week,30-60 minutes a day,Less than 15 minutes a day,331
+Agree,Agree,Agree,Agree,Agree,Strongly agree,Neither agree nor disagree,10+ times a week,Never,1-2 times a week,Less than 15 minutes a day,Over 120 minutes a day,334
+Disagree,Agree,Neither agree nor disagree,Strongly agree,Disagree,Neither agree nor disagree,Strongly disagree,1-2 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,30-60 minutes a day,336
+Agree,Agree,Agree,Disagree,Neither agree nor disagree,Agree,Disagree,1-2 times a week,1-2 times a week,1-2 times a week,Over 120 minutes a day,Less than 15 minutes a day,337
+Strongly agree,Agree,Agree,Disagree,Agree,Strongly agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,Less than 15 minutes a day,340
+Agree,Agree,Disagree,Agree,Neither agree nor disagree,Agree,Disagree,3-5 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,342
+Agree,Agree,Agree,Agree,Agree,Agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,15-30 minutes a day,346
+Disagree,Disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Strongly agree,Agree,6-10 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,15-30 minutes a day,347
+Neither agree nor disagree,Disagree,Agree,Strongly disagree,Agree,Agree,Agree,3-5 times a week,Never,Never,15-30 minutes a day,30-60 minutes a day,348
+Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,Agree,Agree,Agree,1-2 times a week,Never,1-2 times a week,,,349
+Disagree,Agree,Neither agree nor disagree,Agree,Disagree,Agree,Disagree,6-10 times a week,3-5 times a week,1-2 times a week,15-30 minutes a day,30-60 minutes a day,351
+Disagree,Disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Disagree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,Less than 15 minutes a day,352
+Agree,Disagree,Agree,Disagree,Agree,Agree,Agree,1-2 times a week,1-2 times a week,Never,30-60 minutes a day,30-60 minutes a day,353
+Agree,Disagree,Agree,Disagree,Neither agree nor disagree,Disagree,Agree,3-5 times a week,Never,Never,Less than 15 minutes a day,Less than 15 minutes a day,356
+Agree,Strongly agree,Neither agree nor disagree,Agree,Disagree,Disagree,Neither agree nor disagree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,60-120 minutes a day,358
+Neither agree nor disagree,Agree,Neither agree nor disagree,Disagree,Strongly disagree,Agree,Neither agree nor disagree,3-5 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,30-60 minutes a day,359
+Neither agree nor disagree,Disagree,Strongly agree,Disagree,Strongly agree,Strongly agree,Agree,3-5 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,30-60 minutes a day,360
+Strongly agree,Agree,Neither agree nor disagree,Disagree,Agree,Agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,361
+Disagree,Neither agree nor disagree,Neither agree nor disagree,Disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,1-2 times a week,Never,Never,30-60 minutes a day,30-60 minutes a day,362
+Strongly agree,Agree,Strongly disagree,Strongly agree,Disagree,Strongly agree,Strongly disagree,3-5 times a week,3-5 times a week,1-2 times a week,Over 120 minutes a day,60-120 minutes a day,363
+Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,Agree,Agree,Agree,1-2 times a week,Never,1-2 times a week,60-120 minutes a day,30-60 minutes a day,364
+Agree,Strongly agree,Agree,Agree,Agree,Strongly agree,Agree,6-10 times a week,1-2 times a week,3-5 times a week,30-60 minutes a day,60-120 minutes a day,365
+Neither agree nor disagree,Disagree,Strongly agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,1-2 times a week,1-2 times a week,3-5 times a week,15-30 minutes a day,15-30 minutes a day,367
+Strongly agree,Agree,Strongly agree,Agree,Agree,Agree,Disagree,6-10 times a week,3-5 times a week,3-5 times a week,30-60 minutes a day,30-60 minutes a day,368
+Disagree,Strongly agree,Disagree,Agree,Disagree,Agree,Neither agree nor disagree,1-2 times a week,1-2 times a week,Never,30-60 minutes a day,Less than 15 minutes a day,373
+Agree,Strongly agree,Strongly agree,Disagree,Disagree,Agree,Strongly agree,Never,3-5 times a week,Never,15-30 minutes a day,15-30 minutes a day,376
+Disagree,Agree,Strongly agree,Strongly disagree,Neither agree nor disagree,Agree,Agree,1-2 times a week,Never,Never,15-30 minutes a day,15-30 minutes a day,380
+Neither agree nor disagree,Agree,Agree,Disagree,Strongly agree,Strongly agree,Strongly agree,3-5 times a week,Never,3-5 times a week,30-60 minutes a day,30-60 minutes a day,381
+Disagree,Disagree,Agree,Disagree,Agree,Neither agree nor disagree,Agree,1-2 times a week,1-2 times a week,Never,30-60 minutes a day,Less than 15 minutes a day,382
+Agree,Agree,Strongly agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Never,Never,Never,15-30 minutes a day,Less than 15 minutes a day,383
+Disagree,Disagree,Neither agree nor disagree,Agree,Agree,Strongly agree,Neither agree nor disagree,1-2 times a week,Never,Never,60-120 minutes a day,30-60 minutes a day,385
+Disagree,Neither agree nor disagree,Agree,Agree,Agree,Strongly agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,387
+Strongly agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,10+ times a week,1-2 times a week,1-2 times a week,Over 120 minutes a day,Over 120 minutes a day,388
+Disagree,Strongly agree,Neither agree nor disagree,Agree,Strongly disagree,Disagree,Strongly disagree,3-5 times a week,3-5 times a week,3-5 times a week,60-120 minutes a day,15-30 minutes a day,389
+Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Strongly agree,Agree,3-5 times a week,Never,1-2 times a week,30-60 minutes a day,15-30 minutes a day,390
+Strongly agree,Strongly agree,Agree,Strongly agree,Neither agree nor disagree,Strongly agree,Disagree,10+ times a week,3-5 times a week,10+ times a week,60-120 minutes a day,30-60 minutes a day,391
+Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,3-5 times a week,1-2 times a week,3-5 times a week,30-60 minutes a day,Less than 15 minutes a day,392
+Strongly disagree,Disagree,Neither agree nor disagree,Disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,393
+Disagree,Agree,Agree,Disagree,Agree,Strongly disagree,Agree,1-2 times a week,Never,1-2 times a week,30-60 minutes a day,Less than 15 minutes a day,395
+Neither agree nor disagree,Strongly disagree,Strongly agree,Strongly disagree,Disagree,Strongly agree,Strongly agree,6-10 times a week,Never,Never,30-60 minutes a day,15-30 minutes a day,398
+Disagree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,Agree,Strongly agree,Agree,3-5 times a week,1-2 times a week,1-2 times a week,Less than 15 minutes a day,15-30 minutes a day,399
+Disagree,Agree,Disagree,Neither agree nor disagree,Disagree,Disagree,Disagree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,400
+Strongly agree,Strongly agree,Agree,Agree,Neither agree nor disagree,Strongly agree,Disagree,3-5 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,401
+Agree,Disagree,Agree,Agree,Agree,Strongly agree,Neither agree nor disagree,6-10 times a week,1-2 times a week,1-2 times a week,Less than 15 minutes a day,30-60 minutes a day,402
+Agree,Neither agree nor disagree,Agree,Strongly disagree,Agree,Agree,Neither agree nor disagree,1-2 times a week,Never,1-2 times a week,30-60 minutes a day,Less than 15 minutes a day,404
+Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Disagree,Neither agree nor disagree,Neither agree nor disagree,1-2 times a week,6-10 times a week,1-2 times a week,Over 120 minutes a day,15-30 minutes a day,405
+Agree,Agree,Agree,Disagree,Agree,Strongly agree,Agree,3-5 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,60-120 minutes a day,406
+Disagree,Neither agree nor disagree,Agree,Strongly disagree,Strongly agree,Strongly agree,Strongly agree,1-2 times a week,Never,Never,30-60 minutes a day,Less than 15 minutes a day,407
+Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Disagree,Agree,Neither agree nor disagree,3-5 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,409
+Strongly disagree,Disagree,Disagree,Strongly agree,Disagree,Strongly agree,Strongly disagree,3-5 times a week,3-5 times a week,1-2 times a week,30-60 minutes a day,Less than 15 minutes a day,410
+Disagree,Agree,Strongly agree,Agree,Disagree,Agree,Strongly agree,1-2 times a week,3-5 times a week,Never,15-30 minutes a day,Less than 15 minutes a day,411
+Agree,Agree,Agree,Agree,Disagree,Agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,421
+Agree,Agree,Agree,Strongly disagree,Strongly disagree,Agree,Agree,Never,Never,Never,60-120 minutes a day,15-30 minutes a day,431
+Neither agree nor disagree,Agree,Neither agree nor disagree,Strongly agree,Disagree,Strongly agree,Neither agree nor disagree,6-10 times a week,6-10 times a week,1-2 times a week,60-120 minutes a day,15-30 minutes a day,432
+Agree,Agree,Agree,Disagree,Agree,Agree,Neither agree nor disagree,1-2 times a week,,1-2 times a week,15-30 minutes a day,15-30 minutes a day,435
+Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,6-10 times a week,Never,1-2 times a week,15-30 minutes a day,60-120 minutes a day,439
+Neither agree nor disagree,Strongly agree,Disagree,Agree,Agree,Agree,Agree,3-5 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,15-30 minutes a day,440
+Neither agree nor disagree,Agree,Agree,Disagree,Agree,Agree,Agree,1-2 times a week,Never,1-2 times a week,30-60 minutes a day,15-30 minutes a day,441
+Agree,Agree,Agree,Disagree,Strongly agree,Agree,Agree,Never,Never,Never,30-60 minutes a day,60-120 minutes a day,442
+Agree,Strongly disagree,Strongly agree,Disagree,Agree,Agree,Strongly agree,3-5 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,443
+Agree,Agree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,Agree,Neither agree nor disagree,3-5 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,60-120 minutes a day,445
+Strongly agree,Strongly agree,Strongly disagree,Strongly agree,Disagree,Agree,Disagree,1-2 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,Over 120 minutes a day,447
+Disagree,Strongly agree,Agree,Agree,Neither agree nor disagree,Strongly agree,Agree,6-10 times a week,3-5 times a week,1-2 times a week,15-30 minutes a day,30-60 minutes a day,449
+Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Strongly agree,Strongly disagree,Strongly agree,6-10 times a week,Never,1-2 times a week,15-30 minutes a day,15-30 minutes a day,453
+Agree,Agree,Disagree,Strongly agree,Neither agree nor disagree,Agree,Neither agree nor disagree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,60-120 minutes a day,458
+Agree,Disagree,Agree,Strongly agree,Neither agree nor disagree,Agree,Neither agree nor disagree,3-5 times a week,3-5 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,464
+Neither agree nor disagree,Disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,1-2 times a week,3-5 times a week,1-2 times a week,15-30 minutes a day,30-60 minutes a day,466
+Neither agree nor disagree,Disagree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Never,Never,Never,60-120 minutes a day,Less than 15 minutes a day,467
+Agree,Disagree,Strongly agree,Strongly disagree,Strongly agree,Strongly agree,Agree,10+ times a week,Never,Never,30-60 minutes a day,30-60 minutes a day,468
+Agree,Disagree,Agree,Agree,Strongly disagree,Strongly agree,Disagree,6-10 times a week,3-5 times a week,6-10 times a week,30-60 minutes a day,30-60 minutes a day,469
+Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,3-5 times a week,3-5 times a week,6-10 times a week,30-60 minutes a day,30-60 minutes a day,470
+Disagree,Agree,Disagree,Agree,Strongly agree,Disagree,Disagree,Never,1-2 times a week,Never,15-30 minutes a day,15-30 minutes a day,472
+Agree,Neither agree nor disagree,Disagree,Strongly agree,Strongly disagree,Agree,Strongly disagree,1-2 times a week,1-2 times a week,3-5 times a week,Over 120 minutes a day,Over 120 minutes a day,473
+Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Agree,Strongly agree,Agree,3-5 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,Less than 15 minutes a day,474
+Strongly agree,Agree,Agree,Agree,Neither agree nor disagree,Agree,Disagree,1-2 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,30-60 minutes a day,475
+Agree,Agree,Agree,Neither agree nor disagree,Agree,Agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,15-30 minutes a day,478
+Agree,Agree,Agree,Strongly agree,Disagree,Strongly agree,Disagree,10+ times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,60-120 minutes a day,482
+Neither agree nor disagree,Neither agree nor disagree,Agree,Strongly agree,Strongly disagree,Agree,Agree,3-5 times a week,10+ times a week,1-2 times a week,60-120 minutes a day,30-60 minutes a day,485
+Agree,Agree,Neither agree nor disagree,Agree,Agree,Disagree,Agree,1-2 times a week,Never,Never,15-30 minutes a day,15-30 minutes a day,486
+Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Disagree,Neither agree nor disagree,1-2 times a week,3-5 times a week,1-2 times a week,60-120 minutes a day,15-30 minutes a day,487
+Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,3-5 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,488
+Strongly disagree,Disagree,Agree,Neither agree nor disagree,Agree,Strongly agree,Agree,6-10 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,490
+Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Agree,Strongly agree,Disagree,Agree,3-5 times a week,1-2 times a week,1-2 times a week,Over 120 minutes a day,Less than 15 minutes a day,492
+Disagree,Neither agree nor disagree,Agree,Disagree,Disagree,Agree,Agree,3-5 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,493
+Disagree,Disagree,Strongly agree,Disagree,Agree,Strongly agree,Agree,10+ times a week,Never,1-2 times a week,15-30 minutes a day,30-60 minutes a day,494
+Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,3-5 times a week,,1-2 times a week,Over 120 minutes a day,Over 120 minutes a day,495
+Neither agree nor disagree,Neither agree nor disagree,Disagree,Disagree,Disagree,Agree,Disagree,1-2 times a week,6-10 times a week,1-2 times a week,Less than 15 minutes a day,30-60 minutes a day,499
+Agree,Strongly agree,Disagree,Agree,Strongly disagree,Agree,Disagree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,500
+Disagree,Disagree,Agree,Agree,Neither agree nor disagree,Strongly agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,30-60 minutes a day,501
+Agree,Neither agree nor disagree,Agree,Disagree,Neither agree nor disagree,Agree,Disagree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,507
+Neither agree nor disagree,Disagree,Agree,Agree,Disagree,Neither agree nor disagree,Agree,1-2 times a week,1-2 times a week,Never,30-60 minutes a day,15-30 minutes a day,509
+Strongly agree,Agree,Neither agree nor disagree,Strongly disagree,Disagree,Disagree,Disagree,1-2 times a week,3-5 times a week,1-2 times a week,60-120 minutes a day,60-120 minutes a day,510
+Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Disagree,1-2 times a week,1-2 times a week,3-5 times a week,30-60 minutes a day,15-30 minutes a day,512
+Neither agree nor disagree,Neither agree nor disagree,Disagree,Neither agree nor disagree,Disagree,Strongly agree,Disagree,3-5 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,Less than 15 minutes a day,513
+Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Disagree,Agree,Neither agree nor disagree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,514
+Strongly agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Strongly agree,Agree,3-5 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,515
+Neither agree nor disagree,Agree,Strongly agree,Neither agree nor disagree,Disagree,Agree,Strongly agree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,520
+Disagree,Disagree,Agree,Neither agree nor disagree,Agree,Agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,15-30 minutes a day,522
+Neither agree nor disagree,Disagree,Agree,Agree,Agree,Agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,524
+Strongly agree,Agree,Agree,Agree,Agree,Agree,Disagree,1-2 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,60-120 minutes a day,528
+Agree,Disagree,Agree,Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,,,,,,535
+Neither agree nor disagree,Strongly agree,Neither agree nor disagree,Agree,Agree,Strongly agree,Agree,3-5 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,536
+Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,Less than 15 minutes a day,Less than 15 minutes a day,537
+Strongly agree,Neither agree nor disagree,Agree,Strongly agree,Agree,Strongly agree,Agree,1-2 times a week,3-5 times a week,1-2 times a week,60-120 minutes a day,30-60 minutes a day,538
+Agree,Neither agree nor disagree,Agree,Strongly disagree,Agree,Agree,Agree,1-2 times a week,Never,1-2 times a week,60-120 minutes a day,30-60 minutes a day,539
+Agree,Agree,Disagree,Strongly disagree,Neither agree nor disagree,Strongly agree,Agree,3-5 times a week,Never,1-2 times a week,30-60 minutes a day,30-60 minutes a day,544
+Disagree,Strongly agree,Agree,Agree,Strongly disagree,Agree,Strongly disagree,1-2 times a week,3-5 times a week,1-2 times a week,60-120 minutes a day,30-60 minutes a day,546
+Disagree,Disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,1-2 times a week,Never,1-2 times a week,Less than 15 minutes a day,Less than 15 minutes a day,547
+Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,10+ times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,30-60 minutes a day,552
+Strongly disagree,Disagree,Agree,Disagree,Agree,Agree,Agree,3-5 times a week,Never,1-2 times a week,60-120 minutes a day,15-30 minutes a day,553
+Strongly agree,Neither agree nor disagree,Strongly agree,Strongly disagree,Agree,Strongly agree,Strongly agree,10+ times a week,Never,1-2 times a week,30-60 minutes a day,15-30 minutes a day,557
+Disagree,Strongly agree,Agree,Neither agree nor disagree,Agree,Agree,Agree,3-5 times a week,Never,1-2 times a week,Less than 15 minutes a day,15-30 minutes a day,559
+Disagree,Agree,Neither agree nor disagree,Strongly agree,Strongly agree,Agree,Neither agree nor disagree,3-5 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,560
+Strongly agree,Strongly agree,Agree,Agree,Neither agree nor disagree,Agree,Disagree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,561
+Agree,Agree,Agree,Agree,Neither agree nor disagree,Agree,Agree,1-2 times a week,3-5 times a week,3-5 times a week,30-60 minutes a day,15-30 minutes a day,562
+Disagree,Agree,Strongly agree,Agree,Disagree,Strongly agree,Agree,3-5 times a week,3-5 times a week,3-5 times a week,30-60 minutes a day,30-60 minutes a day,563
+Agree,Strongly agree,Agree,Agree,Neither agree nor disagree,Agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,565
+Neither agree nor disagree,Neither agree nor disagree,Disagree,Strongly agree,Disagree,Agree,Neither agree nor disagree,1-2 times a week,6-10 times a week,1-2 times a week,60-120 minutes a day,30-60 minutes a day,571
+Agree,Agree,Disagree,Agree,Agree,Strongly agree,Disagree,1-2 times a week,3-5 times a week,1-2 times a week,15-30 minutes a day,60-120 minutes a day,573
+Disagree,Neither agree nor disagree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Never,Never,Never,15-30 minutes a day,15-30 minutes a day,574
+Disagree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,Strongly agree,Agree,Strongly agree,10+ times a week,Never,Never,15-30 minutes a day,15-30 minutes a day,576
+Disagree,Disagree,Agree,Neither agree nor disagree,Strongly agree,Agree,Agree,6-10 times a week,1-2 times a week,1-2 times a week,Over 120 minutes a day,15-30 minutes a day,577
+Agree,Strongly agree,Agree,Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,1-2 times a week,1-2 times a week,Never,60-120 minutes a day,30-60 minutes a day,579
+Neither agree nor disagree,Disagree,Strongly agree,Disagree,Agree,Strongly agree,Agree,3-5 times a week,Never,1-2 times a week,15-30 minutes a day,15-30 minutes a day,581
+Neither agree nor disagree,Disagree,Agree,Agree,Disagree,Neither agree nor disagree,Agree,Never,Never,Never,30-60 minutes a day,30-60 minutes a day,583
+Agree,Disagree,Neither agree nor disagree,Strongly agree,Agree,Agree,Agree,10+ times a week,3-5 times a week,3-5 times a week,Over 120 minutes a day,30-60 minutes a day,584
+Disagree,Strongly disagree,Agree,Neither agree nor disagree,Disagree,Strongly agree,Disagree,3-5 times a week,3-5 times a week,1-2 times a week,60-120 minutes a day,60-120 minutes a day,585
+Agree,Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Strongly agree,1-2 times a week,1-2 times a week,1-2 times a week,Less than 15 minutes a day,Over 120 minutes a day,586
+Agree,Disagree,Disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,3-5 times a week,Never,1-2 times a week,30-60 minutes a day,Less than 15 minutes a day,587
+Disagree,Agree,Strongly agree,Neither agree nor disagree,Strongly agree,Disagree,Strongly agree,Never,1-2 times a week,Never,15-30 minutes a day,Less than 15 minutes a day,589
+Disagree,Agree,Strongly agree,Disagree,Agree,Strongly agree,Agree,1-2 times a week,Never,1-2 times a week,Less than 15 minutes a day,15-30 minutes a day,592
+Agree,Agree,Neither agree nor disagree,Strongly agree,Disagree,Agree,Neither agree nor disagree,1-2 times a week,3-5 times a week,1-2 times a week,Over 120 minutes a day,15-30 minutes a day,594
+Agree,Agree,Disagree,Strongly agree,Disagree,Strongly agree,Disagree,3-5 times a week,3-5 times a week,1-2 times a week,60-120 minutes a day,30-60 minutes a day,596
+Strongly agree,Agree,Strongly agree,Strongly agree,Neither agree nor disagree,Strongly agree,Strongly agree,6-10 times a week,1-2 times a week,6-10 times a week,60-120 minutes a day,15-30 minutes a day,598
+Agree,Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,3-5 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,602
+Disagree,Agree,Neither agree nor disagree,Agree,Agree,Strongly agree,Neither agree nor disagree,3-5 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,60-120 minutes a day,605
+Neither agree nor disagree,Disagree,Neither agree nor disagree,Disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,3-5 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,609
+Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Agree,Agree,1-2 times a week,Never,1-2 times a week,30-60 minutes a day,30-60 minutes a day,610
+Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,Agree,Strongly agree,Agree,3-5 times a week,1-2 times a week,3-5 times a week,30-60 minutes a day,15-30 minutes a day,611
+Strongly agree,Disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Agree,6-10 times a week,1-2 times a week,3-5 times a week,15-30 minutes a day,60-120 minutes a day,612
+Agree,Agree,Disagree,Agree,Agree,Agree,Disagree,1-2 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,30-60 minutes a day,613
+Neither agree nor disagree,Disagree,Agree,Disagree,Strongly agree,Strongly agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,Less than 15 minutes a day,30-60 minutes a day,616
+Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Disagree,Strongly agree,Agree,Agree,3-5 times a week,Never,1-2 times a week,60-120 minutes a day,15-30 minutes a day,617
+Agree,Agree,Neither agree nor disagree,Disagree,Agree,Agree,Neither agree nor disagree,1-2 times a week,Never,1-2 times a week,60-120 minutes a day,Less than 15 minutes a day,618
+Agree,Agree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,Neither agree nor disagree,Disagree,1-2 times a week,6-10 times a week,3-5 times a week,30-60 minutes a day,30-60 minutes a day,619
+Neither agree nor disagree,Agree,Disagree,Agree,Disagree,Agree,Disagree,1-2 times a week,1-2 times a week,1-2 times a week,Less than 15 minutes a day,15-30 minutes a day,621
+Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Disagree,Neither agree nor disagree,Strongly disagree,Never,Never,Never,30-60 minutes a day,15-30 minutes a day,622
+Disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Disagree,1-2 times a week,1-2 times a week,1-2 times a week,Over 120 minutes a day,Less than 15 minutes a day,632
+Neither agree nor disagree,Neither agree nor disagree,Disagree,Neither agree nor disagree,Agree,Agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,15-30 minutes a day,633
+Agree,Neither agree nor disagree,Agree,Strongly agree,Disagree,Agree,Neither agree nor disagree,1-2 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,15-30 minutes a day,634
+Disagree,Disagree,Strongly agree,Disagree,Strongly agree,Agree,Strongly agree,3-5 times a week,Never,1-2 times a week,30-60 minutes a day,Less than 15 minutes a day,635
+,,,,,Agree,,3-5 times a week,1-2 times a week,10+ times a week,30-60 minutes a day,60-120 minutes a day,636
+Neither agree nor disagree,Strongly agree,Disagree,Strongly agree,Strongly disagree,Agree,Strongly disagree,1-2 times a week,10+ times a week,Never,Over 120 minutes a day,15-30 minutes a day,637
+Strongly agree,Agree,Agree,Agree,Neither agree nor disagree,Strongly agree,Agree,6-10 times a week,1-2 times a week,1-2 times a week,Over 120 minutes a day,30-60 minutes a day,640
+Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,Agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,15-30 minutes a day,643
+Agree,Neither agree nor disagree,Neither agree nor disagree,Disagree,Agree,Agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,645
+Agree,Agree,Disagree,Disagree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,3-5 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,647
+Agree,Agree,Agree,Disagree,Strongly disagree,Agree,Disagree,Never,1-2 times a week,3-5 times a week,30-60 minutes a day,15-30 minutes a day,652
+Neither agree nor disagree,Neither agree nor disagree,Disagree,Agree,Disagree,Agree,Disagree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,655
+Agree,Strongly agree,Neither agree nor disagree,Agree,Agree,Agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,60-120 minutes a day,657
+Disagree,Disagree,Agree,Neither agree nor disagree,Agree,Agree,Agree,1-2 times a week,Never,Never,15-30 minutes a day,Less than 15 minutes a day,658
+Agree,Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,Over 120 minutes a day,Less than 15 minutes a day,660
+Disagree,Agree,Strongly agree,Agree,Neither agree nor disagree,Strongly agree,Agree,10+ times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,60-120 minutes a day,663
+Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Disagree,3-5 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,15-30 minutes a day,667
+Agree,Strongly agree,Agree,Neither agree nor disagree,Disagree,Agree,Agree,1-2 times a week,Never,1-2 times a week,60-120 minutes a day,30-60 minutes a day,668
+Disagree,Neither agree nor disagree,Agree,Agree,Agree,Strongly agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,60-120 minutes a day,674
+Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,Agree,Agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,30-60 minutes a day,675
+Agree,Agree,Disagree,Agree,Disagree,Agree,Neither agree nor disagree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,676
+Agree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,Agree,Agree,Strongly agree,6-10 times a week,1-2 times a week,Never,Less than 15 minutes a day,Less than 15 minutes a day,682
+Disagree,Agree,Agree,Disagree,Agree,Agree,Agree,1-2 times a week,1-2 times a week,3-5 times a week,30-60 minutes a day,15-30 minutes a day,684
+Disagree,Disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,1-2 times a week,Never,Never,15-30 minutes a day,Less than 15 minutes a day,689
+Agree,Agree,Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,1-2 times a week,Never,1-2 times a week,30-60 minutes a day,15-30 minutes a day,695
+Strongly agree,Agree,Disagree,Strongly agree,Disagree,Agree,Disagree,3-5 times a week,3-5 times a week,1-2 times a week,60-120 minutes a day,30-60 minutes a day,698
+Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,Never,Never,Never,30-60 minutes a day,Less than 15 minutes a day,701
+,,,,,Strongly agree,,10+ times a week,,10+ times a week,30-60 minutes a day,60-120 minutes a day,706
+Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,Disagree,Neither agree nor disagree,Never,1-2 times a week,1-2 times a week,30-60 minutes a day,Less than 15 minutes a day,707
+Disagree,Agree,Agree,Neither agree nor disagree,Agree,Strongly agree,Neither agree nor disagree,10+ times a week,3-5 times a week,3-5 times a week,60-120 minutes a day,30-60 minutes a day,708
+Agree,Agree,Agree,Neither agree nor disagree,Strongly agree,Agree,Strongly agree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,709
+Neither agree nor disagree,Disagree,Agree,Disagree,Agree,Strongly agree,Agree,6-10 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,Less than 15 minutes a day,711
+Neither agree nor disagree,Disagree,Agree,Neither agree nor disagree,Agree,Strongly agree,Agree,3-5 times a week,Never,1-2 times a week,30-60 minutes a day,60-120 minutes a day,721
+Disagree,Neither agree nor disagree,Disagree,Neither agree nor disagree,Agree,Disagree,Disagree,1-2 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,15-30 minutes a day,723
+Agree,Disagree,Strongly agree,Neither agree nor disagree,Agree,Agree,Strongly agree,1-2 times a week,Never,Never,15-30 minutes a day,15-30 minutes a day,724
+Disagree,Agree,Neither agree nor disagree,Agree,Agree,Agree,Agree,1-2 times a week,1-2 times a week,Never,30-60 minutes a day,15-30 minutes a day,726
+Agree,Disagree,Strongly agree,Strongly disagree,Agree,Strongly agree,Agree,6-10 times a week,1-2 times a week,6-10 times a week,15-30 minutes a day,30-60 minutes a day,729
+Agree,Agree,Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,10+ times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,Over 120 minutes a day,734
+Strongly agree,Agree,Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Never,1-2 times a week,Never,30-60 minutes a day,60-120 minutes a day,738
+Strongly agree,Strongly agree,Disagree,Agree,Disagree,Strongly agree,Neither agree nor disagree,6-10 times a week,6-10 times a week,1-2 times a week,30-60 minutes a day,60-120 minutes a day,740
+Agree,Agree,Agree,Disagree,Disagree,Strongly disagree,Agree,10+ times a week,3-5 times a week,3-5 times a week,30-60 minutes a day,60-120 minutes a day,746
+Agree,Agree,Neither agree nor disagree,Agree,Disagree,Agree,Disagree,10+ times a week,3-5 times a week,1-2 times a week,Over 120 minutes a day,60-120 minutes a day,747
+Agree,Agree,Agree,Agree,Agree,Strongly agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,15-30 minutes a day,749
+Agree,Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,10+ times a week,1-2 times a week,3-5 times a week,30-60 minutes a day,30-60 minutes a day,751
+Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,1-2 times a week,1-2 times a week,Never,15-30 minutes a day,15-30 minutes a day,752
+Disagree,Disagree,Disagree,Agree,Disagree,Disagree,Disagree,1-2 times a week,6-10 times a week,1-2 times a week,30-60 minutes a day,Less than 15 minutes a day,753
+Agree,Agree,Agree,,Agree,Neither agree nor disagree,Agree,1-2 times a week,1-2 times a week,Never,60-120 minutes a day,Less than 15 minutes a day,754
+Disagree,Agree,Neither agree nor disagree,Disagree,Agree,Agree,Neither agree nor disagree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,756
+Agree,Strongly agree,Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,6-10 times a week,3-5 times a week,1-2 times a week,30-60 minutes a day,60-120 minutes a day,759
+Agree,Agree,Neither agree nor disagree,Agree,Disagree,Strongly agree,Neither agree nor disagree,6-10 times a week,6-10 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,760
+Disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,Never,Never,Never,Over 120 minutes a day,30-60 minutes a day,761
+Neither agree nor disagree,Disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,Less than 15 minutes a day,762
+Disagree,Strongly disagree,Agree,Disagree,Agree,Strongly agree,Agree,3-5 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,15-30 minutes a day,763
+Agree,Agree,Disagree,Agree,Agree,Strongly agree,Disagree,6-10 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,15-30 minutes a day,765
+Neither agree nor disagree,Agree,Disagree,Strongly agree,Neither agree nor disagree,Agree,Neither agree nor disagree,1-2 times a week,3-5 times a week,Never,15-30 minutes a day,15-30 minutes a day,766
+Agree,Strongly agree,Disagree,Strongly agree,Disagree,Agree,Strongly disagree,1-2 times a week,3-5 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,767
+Strongly agree,Disagree,Strongly agree,Disagree,Strongly disagree,Neither agree nor disagree,Strongly agree,1-2 times a week,Never,1-2 times a week,30-60 minutes a day,30-60 minutes a day,769
+Strongly agree,Agree,Agree,Neither agree nor disagree,Agree,Strongly agree,Neither agree nor disagree,1-2 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,15-30 minutes a day,774
+Agree,Disagree,Strongly agree,Neither agree nor disagree,Agree,Strongly agree,Strongly agree,1-2 times a week,Never,Never,60-120 minutes a day,30-60 minutes a day,775
+Disagree,Disagree,Agree,Strongly agree,Agree,Strongly agree,Agree,3-5 times a week,3-5 times a week,Never,30-60 minutes a day,60-120 minutes a day,777
+Agree,Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,3-5 times a week,3-5 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,778
+Neither agree nor disagree,Agree,Disagree,Agree,Disagree,Agree,Neither agree nor disagree,,,,,,779
+Disagree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,30-60 minutes a day,780
+Strongly agree,Neither agree nor disagree,Disagree,Agree,Agree,Agree,Agree,3-5 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,781
+Neither agree nor disagree,Agree,Agree,Strongly agree,Strongly disagree,Agree,Disagree,1-2 times a week,1-2 times a week,Never,30-60 minutes a day,30-60 minutes a day,782
+Agree,Strongly agree,Disagree,Agree,Neither agree nor disagree,Agree,Disagree,1-2 times a week,3-5 times a week,3-5 times a week,30-60 minutes a day,15-30 minutes a day,783
+Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Never,1-2 times a week,1-2 times a week,15-30 minutes a day,15-30 minutes a day,784
+Disagree,Agree,Agree,Agree,Disagree,Strongly agree,Disagree,1-2 times a week,1-2 times a week,1-2 times a week,Over 120 minutes a day,15-30 minutes a day,786
+Disagree,Agree,Neither agree nor disagree,Disagree,Agree,Agree,Neither agree nor disagree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,790
+Neither agree nor disagree,Neither agree nor disagree,Agree,Disagree,Agree,Agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,795
+Disagree,Agree,Agree,Strongly agree,Neither agree nor disagree,Agree,Disagree,1-2 times a week,3-5 times a week,1-2 times a week,60-120 minutes a day,Less than 15 minutes a day,796
+Agree,Agree,Agree,Agree,Agree,Neither agree nor disagree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,Less than 15 minutes a day,798
+Disagree,Neither agree nor disagree,Strongly agree,Disagree,Neither agree nor disagree,Disagree,Strongly agree,Never,Never,Never,30-60 minutes a day,15-30 minutes a day,799
+Strongly agree,Agree,Agree,Agree,Agree,Agree,Agree,3-5 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,Over 120 minutes a day,805
+Disagree,Neither agree nor disagree,Agree,Disagree,Agree,Agree,Agree,3-5 times a week,Never,1-2 times a week,30-60 minutes a day,30-60 minutes a day,806
+Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Agree,Agree,3-5 times a week,Never,1-2 times a week,15-30 minutes a day,15-30 minutes a day,809
+Neither agree nor disagree,Disagree,Agree,Neither agree nor disagree,Disagree,Strongly agree,Agree,1-2 times a week,3-5 times a week,1-2 times a week,15-30 minutes a day,15-30 minutes a day,811
+Agree,Disagree,Agree,Agree,Agree,Agree,Agree,1-2 times a week,1-2 times a week,Never,15-30 minutes a day,15-30 minutes a day,815
+Strongly agree,Neither agree nor disagree,Agree,Agree,Disagree,Agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,816
+Agree,Neither agree nor disagree,Agree,Disagree,Agree,Strongly agree,Disagree,3-5 times a week,Never,1-2 times a week,15-30 minutes a day,30-60 minutes a day,817
+Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Disagree,1-2 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,15-30 minutes a day,819
+Neither agree nor disagree,Strongly agree,Agree,Disagree,Agree,Agree,Neither agree nor disagree,1-2 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,15-30 minutes a day,820
+Strongly agree,Neither agree nor disagree,Agree,Agree,Agree,Agree,Neither agree nor disagree,10+ times a week,Never,Never,Less than 15 minutes a day,30-60 minutes a day,821
+Neither agree nor disagree,Agree,Agree,Disagree,Agree,Agree,Agree,1-2 times a week,Never,1-2 times a week,15-30 minutes a day,15-30 minutes a day,826
+Neither agree nor disagree,Agree,Agree,Strongly disagree,Neither agree nor disagree,Agree,Agree,1-2 times a week,Never,1-2 times a week,Less than 15 minutes a day,15-30 minutes a day,829
+Disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,Agree,3-5 times a week,Never,1-2 times a week,15-30 minutes a day,15-30 minutes a day,832
+Agree,Disagree,Neither agree nor disagree,Disagree,Agree,Strongly agree,Neither agree nor disagree,1-2 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,15-30 minutes a day,833
+Disagree,Strongly agree,Strongly disagree,Agree,Disagree,Disagree,Disagree,1-2 times a week,3-5 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,834
+Strongly agree,Strongly agree,Strongly disagree,Strongly agree,Strongly disagree,Strongly agree,Neither agree nor disagree,3-5 times a week,6-10 times a week,1-2 times a week,15-30 minutes a day,30-60 minutes a day,835
+,,,Disagree,Strongly agree,Strongly agree,,,,,,,838
+Strongly agree,Agree,Disagree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,3-5 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,60-120 minutes a day,839
+Strongly agree,Strongly agree,Agree,Agree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,10+ times a week,6-10 times a week,3-5 times a week,15-30 minutes a day,60-120 minutes a day,841
+Neither agree nor disagree,Agree,Disagree,Agree,Disagree,Strongly disagree,Disagree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,842
+Agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,844
+Strongly agree,Strongly agree,Agree,Disagree,Disagree,Agree,Neither agree nor disagree,10+ times a week,3-5 times a week,1-2 times a week,60-120 minutes a day,15-30 minutes a day,846
+Neither agree nor disagree,Disagree,Agree,Disagree,Agree,Agree,Agree,1-2 times a week,,Never,30-60 minutes a day,60-120 minutes a day,851
+Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Agree,Disagree,Strongly agree,Agree,3-5 times a week,3-5 times a week,1-2 times a week,30-60 minutes a day,60-120 minutes a day,852
+Strongly agree,Strongly agree,Disagree,Agree,Disagree,Agree,Disagree,10+ times a week,10+ times a week,10+ times a week,Over 120 minutes a day,30-60 minutes a day,853
+Strongly agree,Neither agree nor disagree,Agree,Agree,Disagree,Agree,Disagree,1-2 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,15-30 minutes a day,857
+Disagree,Disagree,Neither agree nor disagree,Disagree,Agree,Agree,Strongly agree,3-5 times a week,Never,1-2 times a week,,,860
+Agree,Agree,Agree,Agree,Agree,Agree,Agree,Never,1-2 times a week,1-2 times a week,Over 120 minutes a day,Less than 15 minutes a day,862
+Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,Strongly agree,Agree,Strongly agree,1-2 times a week,Never,Never,30-60 minutes a day,Less than 15 minutes a day,866
+Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,1-2 times a week,,1-2 times a week,15-30 minutes a day,15-30 minutes a day,869
+Disagree,Agree,Agree,Disagree,Agree,Neither agree nor disagree,Agree,1-2 times a week,Never,Never,60-120 minutes a day,Less than 15 minutes a day,870
+Strongly agree,Neither agree nor disagree,Neither agree nor disagree,Disagree,Agree,Agree,Neither agree nor disagree,1-2 times a week,Never,1-2 times a week,15-30 minutes a day,30-60 minutes a day,871
+Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Strongly agree,Neither agree nor disagree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,Less than 15 minutes a day,874
+Agree,Strongly agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,3-5 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,Less than 15 minutes a day,879
+Strongly agree,Strongly agree,Strongly disagree,Agree,Disagree,Agree,Disagree,3-5 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,30-60 minutes a day,882
+Agree,Disagree,Agree,Disagree,Disagree,Strongly agree,Disagree,1-2 times a week,Never,Never,15-30 minutes a day,30-60 minutes a day,886
+Disagree,Strongly disagree,Strongly agree,Strongly disagree,Strongly disagree,Disagree,Agree,1-2 times a week,Never,Never,60-120 minutes a day,15-30 minutes a day,889
+Strongly agree,Strongly agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Agree,10+ times a week,3-5 times a week,Never,15-30 minutes a day,Over 120 minutes a day,891
+Disagree,Disagree,Agree,Disagree,Neither agree nor disagree,Agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,15-30 minutes a day,895
+Disagree,Agree,Agree,Neither agree nor disagree,Disagree,Agree,Disagree,1-2 times a week,Never,1-2 times a week,Less than 15 minutes a day,Less than 15 minutes a day,902
+Disagree,Disagree,Neither agree nor disagree,Disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,1-2 times a week,Never,1-2 times a week,60-120 minutes a day,30-60 minutes a day,912
+Agree,Agree,Agree,Agree,Agree,Agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,15-30 minutes a day,913
+Neither agree nor disagree,Disagree,Strongly agree,Disagree,Strongly agree,Strongly agree,Strongly agree,3-5 times a week,Never,1-2 times a week,Less than 15 minutes a day,30-60 minutes a day,915
+Agree,Agree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Strongly disagree,1-2 times a week,1-2 times a week,1-2 times a week,Less than 15 minutes a day,Less than 15 minutes a day,919
+Agree,Agree,Strongly disagree,Agree,Disagree,Agree,Strongly disagree,1-2 times a week,3-5 times a week,1-2 times a week,30-60 minutes a day,Less than 15 minutes a day,920
+Neither agree nor disagree,Strongly agree,Strongly agree,Agree,Neither agree nor disagree,Strongly agree,Strongly agree,1-2 times a week,1-2 times a week,Never,30-60 minutes a day,30-60 minutes a day,923
+Strongly disagree,Agree,Disagree,Neither agree nor disagree,Disagree,Agree,Agree,1-2 times a week,Never,1-2 times a week,15-30 minutes a day,Less than 15 minutes a day,925
+Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,Strongly disagree,Agree,Disagree,1-2 times a week,1-2 times a week,Never,30-60 minutes a day,15-30 minutes a day,930
+Neither agree nor disagree,Disagree,Agree,Disagree,Neither agree nor disagree,Strongly disagree,Agree,6-10 times a week,Never,Never,30-60 minutes a day,30-60 minutes a day,935
+Disagree,Agree,Agree,Disagree,Agree,Agree,Neither agree nor disagree,1-2 times a week,Never,Never,15-30 minutes a day,15-30 minutes a day,936
+Neither agree nor disagree,Disagree,Strongly agree,Strongly agree,Disagree,Agree,Agree,6-10 times a week,3-5 times a week,1-2 times a week,15-30 minutes a day,60-120 minutes a day,938
+Disagree,Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,1-2 times a week,3-5 times a week,1-2 times a week,60-120 minutes a day,15-30 minutes a day,939
+Strongly agree,Strongly agree,Strongly agree,Disagree,Strongly agree,Strongly agree,Strongly agree,3-5 times a week,1-2 times a week,10+ times a week,60-120 minutes a day,60-120 minutes a day,940
+Strongly agree,Strongly agree,Disagree,Strongly agree,Strongly disagree,Agree,Disagree,1-2 times a week,10+ times a week,1-2 times a week,15-30 minutes a day,15-30 minutes a day,941
+Neither agree nor disagree,Strongly agree,Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,3-5 times a week,1-2 times a week,3-5 times a week,15-30 minutes a day,15-30 minutes a day,942
+Agree,Strongly agree,Strongly agree,Disagree,Neither agree nor disagree,Agree,Agree,Never,3-5 times a week,1-2 times a week,30-60 minutes a day,Less than 15 minutes a day,943
+Agree,Agree,Disagree,Agree,Neither agree nor disagree,Agree,Disagree,1-2 times a week,6-10 times a week,1-2 times a week,Less than 15 minutes a day,30-60 minutes a day,944
+Agree,Agree,Disagree,Agree,Agree,Strongly agree,Disagree,6-10 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,15-30 minutes a day,945
+Agree,Agree,Agree,Disagree,Agree,Agree,Agree,1-2 times a week,Never,1-2 times a week,30-60 minutes a day,60-120 minutes a day,948
+Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,Agree,Neither agree nor disagree,3-5 times a week,,3-5 times a week,15-30 minutes a day,,949
+Agree,Agree,Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,6-10 times a week,6-10 times a week,1-2 times a week,Over 120 minutes a day,30-60 minutes a day,950
+Disagree,Disagree,Agree,Disagree,Neither agree nor disagree,Agree,Disagree,3-5 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,Less than 15 minutes a day,951
+Agree,Disagree,Strongly agree,Strongly disagree,Agree,Strongly disagree,Strongly agree,Never,Never,Never,60-120 minutes a day,30-60 minutes a day,953
+Disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Never,1-2 times a week,1-2 times a week,30-60 minutes a day,Less than 15 minutes a day,954
+Agree,Neither agree nor disagree,Agree,Agree,Disagree,Agree,Strongly disagree,6-10 times a week,1-2 times a week,3-5 times a week,30-60 minutes a day,15-30 minutes a day,956
+Disagree,Disagree,Agree,Disagree,Agree,Agree,Agree,1-2 times a week,Never,1-2 times a week,Over 120 minutes a day,60-120 minutes a day,959
+Agree,Neither agree nor disagree,Agree,Strongly disagree,Agree,Agree,Agree,3-5 times a week,Never,1-2 times a week,15-30 minutes a day,15-30 minutes a day,961
+Disagree,Disagree,Neither agree nor disagree,Disagree,Neither agree nor disagree,Agree,Agree,3-5 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,15-30 minutes a day,963
+Agree,Strongly disagree,Agree,Disagree,Agree,Agree,Strongly agree,3-5 times a week,Never,1-2 times a week,Over 120 minutes a day,60-120 minutes a day,965
+Neither agree nor disagree,Agree,Strongly agree,Strongly disagree,Strongly agree,Neither agree nor disagree,Agree,Never,Never,1-2 times a week,60-120 minutes a day,Less than 15 minutes a day,967
+Strongly agree,Neither agree nor disagree,Strongly agree,Agree,Agree,Strongly agree,Agree,10+ times a week,1-2 times a week,Never,15-30 minutes a day,30-60 minutes a day,968
+Disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Agree,Agree,1-2 times a week,Never,Never,30-60 minutes a day,Less than 15 minutes a day,969
+Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,Agree,Strongly agree,Agree,3-5 times a week,Never,Never,30-60 minutes a day,15-30 minutes a day,970
+Neither agree nor disagree,Agree,Agree,Strongly agree,Neither agree nor disagree,Agree,Agree,1-2 times a week,3-5 times a week,1-2 times a week,15-30 minutes a day,15-30 minutes a day,971
+Disagree,Agree,Agree,Disagree,Disagree,Strongly agree,Strongly agree,10+ times a week,1-2 times a week,3-5 times a week,15-30 minutes a day,Less than 15 minutes a day,976
+Agree,Strongly agree,Strongly agree,Neither agree nor disagree,Agree,Agree,Strongly agree,6-10 times a week,Never,1-2 times a week,30-60 minutes a day,30-60 minutes a day,977
+Agree,Agree,Disagree,Agree,Disagree,Strongly agree,Disagree,3-5 times a week,1-2 times a week,1-2 times a week,Less than 15 minutes a day,30-60 minutes a day,978
+Disagree,Disagree,Strongly agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,1-2 times a week,3-5 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,979
+Disagree,Agree,Strongly agree,Agree,Neither agree nor disagree,Strongly agree,Agree,6-10 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,980
+Neither agree nor disagree,Disagree,Agree,Disagree,Agree,Neither agree nor disagree,Strongly agree,1-2 times a week,Never,1-2 times a week,60-120 minutes a day,15-30 minutes a day,981
+Strongly agree,Strongly agree,Agree,Disagree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,6-10 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,30-60 minutes a day,983
+Disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,3-5 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,15-30 minutes a day,985
+Neither agree nor disagree,Neither agree nor disagree,Disagree,Agree,Neither agree nor disagree,Strongly agree,Disagree,6-10 times a week,3-5 times a week,3-5 times a week,15-30 minutes a day,30-60 minutes a day,987
+Agree,Agree,Agree,Disagree,Neither agree nor disagree,Strongly agree,Agree,6-10 times a week,1-2 times a week,3-5 times a week,30-60 minutes a day,15-30 minutes a day,989
+Neither agree nor disagree,Agree,Agree,Agree,Disagree,Strongly agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,30-60 minutes a day,994
+Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,Disagree,Agree,Neither agree nor disagree,3-5 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,995
+Agree,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Agree,Strongly agree,Neither agree nor disagree,10+ times a week,3-5 times a week,10+ times a week,60-120 minutes a day,60-120 minutes a day,996
+Strongly agree,Agree,Strongly agree,Disagree,Disagree,Strongly agree,Agree,10+ times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,30-60 minutes a day,997
+Disagree,Disagree,Agree,Disagree,Agree,Strongly agree,Agree,1-2 times a week,Never,Never,30-60 minutes a day,15-30 minutes a day,1003
+Neither agree nor disagree,Disagree,Agree,Neither agree nor disagree,Disagree,Disagree,Disagree,Never,Never,Never,30-60 minutes a day,30-60 minutes a day,1004
+Agree,Neither agree nor disagree,Agree,Disagree,Disagree,Strongly agree,Agree,1-2 times a week,Never,1-2 times a week,30-60 minutes a day,15-30 minutes a day,1006
+Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,3-5 times a week,Never,Never,30-60 minutes a day,60-120 minutes a day,1007
+Neither agree nor disagree,Strongly disagree,Agree,Neither agree nor disagree,Agree,Strongly agree,Disagree,1-2 times a week,Never,Never,Over 120 minutes a day,60-120 minutes a day,1009
+Neither agree nor disagree,Agree,Agree,Agree,Neither agree nor disagree,Agree,Agree,1-2 times a week,3-5 times a week,Never,30-60 minutes a day,30-60 minutes a day,1012
+Neither agree nor disagree,Disagree,Agree,Agree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,1013
+Disagree,Agree,Agree,Agree,Neither agree nor disagree,Disagree,Neither agree nor disagree,1-2 times a week,3-5 times a week,1-2 times a week,Less than 15 minutes a day,Less than 15 minutes a day,1014
+Agree,Agree,Agree,Agree,Agree,Agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,1015
+Neither agree nor disagree,Neither agree nor disagree,Agree,Disagree,Agree,Agree,Agree,,,,,,1017
+Agree,Strongly agree,Agree,Agree,Disagree,Strongly agree,Neither agree nor disagree,1-2 times a week,1-2 times a week,Never,15-30 minutes a day,15-30 minutes a day,1020
+Agree,Neither agree nor disagree,Strongly agree,Disagree,Agree,Strongly agree,Strongly agree,10+ times a week,3-5 times a week,1-2 times a week,30-60 minutes a day,60-120 minutes a day,1021
+Disagree,Disagree,Agree,Strongly disagree,Agree,Strongly agree,Agree,6-10 times a week,Never,1-2 times a week,60-120 minutes a day,15-30 minutes a day,1022
+Neither agree nor disagree,Disagree,Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Never,Never,Never,15-30 minutes a day,15-30 minutes a day,1023
+Agree,Agree,Strongly agree,Disagree,Neither agree nor disagree,Agree,Agree,3-5 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,15-30 minutes a day,1024
+Neither agree nor disagree,Disagree,Disagree,Agree,Disagree,Agree,Disagree,1-2 times a week,1-2 times a week,Never,30-60 minutes a day,60-120 minutes a day,1025
+Strongly agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Agree,Agree,10+ times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,30-60 minutes a day,1027
+Disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,1-2 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,30-60 minutes a day,1028
+Agree,Disagree,Strongly agree,Disagree,Agree,Agree,Strongly agree,1-2 times a week,Never,Never,30-60 minutes a day,15-30 minutes a day,1029
+Neither agree nor disagree,Disagree,Agree,Disagree,Agree,Agree,Agree,6-10 times a week,Never,1-2 times a week,30-60 minutes a day,Over 120 minutes a day,1030
+Neither agree nor disagree,Strongly agree,Agree,Agree,Neither agree nor disagree,Disagree,Agree,Never,3-5 times a week,Never,30-60 minutes a day,30-60 minutes a day,1036
+Strongly agree,Strongly agree,Agree,Disagree,Neither agree nor disagree,Agree,Disagree,3-5 times a week,3-5 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,1037
+Neither agree nor disagree,Strongly agree,Neither agree nor disagree,Agree,Disagree,Agree,Neither agree nor disagree,1-2 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,15-30 minutes a day,1038
+Disagree,Agree,Agree,Agree,Neither agree nor disagree,Agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,1041
+Agree,Disagree,Agree,Agree,Disagree,Agree,Agree,3-5 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,15-30 minutes a day,1042
+Agree,Disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Disagree,1-2 times a week,1-2 times a week,Never,15-30 minutes a day,15-30 minutes a day,1044
+Disagree,Disagree,Disagree,Strongly agree,Neither agree nor disagree,Agree,Disagree,1-2 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,Less than 15 minutes a day,1046
+Agree,Neither agree nor disagree,Agree,Disagree,Neither agree nor disagree,Agree,Agree,1-2 times a week,Never,1-2 times a week,30-60 minutes a day,30-60 minutes a day,1048
+Disagree,Neither agree nor disagree,Disagree,Disagree,Agree,Agree,Agree,3-5 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,60-120 minutes a day,1050
+Strongly agree,Disagree,Agree,Agree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,6-10 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,30-60 minutes a day,1057
+Neither agree nor disagree,Agree,Strongly agree,Neither agree nor disagree,Agree,Agree,Agree,1-2 times a week,Never,1-2 times a week,15-30 minutes a day,15-30 minutes a day,1058
+Agree,Agree,Agree,Agree,Agree,Agree,Neither agree nor disagree,1-2 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,15-30 minutes a day,1060
+Neither agree nor disagree,Agree,Agree,Disagree,Agree,Strongly agree,Agree,6-10 times a week,,3-5 times a week,15-30 minutes a day,30-60 minutes a day,1062
+Agree,Strongly agree,Neither agree nor disagree,Agree,Disagree,Agree,Disagree,1-2 times a week,1-2 times a week,Never,30-60 minutes a day,30-60 minutes a day,1067
+Neither agree nor disagree,Agree,Disagree,Neither agree nor disagree,Disagree,Agree,Neither agree nor disagree,3-5 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,30-60 minutes a day,1070
+Neither agree nor disagree,Strongly disagree,Strongly agree,Strongly disagree,Strongly agree,Strongly agree,Strongly agree,6-10 times a week,1-2 times a week,3-5 times a week,Less than 15 minutes a day,30-60 minutes a day,1073
+Neither agree nor disagree,Disagree,Agree,Strongly disagree,Strongly agree,Agree,Agree,1-2 times a week,Never,1-2 times a week,15-30 minutes a day,15-30 minutes a day,1075
+Agree,Agree,Disagree,Disagree,Disagree,Agree,Agree,,,,60-120 minutes a day,15-30 minutes a day,1076
+Disagree,Agree,Strongly agree,Agree,Agree,Disagree,Agree,Never,1-2 times a week,Never,15-30 minutes a day,Less than 15 minutes a day,1078
+Agree,Strongly agree,Disagree,Strongly agree,Strongly agree,Strongly agree,Strongly disagree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,1079
+Disagree,Disagree,Strongly agree,Agree,Agree,Strongly agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,15-30 minutes a day,1081
+Agree,Agree,Agree,Agree,Strongly agree,Agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,,1082
+Agree,Neither agree nor disagree,Strongly agree,Strongly agree,Disagree,Strongly agree,Strongly agree,6-10 times a week,10+ times a week,Never,60-120 minutes a day,30-60 minutes a day,1083
+Neither agree nor disagree,Strongly disagree,Strongly agree,Agree,Agree,Agree,Agree,3-5 times a week,3-5 times a week,Never,30-60 minutes a day,30-60 minutes a day,1086
+Neither agree nor disagree,Neither agree nor disagree,Disagree,Agree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,1090
+Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Agree,Disagree,Agree,Agree,6-10 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,60-120 minutes a day,1091
+Disagree,Neither agree nor disagree,Agree,Disagree,Agree,Strongly agree,Agree,3-5 times a week,Never,1-2 times a week,30-60 minutes a day,30-60 minutes a day,1097
+Agree,Disagree,Strongly agree,Disagree,Disagree,Strongly agree,Neither agree nor disagree,1-2 times a week,Never,1-2 times a week,30-60 minutes a day,15-30 minutes a day,1100
+Strongly agree,Agree,Agree,Agree,Agree,Agree,Agree,3-5 times a week,6-10 times a week,1-2 times a week,15-30 minutes a day,30-60 minutes a day,1102
+Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Agree,Agree,3-5 times a week,Never,1-2 times a week,30-60 minutes a day,Less than 15 minutes a day,1104
+Strongly agree,Strongly agree,Strongly agree,Disagree,Agree,Agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,30-60 minutes a day,1105
+Agree,Disagree,Strongly agree,Disagree,Strongly disagree,Disagree,Agree,Never,Never,Never,60-120 minutes a day,Less than 15 minutes a day,1107
+Disagree,Agree,Neither agree nor disagree,Agree,Strongly agree,Agree,Agree,1-2 times a week,1-2 times a week,Never,30-60 minutes a day,15-30 minutes a day,1108
+Disagree,Disagree,Agree,Agree,Neither agree nor disagree,Agree,Agree,3-5 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,Less than 15 minutes a day,1109
+Agree,Agree,Agree,Agree,Disagree,Agree,Neither agree nor disagree,3-5 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,30-60 minutes a day,1111
+Strongly agree,Disagree,Agree,Agree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,3-5 times a week,3-5 times a week,1-2 times a week,30-60 minutes a day,60-120 minutes a day,1115
+Strongly agree,Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,10+ times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,30-60 minutes a day,1119
+Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,60-120 minutes a day,1121
+Agree,Strongly agree,Agree,Agree,Strongly agree,Agree,Agree,3-5 times a week,3-5 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,1126
+Agree,Strongly agree,Disagree,Neither agree nor disagree,Disagree,Agree,Disagree,3-5 times a week,1-2 times a week,3-5 times a week,30-60 minutes a day,Less than 15 minutes a day,1127
+Agree,Agree,Agree,Agree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,1-2 times a week,1-2 times a week,3-5 times a week,Less than 15 minutes a day,Less than 15 minutes a day,1130
+Neither agree nor disagree,Neither agree nor disagree,Disagree,Neither agree nor disagree,Disagree,Disagree,Disagree,Never,Never,Never,30-60 minutes a day,15-30 minutes a day,1132
+Neither agree nor disagree,Disagree,Neither agree nor disagree,Disagree,Agree,Neither agree nor disagree,Strongly agree,1-2 times a week,Never,1-2 times a week,30-60 minutes a day,30-60 minutes a day,1133
+Neither agree nor disagree,Agree,Agree,Agree,Disagree,Neither agree nor disagree,Agree,3-5 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,1134
+Strongly agree,Agree,Strongly agree,Disagree,Strongly agree,Strongly agree,Strongly agree,10+ times a week,Never,3-5 times a week,60-120 minutes a day,15-30 minutes a day,1135
+Disagree,Agree,Agree,Strongly disagree,Neither agree nor disagree,Strongly agree,Agree,10+ times a week,1-2 times a week,3-5 times a week,60-120 minutes a day,Over 120 minutes a day,1138
+Agree,Disagree,Agree,Disagree,Agree,Strongly agree,Agree,10+ times a week,1-2 times a week,3-5 times a week,30-60 minutes a day,30-60 minutes a day,1141
+Disagree,Disagree,Strongly agree,Disagree,Strongly agree,Agree,Strongly agree,6-10 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,Less than 15 minutes a day,1145
+Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Strongly agree,Neither agree nor disagree,10+ times a week,3-5 times a week,10+ times a week,15-30 minutes a day,30-60 minutes a day,1152
+Agree,Agree,Agree,Strongly disagree,Neither agree nor disagree,Strongly disagree,Neither agree nor disagree,3-5 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,60-120 minutes a day,1154
+Agree,Agree,Disagree,Neither agree nor disagree,Disagree,Agree,Disagree,1-2 times a week,1-2 times a week,3-5 times a week,60-120 minutes a day,30-60 minutes a day,1155
+Agree,Agree,Agree,Agree,Disagree,Agree,Disagree,1-2 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,15-30 minutes a day,1158
+Disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Disagree,1-2 times a week,1-2 times a week,Never,15-30 minutes a day,15-30 minutes a day,1159
+Disagree,Strongly disagree,Strongly agree,Strongly disagree,Strongly agree,Strongly agree,Agree,3-5 times a week,Never,3-5 times a week,30-60 minutes a day,60-120 minutes a day,1161
+Disagree,Disagree,Agree,Agree,Disagree,Strongly agree,Strongly agree,6-10 times a week,1-2 times a week,3-5 times a week,60-120 minutes a day,60-120 minutes a day,1162
+Disagree,Agree,Strongly agree,Disagree,Agree,Agree,Strongly agree,1-2 times a week,Never,1-2 times a week,60-120 minutes a day,Less than 15 minutes a day,1163
+Neither agree nor disagree,Disagree,Agree,Neither agree nor disagree,Strongly agree,Agree,Strongly agree,1-2 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,Less than 15 minutes a day,1166
+Agree,Agree,Agree,Neither agree nor disagree,Disagree,Strongly agree,Neither agree nor disagree,3-5 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,1168
+Agree,Strongly agree,Disagree,Strongly agree,Strongly disagree,Disagree,Strongly disagree,Never,10+ times a week,10+ times a week,30-60 minutes a day,Less than 15 minutes a day,1170
+Agree,Agree,Neither agree nor disagree,Agree,Disagree,Agree,Neither agree nor disagree,3-5 times a week,1-2 times a week,Never,60-120 minutes a day,Less than 15 minutes a day,1171
+Disagree,Agree,Agree,Disagree,Agree,Agree,Agree,10+ times a week,Never,Never,30-60 minutes a day,15-30 minutes a day,1172
+Strongly disagree,Agree,Strongly agree,Disagree,Strongly agree,Strongly agree,Agree,10+ times a week,1-2 times a week,6-10 times a week,15-30 minutes a day,60-120 minutes a day,1173
+Disagree,Disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,6-10 times a week,1-2 times a week,1-2 times a week,Over 120 minutes a day,15-30 minutes a day,1175
+Disagree,Strongly agree,Agree,Agree,Neither agree nor disagree,Agree,Agree,1-2 times a week,Never,1-2 times a week,15-30 minutes a day,15-30 minutes a day,1176
+Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,1-2 times a week,1-2 times a week,1-2 times a week,Less than 15 minutes a day,Less than 15 minutes a day,1177
+Neither agree nor disagree,Strongly agree,Agree,Agree,Disagree,Agree,Neither agree nor disagree,Never,1-2 times a week,1-2 times a week,30-60 minutes a day,60-120 minutes a day,1184
+Agree,Strongly agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,1-2 times a week,3-5 times a week,Never,15-30 minutes a day,Less than 15 minutes a day,1187
+Neither agree nor disagree,Neither agree nor disagree,Agree,Disagree,Agree,Strongly agree,Agree,10+ times a week,Never,1-2 times a week,15-30 minutes a day,15-30 minutes a day,1190
+Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Disagree,Agree,Disagree,1-2 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,15-30 minutes a day,1193
+Disagree,Disagree,Agree,Strongly agree,Neither agree nor disagree,Agree,Agree,1-2 times a week,1-2 times a week,Never,15-30 minutes a day,30-60 minutes a day,1195
+Neither agree nor disagree,Strongly disagree,Agree,Strongly disagree,Agree,Strongly agree,Agree,1-2 times a week,1-2 times a week,Never,60-120 minutes a day,Less than 15 minutes a day,1202
+Agree,Strongly agree,Strongly agree,Neither agree nor disagree,Neither agree nor disagree,Strongly disagree,Agree,1-2 times a week,6-10 times a week,6-10 times a week,Over 120 minutes a day,Less than 15 minutes a day,1203
+Agree,Strongly agree,Strongly agree,Neither agree nor disagree,Strongly agree,Agree,Strongly agree,1-2 times a week,Never,Never,60-120 minutes a day,Less than 15 minutes a day,1206
+Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,Agree,Strongly agree,Agree,10+ times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,1207
+Disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,1-2 times a week,1-2 times a week,Never,30-60 minutes a day,60-120 minutes a day,1209
+Neither agree nor disagree,Neither agree nor disagree,Agree,Disagree,Agree,Neither agree nor disagree,Agree,1-2 times a week,Never,1-2 times a week,60-120 minutes a day,Less than 15 minutes a day,1214
+Agree,Strongly agree,Agree,Disagree,Agree,Agree,Neither agree nor disagree,3-5 times a week,1-2 times a week,6-10 times a week,15-30 minutes a day,15-30 minutes a day,1215
+Disagree,Disagree,Agree,Strongly disagree,Agree,Strongly agree,Agree,3-5 times a week,Never,1-2 times a week,60-120 minutes a day,30-60 minutes a day,1217
+Disagree,Agree,Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,3-5 times a week,3-5 times a week,3-5 times a week,15-30 minutes a day,15-30 minutes a day,1218
+Strongly disagree,Agree,Strongly agree,Agree,Disagree,Strongly agree,Disagree,3-5 times a week,1-2 times a week,1-2 times a week,Less than 15 minutes a day,30-60 minutes a day,1219
+Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Agree,3-5 times a week,Never,1-2 times a week,30-60 minutes a day,15-30 minutes a day,1222
+Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Strongly disagree,Agree,Agree,Strongly agree,1-2 times a week,Never,Never,30-60 minutes a day,30-60 minutes a day,1224
+Strongly disagree,Agree,Agree,Disagree,Agree,Agree,Neither agree nor disagree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,Less than 15 minutes a day,1225
+Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,1-2 times a week,1-2 times a week,Never,30-60 minutes a day,15-30 minutes a day,1226
+Neither agree nor disagree,Disagree,Strongly agree,Disagree,Agree,Strongly agree,Agree,3-5 times a week,Never,1-2 times a week,15-30 minutes a day,Less than 15 minutes a day,1228
+,,,Disagree,,Agree,,,,,Over 120 minutes a day,,1230
+Agree,Agree,Agree,Agree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,1-2 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,60-120 minutes a day,1231
+Disagree,Agree,Agree,Agree,Agree,Disagree,Agree,1-2 times a week,Never,1-2 times a week,Less than 15 minutes a day,Less than 15 minutes a day,1233
+Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,1-2 times a week,Never,Never,30-60 minutes a day,30-60 minutes a day,1234
+Agree,Agree,Agree,Disagree,Disagree,Strongly agree,Agree,10+ times a week,Never,1-2 times a week,Over 120 minutes a day,Over 120 minutes a day,1237
+Neither agree nor disagree,Strongly disagree,Agree,Agree,Disagree,Disagree,Agree,1-2 times a week,Never,1-2 times a week,30-60 minutes a day,30-60 minutes a day,1241
+Neither agree nor disagree,Disagree,Disagree,Strongly disagree,Neither agree nor disagree,Disagree,Agree,1-2 times a week,Never,1-2 times a week,30-60 minutes a day,Less than 15 minutes a day,1244
+Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,1-2 times a week,Never,Never,30-60 minutes a day,15-30 minutes a day,1245
+Disagree,Strongly agree,Agree,Neither agree nor disagree,Strongly agree,Agree,Strongly agree,1-2 times a week,1-2 times a week,Never,30-60 minutes a day,Less than 15 minutes a day,1246
+Neither agree nor disagree,Agree,Agree,Agree,Disagree,Agree,Neither agree nor disagree,1-2 times a week,3-5 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,1247
+Disagree,Disagree,Agree,Agree,Agree,Agree,Disagree,1-2 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,30-60 minutes a day,1252
+,,,,,Disagree,,1-2 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,15-30 minutes a day,1254
+Agree,Neither agree nor disagree,Agree,Disagree,Neither agree nor disagree,Agree,Agree,3-5 times a week,1-2 times a week,3-5 times a week,15-30 minutes a day,30-60 minutes a day,1255
+Disagree,Strongly agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,1257
+Disagree,Disagree,Agree,Neither agree nor disagree,Agree,Agree,Strongly agree,3-5 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,1259
+Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Strongly disagree,Strongly agree,Agree,Agree,1-2 times a week,Never,Never,15-30 minutes a day,Less than 15 minutes a day,1263
+Neither agree nor disagree,Agree,Strongly agree,Neither agree nor disagree,Agree,Agree,Agree,1-2 times a week,,1-2 times a week,30-60 minutes a day,Less than 15 minutes a day,1264
+Neither agree nor disagree,Agree,Agree,Agree,Agree,Strongly agree,Agree,10+ times a week,1-2 times a week,3-5 times a week,15-30 minutes a day,15-30 minutes a day,1265
+Neither agree nor disagree,Agree,Agree,Agree,Disagree,Agree,Disagree,3-5 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,Less than 15 minutes a day,1267
+Strongly agree,Disagree,Agree,Neither agree nor disagree,Agree,Strongly agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,Less than 15 minutes a day,15-30 minutes a day,1270
+Agree,Disagree,Agree,Disagree,Agree,Agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,15-30 minutes a day,1276
+Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,3-5 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,30-60 minutes a day,1277
+Strongly agree,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,10+ times a week,1-2 times a week,Never,15-30 minutes a day,30-60 minutes a day,1281
+Agree,Agree,Neither agree nor disagree,Disagree,Disagree,Strongly agree,Disagree,3-5 times a week,3-5 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,1286
+Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Disagree,Agree,Agree,3-5 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,Over 120 minutes a day,1287
+Neither agree nor disagree,Disagree,Agree,Disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,,,,,,1291
+Agree,Agree,Agree,Agree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,3-5 times a week,3-5 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,1292
+Agree,Neither agree nor disagree,Agree,Disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,10+ times a week,3-5 times a week,1-2 times a week,60-120 minutes a day,15-30 minutes a day,1293
+Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Strongly agree,Disagree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,1294
+Agree,Agree,Agree,Agree,Disagree,Strongly agree,Disagree,10+ times a week,10+ times a week,10+ times a week,Over 120 minutes a day,60-120 minutes a day,1295
+Strongly agree,Agree,Agree,Neither agree nor disagree,Disagree,Agree,Neither agree nor disagree,1-2 times a week,3-5 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,1297
+Agree,Agree,Disagree,Agree,Neither agree nor disagree,Agree,Disagree,1-2 times a week,3-5 times a week,1-2 times a week,15-30 minutes a day,60-120 minutes a day,1298
+Strongly agree,Disagree,Agree,Strongly agree,Neither agree nor disagree,Agree,Neither agree nor disagree,3-5 times a week,1-2 times a week,1-2 times a week,Less than 15 minutes a day,30-60 minutes a day,1299
+Strongly disagree,Strongly agree,Strongly disagree,Strongly agree,Strongly disagree,Strongly agree,Strongly disagree,3-5 times a week,1-2 times a week,Never,Less than 15 minutes a day,60-120 minutes a day,1301
+Neither agree nor disagree,Disagree,Strongly agree,Strongly agree,Neither agree nor disagree,Strongly agree,Agree,6-10 times a week,10+ times a week,1-2 times a week,15-30 minutes a day,Less than 15 minutes a day,1302
+Neither agree nor disagree,Agree,Disagree,Strongly agree,Disagree,Strongly agree,Disagree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,1303
+Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Disagree,Agree,Agree,1-2 times a week,Never,1-2 times a week,30-60 minutes a day,15-30 minutes a day,1305
+Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Agree,10+ times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,1308
+Agree,Disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Disagree,10+ times a week,1-2 times a week,1-2 times a week,Less than 15 minutes a day,15-30 minutes a day,1309
+Neither agree nor disagree,Disagree,Neither agree nor disagree,Strongly agree,Disagree,Strongly agree,Neither agree nor disagree,3-5 times a week,3-5 times a week,Never,Less than 15 minutes a day,60-120 minutes a day,1310
+Agree,Agree,Agree,Agree,Agree,Strongly agree,Agree,6-10 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,60-120 minutes a day,1313
+Strongly agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Strongly agree,Agree,6-10 times a week,3-5 times a week,3-5 times a week,60-120 minutes a day,30-60 minutes a day,1316
+Disagree,Agree,Disagree,Agree,Disagree,Agree,Neither agree nor disagree,1-2 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,30-60 minutes a day,1320
+Disagree,Neither agree nor disagree,Strongly agree,Disagree,Agree,Agree,Agree,Never,Never,Never,30-60 minutes a day,15-30 minutes a day,1322
+Neither agree nor disagree,Agree,Agree,Disagree,Neither agree nor disagree,Agree,Agree,3-5 times a week,Never,1-2 times a week,30-60 minutes a day,15-30 minutes a day,1324
+Agree,Strongly agree,Strongly disagree,Strongly agree,Strongly disagree,Agree,Agree,1-2 times a week,10+ times a week,1-2 times a week,15-30 minutes a day,60-120 minutes a day,1327
+Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,Agree,Strongly agree,Neither agree nor disagree,3-5 times a week,Never,1-2 times a week,30-60 minutes a day,30-60 minutes a day,1332
+Neither agree nor disagree,Neither agree nor disagree,Agree,Strongly disagree,Agree,Strongly agree,Strongly agree,10+ times a week,1-2 times a week,1-2 times a week,Less than 15 minutes a day,30-60 minutes a day,1334
+Agree,Agree,Agree,Agree,Agree,Strongly agree,Neither agree nor disagree,3-5 times a week,3-5 times a week,1-2 times a week,15-30 minutes a day,30-60 minutes a day,1340
+Neither agree nor disagree,Agree,Strongly agree,Agree,Agree,Agree,Neither agree nor disagree,1-2 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,Less than 15 minutes a day,1343
+Agree,Disagree,Agree,Agree,Agree,Strongly agree,Neither agree nor disagree,6-10 times a week,1-2 times a week,6-10 times a week,30-60 minutes a day,15-30 minutes a day,1345
+Agree,Disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,30-60 minutes a day,1346
+Disagree,Disagree,Neither agree nor disagree,Disagree,Neither agree nor disagree,Agree,Disagree,3-5 times a week,1-2 times a week,3-5 times a week,30-60 minutes a day,15-30 minutes a day,1347
+Strongly agree,Strongly agree,Disagree,Agree,Disagree,Strongly agree,Disagree,3-5 times a week,3-5 times a week,1-2 times a week,60-120 minutes a day,15-30 minutes a day,1351
+Neither agree nor disagree,Disagree,Agree,Disagree,Agree,Neither agree nor disagree,Agree,1-2 times a week,Never,1-2 times a week,30-60 minutes a day,Less than 15 minutes a day,1354
+Strongly agree,Strongly agree,Agree,Strongly agree,Disagree,Agree,Strongly agree,3-5 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,Less than 15 minutes a day,1355
+Agree,Agree,Agree,Neither agree nor disagree,Agree,Strongly agree,Agree,Never,1-2 times a week,1-2 times a week,30-60 minutes a day,60-120 minutes a day,1356
+Agree,Strongly agree,Disagree,Agree,Disagree,Agree,Disagree,1-2 times a week,1-2 times a week,3-5 times a week,Over 120 minutes a day,30-60 minutes a day,1358
+Strongly agree,Disagree,Strongly agree,Disagree,Strongly agree,Agree,Strongly agree,1-2 times a week,1-2 times a week,Never,30-60 minutes a day,30-60 minutes a day,1359
+Disagree,Disagree,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly agree,6-10 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,Less than 15 minutes a day,1361
+Neither agree nor disagree,Neither agree nor disagree,Agree,Disagree,Strongly agree,Strongly agree,Agree,1-2 times a week,Never,1-2 times a week,30-60 minutes a day,15-30 minutes a day,1362
+Agree,Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,1-2 times a week,Never,Never,30-60 minutes a day,Less than 15 minutes a day,1363
+Neither agree nor disagree,Agree,Strongly agree,Neither agree nor disagree,Strongly agree,Strongly agree,Strongly agree,10+ times a week,1-2 times a week,3-5 times a week,Less than 15 minutes a day,Over 120 minutes a day,1367
+Disagree,Strongly agree,Agree,Strongly agree,Agree,Agree,Agree,Never,Never,Never,Less than 15 minutes a day,15-30 minutes a day,1368
+Strongly agree,Agree,Neither agree nor disagree,Agree,Agree,Strongly agree,Neither agree nor disagree,3-5 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,15-30 minutes a day,1369
+Disagree,Disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,15-30 minutes a day,1374
+Agree,Agree,Agree,Agree,Disagree,Agree,Disagree,1-2 times a week,3-5 times a week,1-2 times a week,Over 120 minutes a day,30-60 minutes a day,1380
+Neither agree nor disagree,Strongly disagree,Strongly agree,Disagree,Strongly agree,Agree,Strongly agree,6-10 times a week,Never,Never,60-120 minutes a day,15-30 minutes a day,1381
+Disagree,Strongly disagree,Strongly agree,Strongly disagree,Strongly agree,Strongly agree,Strongly agree,10+ times a week,Never,1-2 times a week,Less than 15 minutes a day,15-30 minutes a day,1382
+Neither agree nor disagree,Neither agree nor disagree,Agree,Disagree,Agree,Agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,60-120 minutes a day,1383
+Disagree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Never,Never,Never,15-30 minutes a day,15-30 minutes a day,1384
+Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Disagree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,1385
+Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,3-5 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,1387
+Agree,Agree,Agree,Strongly agree,Agree,Disagree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,30-60 minutes a day,1388
+Agree,Neither agree nor disagree,Agree,Agree,Disagree,Agree,Strongly agree,1-2 times a week,3-5 times a week,Never,30-60 minutes a day,15-30 minutes a day,1392
+Neither agree nor disagree,Disagree,Agree,Agree,Neither agree nor disagree,Disagree,Neither agree nor disagree,1-2 times a week,1-2 times a week,Never,15-30 minutes a day,30-60 minutes a day,1394
+Disagree,Disagree,Agree,Disagree,Disagree,Disagree,Agree,3-5 times a week,1-2 times a week,Never,Over 120 minutes a day,15-30 minutes a day,1398
+Strongly disagree,Disagree,Agree,Agree,Agree,Neither agree nor disagree,Agree,Never,1-2 times a week,Never,60-120 minutes a day,15-30 minutes a day,1400
+Disagree,Disagree,Strongly agree,Disagree,Agree,Strongly agree,Strongly agree,10+ times a week,1-2 times a week,Never,Less than 15 minutes a day,30-60 minutes a day,1406
+Agree,Disagree,Strongly agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Strongly agree,1-2 times a week,Never,Never,60-120 minutes a day,Less than 15 minutes a day,1407
+Neither agree nor disagree,Neither agree nor disagree,Agree,Disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Never,Never,Never,60-120 minutes a day,30-60 minutes a day,1409
+Strongly disagree,Agree,Agree,Disagree,Agree,Strongly agree,Agree,10+ times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,30-60 minutes a day,1410
+Disagree,Agree,Agree,Disagree,Disagree,Disagree,Disagree,1-2 times a week,3-5 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,1412
+Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Agree,Strongly agree,Agree,Agree,1-2 times a week,1-2 times a week,Never,60-120 minutes a day,Less than 15 minutes a day,1414
+Agree,Neither agree nor disagree,Agree,Agree,Disagree,Agree,Neither agree nor disagree,,,,,,1416
+Neither agree nor disagree,Agree,Strongly agree,Strongly disagree,Agree,Agree,Strongly agree,3-5 times a week,Never,Never,30-60 minutes a day,30-60 minutes a day,1419
+Agree,Agree,Agree,Agree,Agree,Strongly agree,Agree,3-5 times a week,Never,1-2 times a week,15-30 minutes a day,15-30 minutes a day,1420
+Disagree,Agree,Agree,Disagree,Agree,Neither agree nor disagree,Agree,3-5 times a week,Never,1-2 times a week,30-60 minutes a day,Less than 15 minutes a day,1426
+Neither agree nor disagree,Disagree,Agree,Disagree,Neither agree nor disagree,Agree,Agree,3-5 times a week,Never,Never,30-60 minutes a day,30-60 minutes a day,1428
+Agree,Strongly agree,Neither agree nor disagree,Agree,Disagree,Strongly agree,Agree,3-5 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,30-60 minutes a day,1438
+Agree,Strongly agree,Neither agree nor disagree,Strongly agree,Strongly disagree,Agree,Disagree,1-2 times a week,6-10 times a week,Never,30-60 minutes a day,15-30 minutes a day,1439
+Agree,Disagree,Agree,Agree,Agree,Strongly agree,Agree,3-5 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,30-60 minutes a day,1440
+Agree,Agree,Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,6-10 times a week,1-2 times a week,3-5 times a week,30-60 minutes a day,Less than 15 minutes a day,1444
+Disagree,Agree,Agree,Disagree,Disagree,Strongly agree,Agree,3-5 times a week,1-2 times a week,3-5 times a week,15-30 minutes a day,30-60 minutes a day,1447
+Disagree,Agree,Agree,Neither agree nor disagree,Disagree,Agree,Neither agree nor disagree,1-2 times a week,Never,Never,Less than 15 minutes a day,60-120 minutes a day,1448
+Disagree,Disagree,Agree,Neither agree nor disagree,Agree,Agree,Agree,1-2 times a week,Never,Never,15-30 minutes a day,30-60 minutes a day,1454
+Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Disagree,Strongly agree,Agree,Strongly agree,3-5 times a week,Never,1-2 times a week,Less than 15 minutes a day,Less than 15 minutes a day,1463
+Disagree,Agree,Disagree,Disagree,Disagree,Strongly agree,Strongly agree,10+ times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,Less than 15 minutes a day,1464
+Agree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,Strongly disagree,Strongly agree,Strongly agree,1-2 times a week,1-2 times a week,Never,15-30 minutes a day,Less than 15 minutes a day,1466
+Agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,3-5 times a week,3-5 times a week,1-2 times a week,30-60 minutes a day,60-120 minutes a day,1467
+Disagree,Agree,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly agree,3-5 times a week,Never,1-2 times a week,30-60 minutes a day,15-30 minutes a day,1470
+Agree,Agree,Agree,Disagree,Agree,Agree,Agree,1-2 times a week,Never,Never,Less than 15 minutes a day,30-60 minutes a day,1471
+Agree,Strongly agree,Neither agree nor disagree,Agree,Agree,Agree,Strongly agree,1-2 times a week,1-2 times a week,Never,30-60 minutes a day,Less than 15 minutes a day,1472
+Neither agree nor disagree,Agree,Disagree,Strongly agree,Disagree,Agree,Agree,3-5 times a week,3-5 times a week,Never,30-60 minutes a day,30-60 minutes a day,1473
+Agree,Neither agree nor disagree,Agree,Agree,Agree,Agree,Neither agree nor disagree,1-2 times a week,3-5 times a week,1-2 times a week,15-30 minutes a day,60-120 minutes a day,1474
+Neither agree nor disagree,Strongly disagree,Agree,Neither agree nor disagree,Agree,Disagree,Disagree,1-2 times a week,Never,1-2 times a week,Over 120 minutes a day,Less than 15 minutes a day,1475
+Agree,Agree,Agree,Disagree,Strongly disagree,Strongly agree,Agree,10+ times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,1478
+Strongly disagree,Agree,Strongly agree,Disagree,Agree,Agree,Agree,1-2 times a week,Never,1-2 times a week,60-120 minutes a day,30-60 minutes a day,1482
+Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Disagree,Agree,Agree,1-2 times a week,Never,1-2 times a week,15-30 minutes a day,30-60 minutes a day,1484
+Agree,Neither agree nor disagree,Agree,Agree,Agree,Agree,Disagree,3-5 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,30-60 minutes a day,1486
+Disagree,Disagree,Strongly agree,Disagree,Agree,Strongly agree,Agree,3-5 times a week,Never,3-5 times a week,30-60 minutes a day,30-60 minutes a day,1494
+Disagree,Disagree,Disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Disagree,1-2 times a week,1-2 times a week,Never,60-120 minutes a day,Less than 15 minutes a day,1496
+Strongly agree,Agree,Disagree,Strongly agree,Disagree,Agree,Disagree,1-2 times a week,1-2 times a week,1-2 times a week,Over 120 minutes a day,30-60 minutes a day,1499
+Strongly agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Disagree,3-5 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,15-30 minutes a day,1503
+Strongly agree,Agree,Agree,Strongly agree,Neither agree nor disagree,Agree,Disagree,1-2 times a week,3-5 times a week,1-2 times a week,15-30 minutes a day,Over 120 minutes a day,1504
+Neither agree nor disagree,Neither agree nor disagree,Strongly disagree,Neither agree nor disagree,Agree,Strongly agree,Disagree,1-2 times a week,1-2 times a week,1-2 times a week,Less than 15 minutes a day,15-30 minutes a day,1507
+Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,10+ times a week,1-2 times a week,6-10 times a week,30-60 minutes a day,30-60 minutes a day,1508
+Disagree,Strongly disagree,Strongly agree,Strongly disagree,Agree,Strongly agree,Strongly agree,10+ times a week,Never,1-2 times a week,15-30 minutes a day,15-30 minutes a day,1509
+Agree,Agree,Agree,Agree,Agree,Agree,Disagree,3-5 times a week,1-2 times a week,3-5 times a week,30-60 minutes a day,30-60 minutes a day,1512
+Neither agree nor disagree,Disagree,Agree,Neither agree nor disagree,Strongly disagree,Strongly agree,Disagree,3-5 times a week,1-2 times a week,3-5 times a week,30-60 minutes a day,15-30 minutes a day,1513
+Agree,Strongly disagree,Strongly agree,Disagree,Strongly agree,Strongly agree,Strongly agree,10+ times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,60-120 minutes a day,1514
+Strongly agree,Agree,Agree,Strongly agree,Neither agree nor disagree,Strongly agree,Disagree,3-5 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,30-60 minutes a day,1516
+Strongly agree,Agree,Agree,Disagree,Neither agree nor disagree,Agree,Agree,3-5 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,1517
+Disagree,Agree,Agree,Agree,Agree,Agree,Agree,3-5 times a week,6-10 times a week,1-2 times a week,Less than 15 minutes a day,15-30 minutes a day,1520
+Agree,Disagree,Agree,Agree,Neither agree nor disagree,Agree,Agree,3-5 times a week,1-2 times a week,Never,Less than 15 minutes a day,30-60 minutes a day,1522
+Disagree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Disagree,1-2 times a week,3-5 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,1524
+Strongly disagree,Agree,Agree,Disagree,Disagree,Neither agree nor disagree,Agree,6-10 times a week,1-2 times a week,Never,Over 120 minutes a day,15-30 minutes a day,1525
+Agree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,Strongly agree,Strongly agree,Agree,1-2 times a week,Never,Never,30-60 minutes a day,15-30 minutes a day,1526
+Strongly disagree,Disagree,Agree,Neither agree nor disagree,Agree,Agree,Agree,6-10 times a week,Never,1-2 times a week,60-120 minutes a day,Less than 15 minutes a day,1527
+Neither agree nor disagree,Agree,Agree,Agree,Strongly agree,Agree,Agree,3-5 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,1528
+Strongly agree,Strongly agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Disagree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,1531
+Agree,Neither agree nor disagree,Agree,Disagree,Agree,Strongly agree,Agree,3-5 times a week,Never,1-2 times a week,60-120 minutes a day,30-60 minutes a day,1535
+Agree,Strongly agree,Agree,Disagree,Strongly disagree,Strongly agree,Neither agree nor disagree,10+ times a week,3-5 times a week,10+ times a week,30-60 minutes a day,15-30 minutes a day,1537
+Strongly disagree,Disagree,Agree,Disagree,Agree,Agree,Agree,10+ times a week,Never,1-2 times a week,Less than 15 minutes a day,Less than 15 minutes a day,1540
+Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,60-120 minutes a day,1541
+Agree,Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,1-2 times a week,1-2 times a week,Never,30-60 minutes a day,15-30 minutes a day,1542
+Disagree,Neither agree nor disagree,Agree,Agree,Agree,Agree,Agree,1-2 times a week,Never,1-2 times a week,15-30 minutes a day,Less than 15 minutes a day,1545
+Disagree,Agree,Agree,Agree,Agree,Agree,Neither agree nor disagree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,1546
+Neither agree nor disagree,Disagree,Agree,Disagree,Agree,Agree,Agree,1-2 times a week,Never,Never,30-60 minutes a day,Less than 15 minutes a day,1549
+Agree,Agree,Neither agree nor disagree,Agree,Agree,Agree,Disagree,3-5 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,1551
+Neither agree nor disagree,Disagree,Disagree,Neither agree nor disagree,Disagree,Strongly agree,Disagree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,1552
+Neither agree nor disagree,Agree,Neither agree nor disagree,Disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Never,Never,Never,30-60 minutes a day,15-30 minutes a day,1556
+Neither agree nor disagree,Disagree,Strongly agree,Strongly disagree,Strongly agree,Strongly disagree,Agree,Never,Never,Never,15-30 minutes a day,Less than 15 minutes a day,1557
+Agree,Disagree,Agree,Disagree,Agree,Disagree,Agree,3-5 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,1560
+Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,6-10 times a week,10+ times a week,3-5 times a week,15-30 minutes a day,15-30 minutes a day,1562
+,Agree,Agree,Strongly disagree,Disagree,Strongly disagree,Neither agree nor disagree,Never,Never,Never,Over 120 minutes a day,Less than 15 minutes a day,1563
+Neither agree nor disagree,Strongly agree,Disagree,Strongly agree,Disagree,Agree,Disagree,1-2 times a week,10+ times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,1567
+Disagree,Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,Agree,Agree,1-2 times a week,1-2 times a week,Never,15-30 minutes a day,30-60 minutes a day,1568
+Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,Never,Never,Never,30-60 minutes a day,15-30 minutes a day,1571
+Neither agree nor disagree,Strongly agree,Agree,Strongly disagree,Neither agree nor disagree,Agree,Strongly agree,1-2 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,Less than 15 minutes a day,1573
+Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,3-5 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,1576
+Agree,Strongly agree,Disagree,Agree,Disagree,Neither agree nor disagree,Disagree,3-5 times a week,3-5 times a week,3-5 times a week,30-60 minutes a day,15-30 minutes a day,1579
+Neither agree nor disagree,Agree,Agree,Agree,Disagree,Strongly agree,Neither agree nor disagree,3-5 times a week,3-5 times a week,1-2 times a week,60-120 minutes a day,15-30 minutes a day,1580
+Disagree,Strongly agree,Neither agree nor disagree,Strongly agree,Disagree,Neither agree nor disagree,Disagree,3-5 times a week,1-2 times a week,3-5 times a week,30-60 minutes a day,60-120 minutes a day,1585
+Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Strongly disagree,Strongly agree,Strongly agree,Strongly agree,,,,,30-60 minutes a day,1589
+Agree,Agree,Agree,Agree,Agree,Agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,15-30 minutes a day,1593
+Neither agree nor disagree,Disagree,Agree,Strongly disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,1-2 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,Less than 15 minutes a day,1594
+Agree,Agree,Agree,Agree,Disagree,Agree,Neither agree nor disagree,3-5 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,1595
+Strongly agree,Neither agree nor disagree,Agree,Strongly disagree,Neither agree nor disagree,Agree,Agree,10+ times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,30-60 minutes a day,1596
+Neither agree nor disagree,Disagree,Strongly agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Strongly agree,1-2 times a week,Never,Never,30-60 minutes a day,Less than 15 minutes a day,1597
+Agree,Strongly agree,Agree,Strongly agree,Neither agree nor disagree,Disagree,Neither agree nor disagree,1-2 times a week,1-2 times a week,3-5 times a week,60-120 minutes a day,15-30 minutes a day,1599
+Agree,Agree,Disagree,Agree,Strongly disagree,Agree,Neither agree nor disagree,1-2 times a week,3-5 times a week,3-5 times a week,15-30 minutes a day,60-120 minutes a day,1600
+Agree,Disagree,Neither agree nor disagree,Disagree,Agree,Disagree,Agree,1-2 times a week,1-2 times a week,3-5 times a week,30-60 minutes a day,15-30 minutes a day,1602
+Agree,Strongly agree,Disagree,Agree,Disagree,Strongly agree,Neither agree nor disagree,3-5 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,60-120 minutes a day,1604
+Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,1-2 times a week,1-2 times a week,Never,30-60 minutes a day,Less than 15 minutes a day,1605
+Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Agree,Agree,Strongly agree,Agree,1-2 times a week,Never,1-2 times a week,15-30 minutes a day,60-120 minutes a day,1606
+Strongly agree,Agree,Agree,Neither agree nor disagree,Agree,Strongly agree,Neither agree nor disagree,6-10 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,60-120 minutes a day,1608
+Agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,3-5 times a week,1-2 times a week,3-5 times a week,60-120 minutes a day,15-30 minutes a day,1611
+Agree,Neither agree nor disagree,Agree,Strongly agree,Disagree,Agree,Neither agree nor disagree,Never,Never,Never,15-30 minutes a day,30-60 minutes a day,1612
+Neither agree nor disagree,,Neither agree nor disagree,Strongly disagree,Agree,Strongly agree,Agree,,,,,,1614
+Strongly agree,Agree,Agree,Strongly agree,Disagree,Strongly agree,Disagree,10+ times a week,3-5 times a week,1-2 times a week,15-30 minutes a day,60-120 minutes a day,1617
+Neither agree nor disagree,Disagree,Neither agree nor disagree,Disagree,Neither agree nor disagree,Agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,1620
+Neither agree nor disagree,Agree,Agree,Disagree,Agree,Agree,Agree,1-2 times a week,Never,Never,15-30 minutes a day,15-30 minutes a day,1622
+Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,Strongly agree,Agree,Agree,6-10 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,15-30 minutes a day,1623
+Neither agree nor disagree,Neither agree nor disagree,Agree,Disagree,Agree,Agree,Agree,3-5 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,15-30 minutes a day,1626
+Agree,Strongly agree,Agree,Neither agree nor disagree,Agree,Strongly agree,Agree,1-2 times a week,Never,1-2 times a week,30-60 minutes a day,Over 120 minutes a day,1630
+Agree,Agree,Agree,Strongly disagree,Agree,Agree,Neither agree nor disagree,1-2 times a week,Never,1-2 times a week,60-120 minutes a day,15-30 minutes a day,1633
+Agree,Strongly agree,Neither agree nor disagree,Disagree,Disagree,Agree,Neither agree nor disagree,1-2 times a week,Never,3-5 times a week,60-120 minutes a day,15-30 minutes a day,1634
+Agree,Disagree,Disagree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,10+ times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,60-120 minutes a day,1636
+Neither agree nor disagree,Neither agree nor disagree,Agree,Strongly disagree,Agree,Strongly agree,Neither agree nor disagree,3-5 times a week,1-2 times a week,3-5 times a week,30-60 minutes a day,15-30 minutes a day,1637
+Disagree,Neither agree nor disagree,Neither agree nor disagree,Disagree,Agree,Agree,Agree,1-2 times a week,Never,1-2 times a week,30-60 minutes a day,15-30 minutes a day,1638
+Disagree,Strongly agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Disagree,Disagree,1-2 times a week,1-2 times a week,1-2 times a week,Over 120 minutes a day,15-30 minutes a day,1639
+Disagree,Neither agree nor disagree,Agree,Disagree,Agree,Agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,1647
+Agree,Strongly agree,Agree,Disagree,Agree,Agree,Agree,1-2 times a week,1-2 times a week,Never,30-60 minutes a day,15-30 minutes a day,1648
+Disagree,Neither agree nor disagree,Agree,Strongly disagree,Strongly agree,Strongly agree,Agree,1-2 times a week,Never,Never,30-60 minutes a day,Less than 15 minutes a day,1650
+Agree,Agree,Disagree,Agree,Strongly disagree,Disagree,Disagree,1-2 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,30-60 minutes a day,1651
+Strongly disagree,Strongly agree,Neither agree nor disagree,Neither agree nor disagree,Disagree,Strongly disagree,Neither agree nor disagree,Never,Never,Never,60-120 minutes a day,15-30 minutes a day,1652
+Disagree,Disagree,Agree,Strongly agree,Disagree,Agree,Disagree,1-2 times a week,1-2 times a week,Never,30-60 minutes a day,30-60 minutes a day,1654
+Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Strongly agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,1658
+Strongly agree,Neither agree nor disagree,Disagree,Agree,Neither agree nor disagree,Agree,Disagree,1-2 times a week,3-5 times a week,Never,30-60 minutes a day,30-60 minutes a day,1661
+Disagree,Disagree,Agree,Disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,1-2 times a week,Never,Never,Less than 15 minutes a day,15-30 minutes a day,1662
+Agree,Agree,Disagree,Disagree,Agree,Agree,Disagree,1-2 times a week,3-5 times a week,1-2 times a week,15-30 minutes a day,30-60 minutes a day,1669
+Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,Disagree,Agree,Strongly disagree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,60-120 minutes a day,1671
+Disagree,Disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,10+ times a week,1-2 times a week,3-5 times a week,15-30 minutes a day,Less than 15 minutes a day,1672
+Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,1-2 times a week,Never,1-2 times a week,30-60 minutes a day,30-60 minutes a day,1673
+Agree,Strongly agree,Disagree,Strongly agree,Disagree,Strongly agree,Disagree,10+ times a week,3-5 times a week,3-5 times a week,60-120 minutes a day,30-60 minutes a day,1677
+Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,Strongly agree,Strongly agree,Strongly agree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,1682
+Strongly agree,Agree,Agree,Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,1683
+Agree,Strongly agree,Neither agree nor disagree,Agree,Agree,Strongly agree,Disagree,10+ times a week,10+ times a week,10+ times a week,30-60 minutes a day,30-60 minutes a day,1684
+Agree,Strongly agree,Disagree,Strongly agree,Disagree,Agree,Disagree,3-5 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,1686
+Agree,Strongly agree,Strongly disagree,Strongly agree,Strongly disagree,Strongly agree,Disagree,10+ times a week,10+ times a week,10+ times a week,Over 120 minutes a day,60-120 minutes a day,1688
+Neither agree nor disagree,Disagree,Strongly agree,Disagree,Agree,Agree,Agree,3-5 times a week,Never,1-2 times a week,30-60 minutes a day,15-30 minutes a day,1692
+Neither agree nor disagree,Agree,Agree,Disagree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,3-5 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,15-30 minutes a day,1694
+Disagree,Disagree,Strongly agree,Strongly disagree,Strongly agree,Strongly agree,Strongly agree,1-2 times a week,1-2 times a week,Never,30-60 minutes a day,Less than 15 minutes a day,1695
+Neither agree nor disagree,Agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,10+ times a week,3-5 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,1699
+Disagree,Strongly agree,Agree,Disagree,Agree,Agree,Strongly agree,1-2 times a week,Never,Never,60-120 minutes a day,30-60 minutes a day,1700
+Strongly agree,Agree,Strongly disagree,Strongly agree,Disagree,Agree,Strongly disagree,6-10 times a week,3-5 times a week,3-5 times a week,60-120 minutes a day,30-60 minutes a day,1703
+Disagree,Strongly disagree,Strongly agree,Strongly disagree,Strongly agree,Strongly agree,Strongly agree,10+ times a week,1-2 times a week,10+ times a week,15-30 minutes a day,60-120 minutes a day,1704
+Disagree,Neither agree nor disagree,Neither agree nor disagree,Disagree,Agree,Disagree,Agree,Never,Never,Never,Over 120 minutes a day,Less than 15 minutes a day,1705
+Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Agree,Neither agree nor disagree,Agree,Strongly agree,1-2 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,15-30 minutes a day,1706
+Disagree,Disagree,Strongly agree,Disagree,Agree,Agree,Strongly agree,3-5 times a week,Never,Never,15-30 minutes a day,Less than 15 minutes a day,1707
+Agree,Strongly agree,Agree,Agree,Neither agree nor disagree,Agree,Agree,1-2 times a week,1-2 times a week,Never,30-60 minutes a day,Less than 15 minutes a day,1709
+Agree,Agree,Agree,Strongly agree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,1-2 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,60-120 minutes a day,1710
+Strongly agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Strongly agree,Agree,3-5 times a week,3-5 times a week,1-2 times a week,Less than 15 minutes a day,60-120 minutes a day,1711
+Agree,Agree,Agree,Agree,Neither agree nor disagree,Agree,Agree,3-5 times a week,6-10 times a week,1-2 times a week,60-120 minutes a day,30-60 minutes a day,1714
+Neither agree nor disagree,Strongly agree,Agree,Strongly disagree,Strongly agree,Strongly agree,Agree,1-2 times a week,Never,1-2 times a week,15-30 minutes a day,30-60 minutes a day,1716
+Disagree,Agree,Agree,Neither agree nor disagree,Disagree,Strongly agree,Neither agree nor disagree,10+ times a week,Never,1-2 times a week,60-120 minutes a day,30-60 minutes a day,1717
+Agree,Strongly agree,Strongly agree,Agree,Strongly disagree,Agree,Agree,10+ times a week,3-5 times a week,1-2 times a week,Over 120 minutes a day,Over 120 minutes a day,1721
+Disagree,Neither agree nor disagree,Disagree,Disagree,Agree,Agree,Disagree,Never,1-2 times a week,Never,15-30 minutes a day,Less than 15 minutes a day,1724
+Disagree,Agree,Agree,Strongly agree,Agree,Agree,Agree,3-5 times a week,3-5 times a week,1-2 times a week,Over 120 minutes a day,15-30 minutes a day,1725
+,,,Agree,,Disagree,,Never,,Never,60-120 minutes a day,Less than 15 minutes a day,1727
+Agree,Agree,Strongly agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,3-5 times a week,1-2 times a week,1-2 times a week,,,1728
+Agree,Disagree,Agree,Neither agree nor disagree,Disagree,Agree,Neither agree nor disagree,6-10 times a week,Never,1-2 times a week,60-120 minutes a day,30-60 minutes a day,1735
+Neither agree nor disagree,Agree,Strongly agree,Disagree,Agree,Disagree,Strongly agree,1-2 times a week,Never,1-2 times a week,30-60 minutes a day,15-30 minutes a day,1736
+Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Disagree,Agree,Agree,Neither agree nor disagree,3-5 times a week,Never,1-2 times a week,15-30 minutes a day,30-60 minutes a day,1739
+Disagree,Agree,Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,1-2 times a week,1-2 times a week,1-2 times a week,Less than 15 minutes a day,60-120 minutes a day,1740
+Neither agree nor disagree,Disagree,Agree,Neither agree nor disagree,Disagree,Agree,Agree,1-2 times a week,,,30-60 minutes a day,30-60 minutes a day,1744
+Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,Agree,Strongly agree,Agree,3-5 times a week,1-2 times a week,3-5 times a week,Over 120 minutes a day,Over 120 minutes a day,1746
+Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Disagree,Strongly agree,Agree,10+ times a week,3-5 times a week,1-2 times a week,30-60 minutes a day,60-120 minutes a day,1748
+Neither agree nor disagree,Agree,Strongly agree,Neither agree nor disagree,Strongly agree,Disagree,Strongly agree,Never,1-2 times a week,Never,Less than 15 minutes a day,60-120 minutes a day,1750
+Agree,Agree,Agree,Agree,Disagree,Strongly agree,Neither agree nor disagree,10+ times a week,1-2 times a week,3-5 times a week,30-60 minutes a day,15-30 minutes a day,1751
+Agree,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,Agree,1-2 times a week,6-10 times a week,Never,60-120 minutes a day,Over 120 minutes a day,1757
+,Neither agree nor disagree,Agree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,1-2 times a week,1-2 times a week,Never,15-30 minutes a day,15-30 minutes a day,1759
+Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Disagree,Agree,Neither agree nor disagree,Never,1-2 times a week,1-2 times a week,15-30 minutes a day,Less than 15 minutes a day,1763
+Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Disagree,3-5 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,Less than 15 minutes a day,1764
+Disagree,Neither agree nor disagree,Agree,Strongly disagree,Strongly agree,Agree,Strongly agree,1-2 times a week,Never,1-2 times a week,60-120 minutes a day,15-30 minutes a day,1765
+Neither agree nor disagree,Disagree,Neither agree nor disagree,Agree,Disagree,Agree,Neither agree nor disagree,1-2 times a week,3-5 times a week,Never,Over 120 minutes a day,30-60 minutes a day,1766
+Agree,Agree,Agree,Neither agree nor disagree,Agree,Disagree,Agree,Never,Never,Never,60-120 minutes a day,15-30 minutes a day,1768
+Neither agree nor disagree,Disagree,Strongly agree,Strongly agree,Agree,Strongly disagree,Agree,1-2 times a week,Never,1-2 times a week,60-120 minutes a day,Less than 15 minutes a day,1770
+Strongly agree,Agree,Agree,Disagree,Agree,Strongly agree,Agree,10+ times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,60-120 minutes a day,1771
+Agree,Agree,Strongly agree,Agree,Neither agree nor disagree,Strongly agree,Agree,10+ times a week,3-5 times a week,3-5 times a week,60-120 minutes a day,15-30 minutes a day,1772
+Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Disagree,Neither agree nor disagree,1-2 times a week,3-5 times a week,1-2 times a week,60-120 minutes a day,60-120 minutes a day,1773
+Disagree,Strongly agree,Disagree,Agree,Disagree,Agree,Disagree,,,,,,1775
+Disagree,Agree,Agree,Agree,Disagree,Strongly agree,Agree,10+ times a week,10+ times a week,3-5 times a week,30-60 minutes a day,60-120 minutes a day,1780
+Agree,Agree,Agree,Agree,Agree,Agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,1782
+Strongly agree,Disagree,Strongly agree,Agree,Agree,Strongly agree,Agree,3-5 times a week,6-10 times a week,Never,15-30 minutes a day,30-60 minutes a day,1783
+Neither agree nor disagree,Disagree,Agree,Disagree,Disagree,Agree,Agree,1-2 times a week,Never,1-2 times a week,15-30 minutes a day,30-60 minutes a day,1785
+Agree,Strongly agree,Agree,Strongly agree,Disagree,Agree,Agree,6-10 times a week,6-10 times a week,3-5 times a week,30-60 minutes a day,15-30 minutes a day,1786
+Strongly agree,Strongly agree,Strongly agree,Agree,Agree,Agree,Neither agree nor disagree,1-2 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,30-60 minutes a day,1789
+Agree,Strongly agree,Agree,Disagree,Disagree,Agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,Less than 15 minutes a day,1791
+,,,Neither agree nor disagree,,Strongly agree,,6-10 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,1795
+Agree,Disagree,Agree,Agree,Neither agree nor disagree,Strongly agree,Agree,1-2 times a week,Never,1-2 times a week,15-30 minutes a day,15-30 minutes a day,1796
+Neither agree nor disagree,Agree,Agree,Strongly disagree,Strongly disagree,Agree,Agree,1-2 times a week,Never,Never,30-60 minutes a day,30-60 minutes a day,1799
+Disagree,Strongly agree,Agree,Neither agree nor disagree,Agree,Agree,Agree,3-5 times a week,Never,1-2 times a week,Over 120 minutes a day,15-30 minutes a day,1800
+,,,,,,,Never,Never,Never,60-120 minutes a day,30-60 minutes a day,1802
+Disagree,Neither agree nor disagree,Strongly agree,Strongly agree,Agree,Strongly agree,Neither agree nor disagree,3-5 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,30-60 minutes a day,1807
+Agree,Disagree,Strongly agree,Disagree,Agree,Agree,Strongly agree,1-2 times a week,Never,Never,15-30 minutes a day,60-120 minutes a day,1816
+Agree,Disagree,Agree,,,Agree,Agree,3-5 times a week,Never,1-2 times a week,60-120 minutes a day,15-30 minutes a day,1817
+Agree,Strongly disagree,Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,1-2 times a week,1-2 times a week,Never,Less than 15 minutes a day,15-30 minutes a day,1818
+Agree,Agree,Strongly agree,Neither agree nor disagree,Strongly agree,Agree,Strongly agree,1-2 times a week,Never,1-2 times a week,60-120 minutes a day,15-30 minutes a day,1819
+Disagree,Neither agree nor disagree,Agree,Strongly disagree,Agree,Strongly agree,Agree,1-2 times a week,Never,1-2 times a week,15-30 minutes a day,Less than 15 minutes a day,1821
+Neither agree nor disagree,Neither agree nor disagree,Agree,Disagree,Agree,Agree,Agree,6-10 times a week,Never,1-2 times a week,30-60 minutes a day,15-30 minutes a day,1823
+Strongly agree,Disagree,Strongly agree,Disagree,Strongly agree,Strongly agree,Strongly agree,1-2 times a week,6-10 times a week,Never,Less than 15 minutes a day,Less than 15 minutes a day,1824
+Agree,Disagree,Agree,Disagree,Agree,Agree,Neither agree nor disagree,3-5 times a week,Never,1-2 times a week,15-30 minutes a day,Less than 15 minutes a day,1829
+Disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,1-2 times a week,3-5 times a week,3-5 times a week,30-60 minutes a day,Less than 15 minutes a day,1833
+Agree,Strongly agree,Strongly agree,Strongly disagree,Strongly agree,Strongly agree,Strongly agree,1-2 times a week,Never,1-2 times a week,15-30 minutes a day,Less than 15 minutes a day,1834
+Agree,Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,3-5 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,15-30 minutes a day,1835
+Strongly agree,Agree,Agree,Neither agree nor disagree,Agree,Strongly agree,Neither agree nor disagree,10+ times a week,1-2 times a week,3-5 times a week,15-30 minutes a day,30-60 minutes a day,1839
+Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Strongly agree,Agree,Agree,3-5 times a week,Never,1-2 times a week,60-120 minutes a day,15-30 minutes a day,1841
+Agree,Agree,Agree,Strongly agree,Disagree,Agree,Disagree,3-5 times a week,6-10 times a week,1-2 times a week,60-120 minutes a day,30-60 minutes a day,1845
+Agree,Agree,Agree,Strongly agree,Neither agree nor disagree,Agree,Agree,3-5 times a week,Never,1-2 times a week,Over 120 minutes a day,30-60 minutes a day,1847
+Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Disagree,Agree,Neither agree nor disagree,3-5 times a week,1-2 times a week,3-5 times a week,60-120 minutes a day,30-60 minutes a day,1848
+Agree,Agree,Agree,Neither agree nor disagree,Agree,Strongly agree,Agree,3-5 times a week,6-10 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,1849
+Disagree,Neither agree nor disagree,Agree,Strongly disagree,Strongly disagree,Strongly agree,Agree,6-10 times a week,1-2 times a week,Never,30-60 minutes a day,15-30 minutes a day,1850
+Agree,Disagree,Agree,Agree,Agree,Strongly disagree,Disagree,10+ times a week,1-2 times a week,3-5 times a week,30-60 minutes a day,60-120 minutes a day,1853
+Agree,Agree,Agree,Agree,Agree,Strongly agree,Agree,3-5 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,1854
+Agree,Strongly agree,Agree,Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,1-2 times a week,1-2 times a week,Never,30-60 minutes a day,30-60 minutes a day,1855
+Disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,10+ times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,1856
+Disagree,Neither agree nor disagree,Agree,Strongly agree,Neither agree nor disagree,Agree,Disagree,1-2 times a week,1-2 times a week,1-2 times a week,Less than 15 minutes a day,Less than 15 minutes a day,1857
+Agree,Disagree,Agree,Disagree,Agree,Agree,Agree,1-2 times a week,Never,1-2 times a week,30-60 minutes a day,30-60 minutes a day,1858
+Disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,3-5 times a week,1-2 times a week,3-5 times a week,15-30 minutes a day,15-30 minutes a day,1859
+Neither agree nor disagree,Disagree,Agree,Neither agree nor disagree,Agree,Agree,Agree,3-5 times a week,Never,1-2 times a week,60-120 minutes a day,30-60 minutes a day,1861
+Disagree,Disagree,Agree,Disagree,Agree,Agree,Agree,1-2 times a week,Never,1-2 times a week,15-30 minutes a day,15-30 minutes a day,1862
+Agree,Disagree,Strongly agree,Strongly disagree,Agree,Strongly agree,Strongly agree,10+ times a week,Never,3-5 times a week,15-30 minutes a day,60-120 minutes a day,1864
+Strongly agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Strongly agree,Agree,3-5 times a week,3-5 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,1869
+Strongly disagree,Disagree,Agree,Strongly agree,Disagree,Agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,15-30 minutes a day,1870
+,,,,,,,3-5 times a week,3-5 times a week,Never,30-60 minutes a day,15-30 minutes a day,1872
+Agree,Disagree,Agree,Agree,Agree,Strongly agree,Neither agree nor disagree,10+ times a week,6-10 times a week,3-5 times a week,30-60 minutes a day,Over 120 minutes a day,1874
+Agree,Strongly agree,Disagree,Neither agree nor disagree,Agree,Agree,Disagree,1-2 times a week,Never,Never,60-120 minutes a day,Less than 15 minutes a day,1875
+Disagree,Disagree,Strongly agree,Disagree,Strongly agree,Agree,Strongly agree,1-2 times a week,Never,1-2 times a week,Less than 15 minutes a day,Less than 15 minutes a day,1877
+Neither agree nor disagree,Strongly agree,Agree,Neither agree nor disagree,Strongly disagree,Agree,Agree,3-5 times a week,3-5 times a week,3-5 times a week,15-30 minutes a day,15-30 minutes a day,1878
+Agree,Strongly agree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,Disagree,Neither agree nor disagree,Never,6-10 times a week,1-2 times a week,60-120 minutes a day,30-60 minutes a day,1879
+Disagree,Agree,Agree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,Strongly agree,3-5 times a week,1-2 times a week,3-5 times a week,15-30 minutes a day,Less than 15 minutes a day,1880
+Strongly disagree,Disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Strongly agree,Agree,3-5 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,Less than 15 minutes a day,1885
+Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Agree,Neither agree nor disagree,Neither agree nor disagree,1-2 times a week,6-10 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,1887
+Neither agree nor disagree,Strongly agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,1-2 times a week,3-5 times a week,1-2 times a week,15-30 minutes a day,30-60 minutes a day,1889
+Strongly agree,Strongly agree,Neither agree nor disagree,Strongly agree,Disagree,Strongly agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,15-30 minutes a day,1892
+Agree,Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,1-2 times a week,1-2 times a week,Never,Over 120 minutes a day,60-120 minutes a day,1893
+Strongly disagree,Disagree,Agree,Neither agree nor disagree,Disagree,Strongly agree,Neither agree nor disagree,6-10 times a week,Never,1-2 times a week,15-30 minutes a day,60-120 minutes a day,1895
+Neither agree nor disagree,Disagree,Strongly agree,Disagree,Agree,Agree,Strongly agree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,1898
+Disagree,Disagree,Disagree,Agree,Disagree,Agree,Disagree,3-5 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,Less than 15 minutes a day,1901
+Strongly agree,Agree,Agree,Agree,Disagree,Strongly agree,Disagree,3-5 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,Over 120 minutes a day,1902
+Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Agree,6-10 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,1904
+Agree,Agree,Agree,Agree,Agree,Agree,Agree,3-5 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,30-60 minutes a day,1905
+Disagree,Neither agree nor disagree,Agree,Strongly agree,Agree,Agree,Strongly agree,3-5 times a week,3-5 times a week,1-2 times a week,15-30 minutes a day,15-30 minutes a day,1908
+Agree,Agree,Disagree,Agree,Neither agree nor disagree,Agree,Disagree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,Less than 15 minutes a day,1909
+Agree,Agree,Agree,Agree,Agree,Strongly agree,Agree,6-10 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,Over 120 minutes a day,1910
+Agree,Disagree,Strongly agree,Disagree,Disagree,Strongly agree,Agree,6-10 times a week,Never,Never,Less than 15 minutes a day,60-120 minutes a day,1911
+Disagree,Disagree,Agree,Neither agree nor disagree,Agree,Disagree,Neither agree nor disagree,1-2 times a week,Never,Never,Over 120 minutes a day,30-60 minutes a day,1914
+Strongly agree,Strongly agree,Agree,Agree,Disagree,Strongly agree,Disagree,6-10 times a week,1-2 times a week,3-5 times a week,60-120 minutes a day,Over 120 minutes a day,1917
+Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Disagree,Agree,Neither agree nor disagree,6-10 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,30-60 minutes a day,1919
+Disagree,Strongly agree,Agree,Agree,Neither agree nor disagree,Agree,Agree,1-2 times a week,Never,1-2 times a week,30-60 minutes a day,30-60 minutes a day,1922
+Agree,Agree,Agree,Agree,Agree,Agree,Agree,3-5 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,60-120 minutes a day,1927
+Neither agree nor disagree,Disagree,Agree,Disagree,Agree,Strongly agree,Agree,1-2 times a week,Never,1-2 times a week,30-60 minutes a day,30-60 minutes a day,1929
+Agree,Neither agree nor disagree,Agree,Agree,Agree,Strongly agree,Strongly agree,10+ times a week,3-5 times a week,1-2 times a week,30-60 minutes a day,60-120 minutes a day,1930
+Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,Agree,Strongly agree,Neither agree nor disagree,3-5 times a week,Never,1-2 times a week,15-30 minutes a day,15-30 minutes a day,1934
+Disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,1-2 times a week,Never,1-2 times a week,Over 120 minutes a day,30-60 minutes a day,1935
+Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,1-2 times a week,1-2 times a week,3-5 times a week,60-120 minutes a day,Less than 15 minutes a day,1936
+Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Strongly disagree,Agree,Strongly agree,Strongly agree,1-2 times a week,Never,1-2 times a week,30-60 minutes a day,15-30 minutes a day,1939
+Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Agree,3-5 times a week,3-5 times a week,3-5 times a week,30-60 minutes a day,15-30 minutes a day,1940
+Strongly agree,Strongly agree,Agree,Disagree,Strongly disagree,Strongly agree,Agree,10+ times a week,1-2 times a week,Never,15-30 minutes a day,Over 120 minutes a day,1943
+Disagree,Agree,Agree,Disagree,Agree,Agree,Neither agree nor disagree,1-2 times a week,1-2 times a week,Never,15-30 minutes a day,15-30 minutes a day,1944
+Strongly agree,Agree,Agree,Neither agree nor disagree,Disagree,Neither agree nor disagree,Agree,1-2 times a week,Never,1-2 times a week,60-120 minutes a day,30-60 minutes a day,1945
+Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Strongly agree,Strongly agree,Strongly agree,3-5 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,15-30 minutes a day,1947
+Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,1-2 times a week,Never,Never,15-30 minutes a day,60-120 minutes a day,1948
+Agree,Agree,Agree,Neither agree nor disagree,Agree,Agree,Strongly agree,1-2 times a week,1-2 times a week,Never,30-60 minutes a day,30-60 minutes a day,1950
+Strongly agree,Strongly agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,3-5 times a week,3-5 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,1951
+Disagree,Disagree,Agree,Strongly disagree,Agree,Strongly agree,Agree,10+ times a week,Never,1-2 times a week,30-60 minutes a day,30-60 minutes a day,1954
+Agree,Strongly agree,Agree,Strongly agree,Disagree,Agree,Disagree,10+ times a week,1-2 times a week,3-5 times a week,60-120 minutes a day,30-60 minutes a day,1956
+Strongly agree,Neither agree nor disagree,Agree,Disagree,Disagree,Strongly agree,Agree,10+ times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,60-120 minutes a day,1958
+Strongly agree,Strongly agree,Strongly agree,Neither agree nor disagree,Strongly agree,Strongly agree,Strongly agree,10+ times a week,10+ times a week,1-2 times a week,15-30 minutes a day,15-30 minutes a day,1963
+Strongly agree,Strongly agree,Agree,Agree,Agree,Agree,Agree,3-5 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,60-120 minutes a day,1970
+Disagree,Agree,Agree,Neither agree nor disagree,Agree,Agree,Agree,3-5 times a week,Never,Never,30-60 minutes a day,30-60 minutes a day,1971
+Agree,Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Agree,3-5 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,Less than 15 minutes a day,1972
+,,,,,Strongly agree,,,,,,,1974
+Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,1-2 times a week,Never,Never,60-120 minutes a day,30-60 minutes a day,1976
+Disagree,Agree,Disagree,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,3-5 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,30-60 minutes a day,1979
+Strongly agree,Neither agree nor disagree,Agree,Disagree,Agree,Strongly agree,Agree,1-2 times a week,Never,1-2 times a week,15-30 minutes a day,15-30 minutes a day,1981
+Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Strongly agree,Agree,3-5 times a week,Never,1-2 times a week,Less than 15 minutes a day,Less than 15 minutes a day,1986
+Neither agree nor disagree,Agree,Disagree,Strongly agree,Agree,Agree,Disagree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,1988
+Agree,Disagree,Agree,Disagree,Agree,Strongly agree,Agree,6-10 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,60-120 minutes a day,1993
+Agree,Neither agree nor disagree,Agree,Disagree,Disagree,Strongly agree,Neither agree nor disagree,10+ times a week,1-2 times a week,3-5 times a week,30-60 minutes a day,30-60 minutes a day,1995
+Strongly agree,Strongly agree,Agree,Agree,Disagree,Strongly agree,Neither agree nor disagree,3-5 times a week,3-5 times a week,1-2 times a week,60-120 minutes a day,15-30 minutes a day,1996
+Disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Strongly agree,Agree,3-5 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,15-30 minutes a day,1997
+Disagree,Disagree,Strongly agree,Neither agree nor disagree,Agree,Strongly disagree,Strongly agree,Never,Never,Never,15-30 minutes a day,Less than 15 minutes a day,1998
+Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Disagree,Agree,Never,1-2 times a week,Never,60-120 minutes a day,30-60 minutes a day,1999
+Strongly agree,Agree,Agree,Agree,Agree,Agree,Agree,6-10 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,30-60 minutes a day,2000
+Agree,Agree,Neither agree nor disagree,Agree,Agree,Agree,Neither agree nor disagree,1-2 times a week,3-5 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,2003
+Agree,Agree,Agree,Disagree,Disagree,Strongly agree,Neither agree nor disagree,3-5 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,30-60 minutes a day,2005
+Agree,Strongly agree,Disagree,Strongly agree,Strongly agree,Strongly agree,Strongly disagree,10+ times a week,10+ times a week,3-5 times a week,Over 120 minutes a day,60-120 minutes a day,2009
+Agree,Disagree,Disagree,Agree,Strongly agree,Strongly agree,Disagree,6-10 times a week,1-2 times a week,1-2 times a week,Less than 15 minutes a day,15-30 minutes a day,2010
+Agree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,Strongly agree,Agree,Strongly agree,3-5 times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,15-30 minutes a day,2014
+Strongly agree,Agree,Agree,Agree,Agree,Agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,Over 120 minutes a day,2020
+Agree,Agree,Neither agree nor disagree,Agree,Disagree,Disagree,Neither agree nor disagree,1-2 times a week,1-2 times a week,1-2 times a week,Over 120 minutes a day,60-120 minutes a day,2021
+Agree,Agree,Disagree,Agree,,Agree,Disagree,1-2 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,15-30 minutes a day,2024
+Agree,Disagree,Strongly agree,Agree,Agree,Agree,Strongly agree,3-5 times a week,1-2 times a week,1-2 times a week,Less than 15 minutes a day,15-30 minutes a day,2025
+Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,3-5 times a week,1-2 times a week,Never,Over 120 minutes a day,30-60 minutes a day,2027
+Neither agree nor disagree,Disagree,Agree,Strongly agree,Agree,Agree,Neither agree nor disagree,3-5 times a week,1-2 times a week,Never,Over 120 minutes a day,60-120 minutes a day,2030
+Disagree,Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Agree,3-5 times a week,6-10 times a week,3-5 times a week,15-30 minutes a day,30-60 minutes a day,2034
+Agree,Disagree,Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,3-5 times a week,1-2 times a week,1-2 times a week,Less than 15 minutes a day,Less than 15 minutes a day,2036
+Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,Agree,Agree,Agree,Never,Never,Never,60-120 minutes a day,Less than 15 minutes a day,2040
+Agree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,2041
+Agree,Agree,Agree,Strongly agree,Agree,Strongly agree,Agree,1-2 times a week,1-2 times a week,Never,15-30 minutes a day,60-120 minutes a day,2042
+Agree,Neither agree nor disagree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Disagree,Never,1-2 times a week,Never,30-60 minutes a day,30-60 minutes a day,2043
+Agree,Agree,Agree,Agree,Disagree,Agree,Neither agree nor disagree,1-2 times a week,Never,Never,30-60 minutes a day,Less than 15 minutes a day,2044
+Disagree,Agree,Neither agree nor disagree,Strongly agree,Strongly agree,Disagree,Disagree,Never,3-5 times a week,Never,15-30 minutes a day,Less than 15 minutes a day,2045
+Neither agree nor disagree,Neither agree nor disagree,Agree,Disagree,Agree,Agree,Agree,3-5 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,2048
+,,,,,Agree,,,,,60-120 minutes a day,30-60 minutes a day,2052
+Strongly agree,Agree,Agree,Strongly agree,Neither agree nor disagree,Agree,Strongly disagree,1-2 times a week,3-5 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,2056
+Neither agree nor disagree,Strongly agree,Strongly disagree,Neither agree nor disagree,Disagree,Neither agree nor disagree,Strongly disagree,1-2 times a week,Never,1-2 times a week,Over 120 minutes a day,15-30 minutes a day,2059
+Disagree,Agree,Agree,Strongly agree,Neither agree nor disagree,Agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,15-30 minutes a day,2060
+Agree,Strongly agree,Agree,Agree,Disagree,Neither agree nor disagree,Neither agree nor disagree,1-2 times a week,10+ times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,2061
+Agree,Agree,Agree,Strongly agree,Disagree,Agree,Disagree,6-10 times a week,1-2 times a week,Never,15-30 minutes a day,60-120 minutes a day,2062
+Agree,Strongly agree,Disagree,Agree,Disagree,Agree,Disagree,6-10 times a week,3-5 times a week,1-2 times a week,Over 120 minutes a day,60-120 minutes a day,2063
+Agree,,Agree,Agree,Agree,Agree,Agree,3-5 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,Less than 15 minutes a day,2067
+Strongly agree,Strongly agree,Neither agree nor disagree,Strongly agree,Disagree,Agree,Neither agree nor disagree,3-5 times a week,1-2 times a week,3-5 times a week,30-60 minutes a day,30-60 minutes a day,2068
+Agree,Agree,Neither agree nor disagree,Disagree,Agree,Agree,Neither agree nor disagree,3-5 times a week,Never,1-2 times a week,30-60 minutes a day,15-30 minutes a day,2074
+Disagree,Agree,Strongly disagree,Strongly agree,Disagree,Agree,Neither agree nor disagree,1-2 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,Less than 15 minutes a day,2081
+Agree,Neither agree nor disagree,Agree,Disagree,Agree,Agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,Less than 15 minutes a day,2087
+Agree,Strongly agree,Disagree,Agree,Neither agree nor disagree,Strongly agree,Disagree,3-5 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,2091
+Neither agree nor disagree,Disagree,Agree,Disagree,Agree,Strongly agree,Agree,3-5 times a week,Never,1-2 times a week,30-60 minutes a day,15-30 minutes a day,2093
+Agree,Strongly disagree,Agree,Strongly disagree,Agree,Strongly agree,Agree,1-2 times a week,Never,1-2 times a week,15-30 minutes a day,30-60 minutes a day,2096
+Disagree,Agree,Strongly agree,Agree,Strongly agree,Agree,Strongly agree,1-2 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,30-60 minutes a day,2100
+Strongly agree,Disagree,Agree,Strongly disagree,Agree,Strongly agree,Strongly agree,6-10 times a week,Never,6-10 times a week,30-60 minutes a day,60-120 minutes a day,2102
+Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Disagree,Neither agree nor disagree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,Less than 15 minutes a day,2105
+Disagree,Disagree,Agree,Disagree,Agree,Strongly agree,Agree,1-2 times a week,Never,1-2 times a week,Less than 15 minutes a day,Less than 15 minutes a day,2106
+Strongly agree,Agree,Agree,Strongly agree,Disagree,Strongly agree,Neither agree nor disagree,3-5 times a week,3-5 times a week,1-2 times a week,60-120 minutes a day,Over 120 minutes a day,2108
+Disagree,Disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,1-2 times a week,Never,1-2 times a week,15-30 minutes a day,Less than 15 minutes a day,2111
+Strongly agree,Strongly agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,6-10 times a week,3-5 times a week,1-2 times a week,15-30 minutes a day,60-120 minutes a day,2112
+Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,1-2 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,2115
+Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Never,1-2 times a week,Never,60-120 minutes a day,30-60 minutes a day,2120
+Disagree,Disagree,Strongly agree,Neither agree nor disagree,Strongly agree,Agree,Agree,6-10 times a week,1-2 times a week,3-5 times a week,30-60 minutes a day,30-60 minutes a day,2122
+Strongly agree,Disagree,Agree,Agree,Disagree,Strongly agree,Agree,3-5 times a week,1-2 times a week,Never,30-60 minutes a day,15-30 minutes a day,2123
+Disagree,Neither agree nor disagree,Agree,Disagree,Agree,Agree,Agree,1-2 times a week,Never,Never,Less than 15 minutes a day,Less than 15 minutes a day,2124
+Agree,Agree,Agree,Strongly disagree,Strongly agree,Agree,Agree,1-2 times a week,Never,1-2 times a week,60-120 minutes a day,30-60 minutes a day,2126
+Disagree,Disagree,Strongly agree,Strongly disagree,Disagree,Agree,Agree,1-2 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,15-30 minutes a day,2127
+Agree,Agree,Agree,Agree,Disagree,Strongly agree,Disagree,10+ times a week,Never,3-5 times a week,30-60 minutes a day,Over 120 minutes a day,2132
+Strongly agree,Agree,Strongly agree,Neither agree nor disagree,Disagree,Strongly agree,Agree,10+ times a week,10+ times a week,3-5 times a week,30-60 minutes a day,Over 120 minutes a day,2134
+Disagree,Disagree,Disagree,Disagree,Disagree,Agree,Agree,1-2 times a week,Never,Never,30-60 minutes a day,Less than 15 minutes a day,2140
+Agree,Agree,Agree,Disagree,Agree,Strongly agree,Agree,1-2 times a week,Never,1-2 times a week,15-30 minutes a day,15-30 minutes a day,2141
+Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,1-2 times a week,Never,Never,30-60 minutes a day,30-60 minutes a day,2142
+Agree,Agree,Neither agree nor disagree,Agree,Disagree,Agree,Disagree,1-2 times a week,3-5 times a week,1-2 times a week,30-60 minutes a day,15-30 minutes a day,2145
+Agree,Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,Agree,Agree,1-2 times a week,1-2 times a week,Never,30-60 minutes a day,30-60 minutes a day,2151
+Strongly agree,Agree,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly agree,3-5 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,Over 120 minutes a day,2153
+Neither agree nor disagree,Strongly agree,Agree,Disagree,Agree,Agree,Neither agree nor disagree,1-2 times a week,1-2 times a week,1-2 times a week,Over 120 minutes a day,15-30 minutes a day,2154
+Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Strongly disagree,Agree,Strongly agree,Strongly agree,3-5 times a week,Never,1-2 times a week,15-30 minutes a day,30-60 minutes a day,2159
+Disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Strongly agree,Agree,10+ times a week,1-2 times a week,1-2 times a week,15-30 minutes a day,60-120 minutes a day,2160
+Strongly agree,Agree,Agree,Agree,Agree,Strongly agree,Agree,3-5 times a week,3-5 times a week,1-2 times a week,15-30 minutes a day,60-120 minutes a day,2162
+Disagree,Agree,Agree,Strongly disagree,Disagree,Strongly agree,Agree,3-5 times a week,Never,1-2 times a week,30-60 minutes a day,15-30 minutes a day,2166
+Agree,Disagree,Agree,Disagree,Agree,Agree,Agree,1-2 times a week,1-2 times a week,Never,30-60 minutes a day,30-60 minutes a day,2167
+Strongly agree,Agree,Neither agree nor disagree,Agree,Agree,Agree,Neither agree nor disagree,6-10 times a week,3-5 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,2169
+Agree,Disagree,Agree,Disagree,Agree,Strongly agree,Neither agree nor disagree,6-10 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,30-60 minutes a day,2170
+Agree,Strongly agree,Agree,,Agree,Neither agree nor disagree,Agree,3-5 times a week,1-2 times a week,1-2 times a week,60-120 minutes a day,15-30 minutes a day,2173
+Disagree,Agree,Agree,Neither agree nor disagree,Agree,Agree,Agree,1-2 times a week,Never,1-2 times a week,Over 120 minutes a day,30-60 minutes a day,2174
+Strongly agree,Agree,Neither agree nor disagree,Agree,Disagree,Strongly agree,Strongly disagree,10+ times a week,1-2 times a week,1-2 times a week,Over 120 minutes a day,60-120 minutes a day,2175
+,,,,,Disagree,,,,,15-30 minutes a day,60-120 minutes a day,2176
+Disagree,Agree,Agree,Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,1-2 times a week,1-2 times a week,Never,30-60 minutes a day,Less than 15 minutes a day,2177
+Disagree,Disagree,Agree,Agree,Agree,Disagree,Agree,Never,1-2 times a week,Never,30-60 minutes a day,15-30 minutes a day,2180
+Disagree,Neither agree nor disagree,Agree,Disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,1-2 times a week,Never,1-2 times a week,15-30 minutes a day,Less than 15 minutes a day,2181
+Disagree,Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,1-2 times a week,1-2 times a week,Never,15-30 minutes a day,Less than 15 minutes a day,2185
+Agree,Agree,Agree,Agree,Disagree,Agree,Disagree,3-5 times a week,1-2 times a week,1-2 times a week,30-60 minutes a day,30-60 minutes a day,2187
+Neither agree nor disagree,Neither agree nor disagree,Agree,Disagree,Agree,Agree,Strongly agree,10+ times a week,Never,10+ times a week,15-30 minutes a day,15-30 minutes a day,2189

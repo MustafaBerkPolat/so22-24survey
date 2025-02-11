@@ -1,0 +1,1516 @@
+ResponseId,OpSysProfessional use
+1,MacOS
+2,Windows
+3,Windows
+4,Windows
+5,Linux-based
+5,MacOS
+6,MacOS
+7,Linux-based
+7,MacOS
+8,Windows
+9,Windows
+10,Windows
+10,Windows Subsystem for Linux (WSL)
+11,Linux-based
+11,MacOS
+11,Windows
+12,MacOS
+13,MacOS
+14,MacOS
+15,Windows
+16,Windows
+17,MacOS
+18,Windows
+19,Linux-based
+19,Windows
+20,Linux-based
+20,MacOS
+21,Windows
+21,Windows Subsystem for Linux (WSL)
+22,Windows
+23,MacOS
+23,Windows
+24,Windows
+25,MacOS
+26,MacOS
+27,Windows
+28,Windows
+29,Windows
+29,Windows Subsystem for Linux (WSL)
+31,Windows
+33,Linux-based
+34,Linux-based
+35,Linux-based
+35,MacOS
+35,Windows
+37,MacOS
+38,Linux-based
+39,Linux-based
+41,Linux-based
+42,Linux-based
+42,Windows
+43,Linux-based
+44,Windows
+46,Linux-based
+47,MacOS
+48,Windows
+48,Windows Subsystem for Linux (WSL)
+49,Linux-based
+50,Linux-based
+51,MacOS
+52,MacOS
+53,Windows
+54,Linux-based
+54,MacOS
+55,Windows
+56,Linux-based
+56,Windows
+56,Windows Subsystem for Linux (WSL)
+57,Linux-based
+57,Windows
+57,Windows Subsystem for Linux (WSL)
+58,MacOS
+59,Linux-based
+59,Windows
+59,Windows Subsystem for Linux (WSL)
+60,Linux-based
+61,Linux-based
+62,Linux-based
+63,MacOS
+64,Windows
+64,Windows Subsystem for Linux (WSL)
+65,Windows
+66,Windows
+67,Linux-based
+67,MacOS
+67,Windows
+68,Linux-based
+68,Windows
+68,Windows Subsystem for Linux (WSL)
+69,Linux-based
+71,Linux-based
+71,Windows
+72,Linux-based
+72,MacOS
+73,Linux-based
+73,Windows
+74,Windows
+75,MacOS
+76,Windows
+76,Windows Subsystem for Linux (WSL)
+77,MacOS
+78,MacOS
+79,Linux-based
+80,Windows
+81,Windows
+82,Linux-based
+83,MacOS
+84,Windows
+85,Linux-based
+85,Windows
+87,Windows
+88,MacOS
+89,Windows
+90,Windows
+91,Windows
+92,Linux-based
+93,MacOS
+94,Linux-based
+95,Linux-based
+95,Windows
+96,Linux-based
+97,Linux-based
+97,Windows
+98,MacOS
+98,Windows
+99,Linux-based
+100,Linux-based
+101,MacOS
+102,Windows
+103,MacOS
+103,Windows
+104,Windows
+105,Linux-based
+105,MacOS
+107,Windows
+108,Windows
+109,Linux-based
+109,Windows
+109,Windows Subsystem for Linux (WSL)
+110,Linux-based
+111,Windows
+112,Windows
+112,Windows Subsystem for Linux (WSL)
+113,Windows
+114,Windows
+114,Windows Subsystem for Linux (WSL)
+115,Windows
+116,Linux-based
+117,Linux-based
+117,Windows
+118,Windows
+119,Windows
+119,Windows Subsystem for Linux (WSL)
+120,Linux-based
+121,MacOS
+122,Windows
+122,Windows Subsystem for Linux (WSL)
+123,Linux-based
+123,Windows
+124,MacOS
+125,Windows
+125,Windows Subsystem for Linux (WSL)
+126,Linux-based
+126,Windows
+127,Linux-based
+127,Windows
+127,Windows Subsystem for Linux (WSL)
+128,Windows
+129,Linux-based
+130,Linux-based
+131,Linux-based
+132,Windows
+133,Linux-based
+133,MacOS
+134,Windows
+134,Windows Subsystem for Linux (WSL)
+135,MacOS
+136,Linux-based
+136,Windows
+137,Linux-based
+138,MacOS
+139,Linux-based
+139,MacOS
+140,Windows
+141,Windows
+142,Linux-based
+143,Linux-based
+143,MacOS
+144,Windows
+145,MacOS
+147,Linux-based
+147,MacOS
+148,MacOS
+149,Windows
+150,Windows
+150,Windows Subsystem for Linux (WSL)
+151,Linux-based
+151,Windows
+152,Linux-based
+152,MacOS
+152,Windows
+153,Linux-based
+153,MacOS
+153,Windows
+154,Linux-based
+154,MacOS
+155,MacOS
+156,Linux-based
+156,Windows
+156,Windows Subsystem for Linux (WSL)
+157,MacOS
+158,Linux-based
+159,Windows
+159,Windows Subsystem for Linux (WSL)
+160,Windows
+161,Linux-based
+162,MacOS
+163,Linux-based
+164,MacOS
+165,MacOS
+166,Linux-based
+167,Windows
+167,Windows Subsystem for Linux (WSL)
+168,MacOS
+169,Windows
+170,MacOS
+171,Linux-based
+171,Windows
+171,Windows Subsystem for Linux (WSL)
+172,MacOS
+173,Linux-based
+174,Linux-based
+174,Windows
+175,Windows
+177,Linux-based
+177,MacOS
+177,Windows
+178,Linux-based
+178,Windows
+178,Windows Subsystem for Linux (WSL)
+179,Linux-based
+179,Windows
+179,Windows Subsystem for Linux (WSL)
+180,Windows
+181,Linux-based
+182,MacOS
+183,Linux-based
+183,MacOS
+184,Linux-based
+184,MacOS
+185,MacOS
+186,Linux-based
+187,Windows
+188,MacOS
+189,MacOS
+191,Windows
+192,Linux-based
+193,MacOS
+194,Linux-based
+194,MacOS
+195,Linux-based
+195,MacOS
+196,MacOS
+197,MacOS
+199,Linux-based
+199,MacOS
+200,Windows
+201,MacOS
+201,Windows
+202,Linux-based
+202,Windows
+202,Windows Subsystem for Linux (WSL)
+203,Linux-based
+204,Linux-based
+205,Windows
+206,Linux-based
+206,MacOS
+206,Windows
+206,Windows Subsystem for Linux (WSL)
+207,Windows
+208,Linux-based
+209,MacOS
+209,Windows
+210,Windows
+211,Windows
+212,MacOS
+213,Linux-based
+213,MacOS
+214,Linux-based
+214,Windows
+214,Windows Subsystem for Linux (WSL)
+215,Windows
+216,Windows
+217,MacOS
+218,Windows
+218,Windows Subsystem for Linux (WSL)
+219,Linux-based
+219,MacOS
+220,Linux-based
+220,Windows
+221,MacOS
+222,Windows
+223,Linux-based
+224,Windows
+224,Windows Subsystem for Linux (WSL)
+225,Windows
+226,Linux-based
+226,Windows
+226,Windows Subsystem for Linux (WSL)
+228,Windows
+228,Windows Subsystem for Linux (WSL)
+229,Linux-based
+231,Linux-based
+232,Windows
+233,Windows
+233,Windows Subsystem for Linux (WSL)
+234,MacOS
+235,Linux-based
+235,MacOS
+236,Windows
+237,MacOS
+237,Windows
+238,Windows
+239,Linux-based
+239,MacOS
+240,Windows
+241,Linux-based
+241,Windows
+241,Windows Subsystem for Linux (WSL)
+242,Windows
+243,Linux-based
+243,Windows
+244,Windows
+245,Linux-based
+246,Linux-based
+246,MacOS
+247,Windows
+248,Linux-based
+249,Windows
+249,Windows Subsystem for Linux (WSL)
+250,Windows
+251,Linux-based
+253,Windows
+254,Linux-based
+255,Other (Please Specify):
+256,MacOS
+257,BSD
+257,Linux-based
+257,Windows
+257,Windows Subsystem for Linux (WSL)
+258,Linux-based
+259,MacOS
+260,Windows
+260,Windows Subsystem for Linux (WSL)
+261,Windows
+262,Linux-based
+263,Linux-based
+264,MacOS
+265,Linux-based
+266,Linux-based
+266,Windows
+266,Windows Subsystem for Linux (WSL)
+267,Linux-based
+268,Windows
+269,Linux-based
+269,Windows
+269,Windows Subsystem for Linux (WSL)
+270,Linux-based
+270,Windows
+270,Windows Subsystem for Linux (WSL)
+271,MacOS
+272,Linux-based
+272,MacOS
+272,Windows
+272,Windows Subsystem for Linux (WSL)
+273,Linux-based
+273,Windows
+274,Linux-based
+274,MacOS
+275,Linux-based
+275,Windows
+276,MacOS
+277,Windows
+278,Windows
+279,MacOS
+280,Windows
+281,Linux-based
+281,Windows
+281,Windows Subsystem for Linux (WSL)
+282,Linux-based
+283,MacOS
+284,Linux-based
+284,Windows
+284,Windows Subsystem for Linux (WSL)
+285,Windows
+285,Windows Subsystem for Linux (WSL)
+286,Windows
+287,MacOS
+288,Linux-based
+288,MacOS
+289,Linux-based
+290,Windows
+291,Linux-based
+292,Linux-based
+293,Linux-based
+293,Windows
+293,Windows Subsystem for Linux (WSL)
+294,Windows
+295,Linux-based
+296,Linux-based
+297,Linux-based
+298,Linux-based
+298,MacOS
+298,Windows
+299,Windows
+299,Windows Subsystem for Linux (WSL)
+300,Linux-based
+301,Linux-based
+301,MacOS
+302,MacOS
+303,MacOS
+304,Windows
+305,Linux-based
+305,MacOS
+307,Linux-based
+307,MacOS
+308,Linux-based
+308,MacOS
+309,Windows
+310,MacOS
+311,Windows
+311,Windows Subsystem for Linux (WSL)
+312,MacOS
+313,Windows
+315,MacOS
+316,Linux-based
+316,MacOS
+317,Windows
+318,MacOS
+319,MacOS
+319,Windows
+320,MacOS
+321,Windows
+322,MacOS
+323,Windows
+324,MacOS
+325,MacOS
+326,Linux-based
+327,Linux-based
+328,MacOS
+328,Windows
+329,Linux-based
+329,Windows
+329,Windows Subsystem for Linux (WSL)
+330,Windows
+331,MacOS
+332,Linux-based
+333,MacOS
+334,Linux-based
+336,Linux-based
+337,Windows
+337,Windows Subsystem for Linux (WSL)
+338,Linux-based
+338,MacOS
+338,Windows
+339,MacOS
+340,Windows
+341,Linux-based
+341,Windows
+342,Windows
+342,Windows Subsystem for Linux (WSL)
+343,MacOS
+343,Other (Please Specify):
+344,MacOS
+345,MacOS
+346,MacOS
+347,Windows
+348,MacOS
+349,Linux-based
+349,MacOS
+351,Linux-based
+352,MacOS
+352,Windows
+353,Linux-based
+354,Windows
+356,MacOS
+357,Linux-based
+357,MacOS
+358,MacOS
+359,Linux-based
+359,Windows
+359,Windows Subsystem for Linux (WSL)
+360,Linux-based
+360,Windows
+360,Windows Subsystem for Linux (WSL)
+361,Linux-based
+362,Linux-based
+363,Linux-based
+363,Windows
+363,Windows Subsystem for Linux (WSL)
+364,Linux-based
+364,MacOS
+364,Windows
+364,Windows Subsystem for Linux (WSL)
+365,Linux-based
+365,Windows
+365,Windows Subsystem for Linux (WSL)
+366,MacOS
+367,Linux-based
+367,MacOS
+367,Windows
+368,Linux-based
+368,Windows
+368,Windows Subsystem for Linux (WSL)
+369,Linux-based
+369,Windows
+370,Linux-based
+371,Windows
+372,Linux-based
+373,Windows
+373,Windows Subsystem for Linux (WSL)
+374,MacOS
+375,MacOS
+376,Windows
+377,Linux-based
+378,Linux-based
+379,Linux-based
+380,Windows
+380,Windows Subsystem for Linux (WSL)
+381,MacOS
+381,Windows
+381,Windows Subsystem for Linux (WSL)
+382,Linux-based
+383,Linux-based
+384,MacOS
+384,Windows
+385,Linux-based
+385,Windows
+385,Windows Subsystem for Linux (WSL)
+386,Windows
+387,Windows
+388,Linux-based
+389,Linux-based
+389,Windows
+390,Linux-based
+391,MacOS
+391,Windows
+391,Windows Subsystem for Linux (WSL)
+392,Linux-based
+393,Windows
+394,Linux-based
+395,Linux-based
+396,MacOS
+396,Windows
+397,Windows
+398,Windows
+398,Windows Subsystem for Linux (WSL)
+399,Linux-based
+399,MacOS
+400,Windows
+401,Windows
+401,Windows Subsystem for Linux (WSL)
+402,MacOS
+402,Windows
+402,Windows Subsystem for Linux (WSL)
+403,MacOS
+404,Linux-based
+404,Windows
+404,Windows Subsystem for Linux (WSL)
+405,MacOS
+406,MacOS
+407,Windows
+408,Linux-based
+408,Windows
+408,Windows Subsystem for Linux (WSL)
+409,Windows
+410,Linux-based
+411,Linux-based
+412,Linux-based
+413,MacOS
+414,Linux-based
+415,Linux-based
+415,Windows
+415,Windows Subsystem for Linux (WSL)
+416,Linux-based
+417,Linux-based
+417,MacOS
+418,Linux-based
+419,MacOS
+419,Windows
+420,Linux-based
+421,MacOS
+422,Linux-based
+422,MacOS
+423,MacOS
+424,Linux-based
+424,MacOS
+424,Windows
+424,Windows Subsystem for Linux (WSL)
+425,Windows
+425,Windows Subsystem for Linux (WSL)
+426,MacOS
+427,Linux-based
+427,Windows
+427,Windows Subsystem for Linux (WSL)
+428,Linux-based
+428,Windows
+428,Windows Subsystem for Linux (WSL)
+429,Linux-based
+430,Linux-based
+430,MacOS
+431,MacOS
+431,Windows
+432,Windows
+433,Windows
+434,Windows
+435,Windows
+436,Windows
+437,Linux-based
+438,MacOS
+439,MacOS
+440,Windows
+440,Windows Subsystem for Linux (WSL)
+441,Linux-based
+442,Linux-based
+442,Windows
+442,Windows Subsystem for Linux (WSL)
+443,Linux-based
+444,Linux-based
+445,Windows
+446,Linux-based
+446,Windows
+447,MacOS
+448,Linux-based
+448,Windows
+448,Windows Subsystem for Linux (WSL)
+449,Linux-based
+450,Linux-based
+451,Linux-based
+453,Linux-based
+453,MacOS
+453,Windows
+453,Windows Subsystem for Linux (WSL)
+454,MacOS
+455,Linux-based
+455,MacOS
+457,Linux-based
+458,Linux-based
+459,Linux-based
+460,MacOS
+461,Linux-based
+461,MacOS
+462,Linux-based
+462,MacOS
+464,Windows
+464,Windows Subsystem for Linux (WSL)
+465,Linux-based
+466,Windows
+466,Windows Subsystem for Linux (WSL)
+467,MacOS
+468,MacOS
+469,Linux-based
+469,MacOS
+470,Linux-based
+470,Windows
+471,Linux-based
+472,MacOS
+473,Linux-based
+473,Windows
+474,MacOS
+474,Windows
+475,Linux-based
+475,MacOS
+476,MacOS
+477,Linux-based
+478,Linux-based
+478,MacOS
+478,Windows
+478,Windows Subsystem for Linux (WSL)
+479,Windows
+480,Windows
+481,Linux-based
+481,Windows
+482,Windows
+483,Linux-based
+484,Linux-based
+484,MacOS
+485,Linux-based
+485,Windows
+486,Windows
+486,Windows Subsystem for Linux (WSL)
+487,Linux-based
+488,MacOS
+489,Linux-based
+490,MacOS
+491,Linux-based
+491,Windows
+492,Linux-based
+492,MacOS
+493,MacOS
+494,Windows
+495,Other (Please Specify):
+495,Windows
+496,MacOS
+496,Windows
+497,MacOS
+498,MacOS
+499,MacOS
+500,Windows
+501,Windows
+502,Linux-based
+503,Linux-based
+505,BSD
+505,Linux-based
+505,Windows
+505,Windows Subsystem for Linux (WSL)
+506,MacOS
+507,Linux-based
+508,Linux-based
+508,MacOS
+508,Windows
+509,Windows
+510,Linux-based
+510,Windows
+510,Windows Subsystem for Linux (WSL)
+511,Linux-based
+511,Windows
+512,Linux-based
+512,MacOS
+513,Linux-based
+513,Windows
+514,Linux-based
+514,MacOS
+514,Windows
+515,Linux-based
+517,Windows
+518,Linux-based
+518,MacOS
+519,MacOS
+520,Windows
+520,Windows Subsystem for Linux (WSL)
+521,Windows
+522,MacOS
+523,MacOS
+524,MacOS
+525,BSD
+525,Linux-based
+525,MacOS
+525,Windows
+526,Windows
+526,Windows Subsystem for Linux (WSL)
+527,Linux-based
+527,MacOS
+528,MacOS
+529,Linux-based
+530,Windows
+531,Windows
+533,Linux-based
+534,Windows
+535,Windows
+536,Linux-based
+536,Windows
+537,Linux-based
+538,Linux-based
+538,MacOS
+539,MacOS
+540,Linux-based
+540,Windows
+540,Windows Subsystem for Linux (WSL)
+541,Linux-based
+541,MacOS
+543,Linux-based
+544,Windows
+545,Linux-based
+545,Windows
+545,Windows Subsystem for Linux (WSL)
+546,Linux-based
+546,Windows
+547,Windows
+549,Windows
+550,Linux-based
+550,Windows
+551,Windows
+551,Windows Subsystem for Linux (WSL)
+552,Linux-based
+552,MacOS
+553,Windows
+553,Windows Subsystem for Linux (WSL)
+554,MacOS
+555,Linux-based
+556,Linux-based
+556,Windows
+557,Linux-based
+557,MacOS
+557,Windows
+558,Windows
+558,Windows Subsystem for Linux (WSL)
+559,Linux-based
+559,Windows
+560,Linux-based
+560,MacOS
+560,Windows
+561,Windows
+561,Windows Subsystem for Linux (WSL)
+562,Linux-based
+562,Windows
+563,Linux-based
+563,MacOS
+564,Linux-based
+564,MacOS
+565,MacOS
+566,Linux-based
+566,Windows
+567,Linux-based
+567,Windows
+568,Windows
+568,Windows Subsystem for Linux (WSL)
+569,Linux-based
+570,Linux-based
+570,MacOS
+571,Linux-based
+571,Windows
+572,Linux-based
+573,MacOS
+573,Windows
+573,Windows Subsystem for Linux (WSL)
+574,Linux-based
+575,Linux-based
+576,Windows
+576,Windows Subsystem for Linux (WSL)
+577,Linux-based
+578,Linux-based
+579,Linux-based
+579,MacOS
+579,Windows
+580,Linux-based
+580,MacOS
+581,Linux-based
+581,Windows
+582,Windows
+583,MacOS
+584,MacOS
+585,Linux-based
+586,Linux-based
+587,Linux-based
+587,MacOS
+587,Windows
+588,MacOS
+589,Windows
+590,Windows
+591,MacOS
+592,Linux-based
+594,Windows
+594,Windows Subsystem for Linux (WSL)
+595,Linux-based
+595,MacOS
+595,Windows
+596,MacOS
+598,Windows
+599,Linux-based
+599,MacOS
+599,Windows
+600,Windows
+602,Linux-based
+603,Linux-based
+604,Linux-based
+604,Windows
+605,MacOS
+606,MacOS
+607,Windows
+607,Windows Subsystem for Linux (WSL)
+608,MacOS
+609,Windows
+610,MacOS
+611,Linux-based
+612,Linux-based
+613,Windows
+614,Linux-based
+615,MacOS
+616,MacOS
+617,Windows
+618,Windows
+619,MacOS
+620,Linux-based
+621,Windows
+622,MacOS
+622,Windows
+622,Windows Subsystem for Linux (WSL)
+623,Windows
+624,Linux-based
+624,MacOS
+625,MacOS
+628,MacOS
+629,MacOS
+630,Linux-based
+631,Windows
+632,MacOS
+633,MacOS
+634,Windows
+635,Linux-based
+636,Linux-based
+637,Windows
+637,Windows Subsystem for Linux (WSL)
+638,Linux-based
+638,Windows
+638,Windows Subsystem for Linux (WSL)
+639,Windows
+640,Windows
+641,Linux-based
+641,MacOS
+642,MacOS
+643,Linux-based
+643,Windows
+644,Windows
+645,Windows
+646,Linux-based
+647,Windows
+648,Linux-based
+650,Linux-based
+650,MacOS
+651,Linux-based
+651,Windows
+652,MacOS
+653,BSD
+653,Linux-based
+654,MacOS
+655,MacOS
+657,Linux-based
+657,MacOS
+658,MacOS
+659,MacOS
+659,Windows
+659,Windows Subsystem for Linux (WSL)
+660,MacOS
+661,Linux-based
+661,Windows
+662,Windows
+662,Windows Subsystem for Linux (WSL)
+663,Windows
+665,MacOS
+665,Windows
+666,Windows
+666,Windows Subsystem for Linux (WSL)
+667,Windows
+669,Linux-based
+669,Windows
+671,Windows
+672,MacOS
+673,Windows
+675,Linux-based
+675,MacOS
+676,Windows
+677,Linux-based
+678,Windows
+679,MacOS
+680,Linux-based
+681,Linux-based
+682,MacOS
+683,Linux-based
+684,Linux-based
+685,Windows
+685,Windows Subsystem for Linux (WSL)
+686,Windows
+687,Linux-based
+688,Linux-based
+689,Linux-based
+689,MacOS
+689,Windows
+690,Linux-based
+691,Windows
+691,Windows Subsystem for Linux (WSL)
+693,MacOS
+694,Windows
+695,MacOS
+696,Linux-based
+696,MacOS
+698,Windows
+699,MacOS
+700,Linux-based
+701,Linux-based
+701,Windows
+702,MacOS
+704,MacOS
+706,MacOS
+707,Windows
+708,Linux-based
+708,MacOS
+709,Linux-based
+709,Windows
+711,MacOS
+712,MacOS
+713,Windows
+713,Windows Subsystem for Linux (WSL)
+714,Windows
+715,Linux-based
+715,Windows
+715,Windows Subsystem for Linux (WSL)
+716,Linux-based
+717,Linux-based
+717,MacOS
+719,Windows
+720,Windows
+721,BSD
+721,Linux-based
+721,Other (Please Specify):
+721,Windows
+722,MacOS
+723,MacOS
+724,Linux-based
+724,MacOS
+725,Linux-based
+725,Windows
+726,Linux-based
+726,MacOS
+727,Linux-based
+727,MacOS
+728,Windows
+729,MacOS
+730,MacOS
+732,Linux-based
+732,Windows
+733,Linux-based
+733,Windows
+733,Windows Subsystem for Linux (WSL)
+734,MacOS
+735,MacOS
+736,MacOS
+737,Linux-based
+737,MacOS
+737,Windows
+737,Windows Subsystem for Linux (WSL)
+738,Windows
+739,Windows
+740,Windows
+741,Linux-based
+741,Windows
+741,Windows Subsystem for Linux (WSL)
+742,Linux-based
+743,Windows
+743,Windows Subsystem for Linux (WSL)
+744,Linux-based
+745,Linux-based
+746,MacOS
+747,Windows
+749,Linux-based
+749,Windows
+749,Windows Subsystem for Linux (WSL)
+751,Linux-based
+751,MacOS
+752,Linux-based
+752,Windows
+752,Windows Subsystem for Linux (WSL)
+753,Linux-based
+754,Linux-based
+755,Linux-based
+756,Linux-based
+758,Linux-based
+758,Windows
+759,Linux-based
+760,Windows
+761,MacOS
+762,Linux-based
+762,Windows
+763,Linux-based
+764,Linux-based
+764,Windows
+764,Windows Subsystem for Linux (WSL)
+765,Linux-based
+765,MacOS
+766,BSD
+766,Linux-based
+766,MacOS
+766,Windows
+767,MacOS
+768,Linux-based
+769,MacOS
+769,Windows
+769,Windows Subsystem for Linux (WSL)
+770,Linux-based
+771,Linux-based
+772,MacOS
+773,MacOS
+774,Linux-based
+774,MacOS
+775,MacOS
+776,Linux-based
+777,Windows
+777,Windows Subsystem for Linux (WSL)
+778,Linux-based
+779,Linux-based
+780,MacOS
+781,Linux-based
+782,Linux-based
+782,MacOS
+783,Linux-based
+784,Linux-based
+784,MacOS
+784,Windows
+784,Windows Subsystem for Linux (WSL)
+785,Windows
+786,Linux-based
+787,MacOS
+788,Linux-based
+788,MacOS
+789,Windows
+790,MacOS
+791,Linux-based
+791,Windows
+792,Linux-based
+792,Windows
+795,MacOS
+796,Linux-based
+796,MacOS
+797,MacOS
+798,Windows
+799,MacOS
+800,Linux-based
+800,Windows
+800,Windows Subsystem for Linux (WSL)
+801,Linux-based
+803,Linux-based
+804,Linux-based
+805,MacOS
+806,MacOS
+806,Windows
+806,Windows Subsystem for Linux (WSL)
+807,MacOS
+808,MacOS
+809,MacOS
+810,Linux-based
+810,Windows
+810,Windows Subsystem for Linux (WSL)
+811,Windows
+814,Linux-based
+814,MacOS
+814,Windows
+814,Windows Subsystem for Linux (WSL)
+815,MacOS
+816,Linux-based
+816,MacOS
+816,Windows
+817,Linux-based
+817,Windows
+818,Linux-based
+819,Windows
+819,Windows Subsystem for Linux (WSL)
+820,Linux-based
+820,MacOS
+821,Windows
+822,Linux-based
+823,Linux-based
+823,Windows
+823,Windows Subsystem for Linux (WSL)
+825,Windows
+825,Windows Subsystem for Linux (WSL)
+826,Linux-based
+827,Linux-based
+827,Windows
+827,Windows Subsystem for Linux (WSL)
+828,Linux-based
+829,Linux-based
+829,MacOS
+829,Windows
+829,Windows Subsystem for Linux (WSL)
+830,Linux-based
+831,Windows
+832,Linux-based
+832,MacOS
+832,Windows
+833,Linux-based
+833,Windows
+833,Windows Subsystem for Linux (WSL)
+834,MacOS
+835,BSD
+835,Linux-based
+835,Windows
+835,Windows Subsystem for Linux (WSL)
+837,Linux-based
+837,Windows
+837,Windows Subsystem for Linux (WSL)
+838,Linux-based
+839,Linux-based
+839,MacOS
+839,Windows
+840,Linux-based
+841,Linux-based
+842,MacOS
+843,MacOS
+843,Windows
+843,Windows Subsystem for Linux (WSL)
+844,Linux-based
+844,MacOS
+844,Windows
+844,Windows Subsystem for Linux (WSL)
+845,Windows
+845,Windows Subsystem for Linux (WSL)
+846,Windows
+849,Linux-based
+849,MacOS
+851,Windows
+852,Linux-based
+852,Windows
+852,Windows Subsystem for Linux (WSL)
+853,Windows
+854,Windows
+855,Linux-based
+855,Windows
+856,Windows
+857,MacOS
+858,Linux-based
+858,MacOS
+859,Linux-based
+860,Linux-based
+860,MacOS
+862,MacOS
+864,MacOS
+865,MacOS
+866,Linux-based
+866,Windows
+866,Windows Subsystem for Linux (WSL)
+867,Linux-based
+868,MacOS
+869,Windows
+870,Windows
+871,Linux-based
+871,Windows
+871,Windows Subsystem for Linux (WSL)
+873,Linux-based
+874,Linux-based
+874,MacOS
+874,Windows
+875,Windows
+877,Linux-based
+877,Windows
+877,Windows Subsystem for Linux (WSL)
+878,MacOS
+879,Windows
+879,Windows Subsystem for Linux (WSL)
+881,Linux-based
+882,MacOS
+883,MacOS
+884,Linux-based
+884,MacOS
+885,Windows
+886,Windows
+887,Linux-based
+888,Linux-based
+889,Windows
+890,Linux-based
+890,Windows
+891,MacOS
+892,Windows
+893,MacOS
+894,Linux-based
+894,Windows
+894,Windows Subsystem for Linux (WSL)
+895,Linux-based
+895,MacOS
+896,Linux-based
+897,MacOS
+897,Windows
+898,Windows
+898,Windows Subsystem for Linux (WSL)
+899,Windows
+900,Linux-based
+902,MacOS
+903,Linux-based
+903,Windows
+904,Windows
+905,Linux-based
+905,MacOS
+907,Linux-based
+908,Windows
+910,Linux-based
+911,MacOS
+911,Windows
+912,Linux-based
+913,MacOS
+914,Windows
+915,Linux-based
+915,MacOS
+916,Linux-based
+917,Linux-based
+917,Windows
+917,Windows Subsystem for Linux (WSL)
+918,Windows
+919,Linux-based
+920,Windows
+921,Linux-based
+922,Windows
+922,Windows Subsystem for Linux (WSL)
+923,Linux-based
+924,Linux-based
+924,Windows
+924,Windows Subsystem for Linux (WSL)
+926,Linux-based
+927,Linux-based
+928,MacOS
+929,Linux-based
+929,Windows
+930,Windows
+930,Windows Subsystem for Linux (WSL)
+931,Linux-based
+932,Windows
+932,Windows Subsystem for Linux (WSL)
+933,Linux-based
+935,MacOS
+935,Windows
+935,Windows Subsystem for Linux (WSL)
+936,Windows
+937,Windows
+938,Windows
+938,Windows Subsystem for Linux (WSL)
+939,MacOS
+940,MacOS
+941,Linux-based
+942,Windows
+943,Linux-based
+943,MacOS
+943,Windows
+943,Windows Subsystem for Linux (WSL)
+944,Linux-based
+944,MacOS
+945,Windows
+946,Windows
+947,MacOS
+948,Windows
+948,Windows Subsystem for Linux (WSL)
+949,MacOS
+950,Linux-based
+950,MacOS
+951,MacOS
+952,Windows
+952,Windows Subsystem for Linux (WSL)
+953,Windows
+953,Windows Subsystem for Linux (WSL)
+954,Windows
+955,Linux-based
+956,Linux-based
+957,Windows
+958,Windows
+959,Linux-based
+959,MacOS
+960,Linux-based
+961,MacOS
+962,MacOS
+963,MacOS
+964,Linux-based
+964,Windows
+964,Windows Subsystem for Linux (WSL)
+965,Linux-based
+965,Windows
+966,Windows
+967,MacOS
+968,Linux-based
+968,MacOS
+968,Windows
+969,MacOS
+970,Windows
+971,Linux-based
+972,Windows
+973,Windows
+974,Linux-based
+974,MacOS
+975,Linux-based
+975,Windows
+976,Windows
+976,Windows Subsystem for Linux (WSL)
+977,Windows
+977,Windows Subsystem for Linux (WSL)
+978,Linux-based
+978,Windows
+979,Linux-based
+979,MacOS
+980,MacOS
+981,Linux-based
+982,Linux-based
+982,MacOS
+982,Windows
+982,Windows Subsystem for Linux (WSL)
+983,Windows
+984,Windows
+984,Windows Subsystem for Linux (WSL)
+985,Linux-based
+985,MacOS
+985,Windows
+987,MacOS
+988,Linux-based
+989,Linux-based
+990,Windows
+991,MacOS
+992,Linux-based
+993,Windows
+993,Windows Subsystem for Linux (WSL)
+994,Linux-based
+995,Windows
+996,Windows
+996,Windows Subsystem for Linux (WSL)
+997,Windows
+998,MacOS
+1000,Windows
+1001,Linux-based
+1001,Windows
+1001,Windows Subsystem for Linux (WSL)
+1002,Linux-based
+1002,MacOS
+1002,Windows
+1002,Windows Subsystem for Linux (WSL)
+1003,MacOS
+1003,Windows
+1004,Linux-based
+1005,Windows
+1005,Windows Subsystem for Linux (WSL)
+1006,Linux-based
+1007,Linux-based
+1007,MacOS
+1008,Linux-based
+1008,MacOS
+1009,Linux-based
+1009,MacOS
+1010,Windows
+1012,Linux-based
+1013,Linux-based
+1013,Windows
+1013,Windows Subsystem for Linux (WSL)
+1014,MacOS
+1015,Windows
+1015,Windows Subsystem for Linux (WSL)
+1016,Windows
+1017,Linux-based
+1019,Linux-based
+1019,MacOS
+1020,Linux-based
+1021,MacOS
+1022,Linux-based
+1022,MacOS
+1023,Linux-based
+1023,Windows
+1024,Linux-based
+1024,MacOS
+1025,Linux-based
+1026,Linux-based
+1026,MacOS
+1027,Linux-based
+1027,MacOS
+1027,Windows
+1028,MacOS
+1029,Linux-based
+1030,Linux-based
+1030,MacOS
+1031,Windows
+1031,Windows Subsystem for Linux (WSL)
+1032,Linux-based
+1033,Linux-based
+1033,Windows
+1033,Windows Subsystem for Linux (WSL)
+1034,MacOS
+1034,Windows
+1036,Windows
+1037,Linux-based
+1038,Windows
+1038,Windows Subsystem for Linux (WSL)
+1039,Linux-based
+1039,MacOS
+1040,Linux-based
+1040,MacOS
+1041,Windows
+1042,Windows
+1043,MacOS
+1044,MacOS
+1045,Linux-based
+1046,MacOS
+1047,Windows
+1048,Linux-based
+1049,Linux-based
+1049,Windows
+1049,Windows Subsystem for Linux (WSL)
+1050,Linux-based
+1050,MacOS
+1051,Linux-based
+1051,MacOS
+1052,Linux-based
+1052,Windows
+1052,Windows Subsystem for Linux (WSL)
+1053,Windows
+1054,Linux-based
+1055,Windows
+1056,Linux-based
+1057,Linux-based
+1057,MacOS
+1057,Windows
+1057,Windows Subsystem for Linux (WSL)
+1058,Linux-based
+1058,MacOS
+1059,MacOS
+1060,Linux-based
+1062,MacOS
+1063,MacOS
+1063,Windows
+1065,Windows
+1065,Windows Subsystem for Linux (WSL)
+1066,Linux-based
+1067,MacOS
+1068,Linux-based
+1069,Linux-based
+1070,Linux-based
+1070,MacOS
+1073,Linux-based
+1073,MacOS
+1074,Linux-based
+1075,Windows
+1075,Windows Subsystem for Linux (WSL)
+1076,Windows
+1078,Windows
+1079,Linux-based

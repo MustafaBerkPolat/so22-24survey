@@ -1,0 +1,2 @@
+The processed dataframes total about 800 megabytes, which exceeds the maximum file size github allows to share even when heavily compressed
+Instead, examples of the dataframe formatting are provided here, with only the first 1000 rows per dataframe

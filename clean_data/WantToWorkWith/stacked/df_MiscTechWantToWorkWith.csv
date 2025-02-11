@@ -1,0 +1,2450 @@
+ResponseId,MiscTechWantToWorkWith
+2,.NET
+3,.NET
+4,.NET
+4,Apache Kafka
+11,Hugging Face Transformers
+11,Keras
+11,NumPy
+11,Pandas
+11,Scikit-Learn
+11,TensorFlow
+11,Torch/PyTorch
+12,Torch/PyTorch
+14,Pandas
+16,Electron
+18,.NET
+19,Keras
+19,NumPy
+19,Pandas
+19,Scikit-Learn
+19,TensorFlow
+21,NumPy
+21,Pandas
+22,.NET
+25,Apache Kafka
+25,Flutter
+31,Xamarin
+35,NumPy
+35,Scikit-Learn
+35,Torch/PyTorch
+39,Flutter
+41,Hugging Face Transformers
+41,Keras
+41,NumPy
+41,Pandas
+41,Scikit-Learn
+41,TensorFlow
+42,.NET
+42,React Native
+44,NumPy
+44,Spring
+44,TensorFlow
+44,Torch/PyTorch
+45,Flutter
+48,Flutter
+51,Apache Kafka
+51,Apache Spark
+51,Hadoop
+51,Spring
+53,Apache Spark
+53,Hadoop
+54,.NET
+54,Apache Kafka
+54,Apache Spark
+54,TensorFlow
+55,.NET
+55,NumPy
+55,Pandas
+57,.NET
+58,Apache Kafka
+58,Apache Spark
+58,Flutter
+58,Keras
+58,Spring
+59,Electron
+59,NumPy
+59,Pandas
+59,TensorFlow
+61,Flutter
+64,.NET
+64,Apache Kafka
+64,Flutter
+64,Spring
+64,Xamarin
+65,.NET
+65,React Native
+65,TensorFlow
+67,.NET
+67,React Native
+69,Apache Kafka
+69,Spring
+69,TensorFlow
+72,Apache Kafka
+72,Apache Spark
+72,Spring
+74,Flutter
+74,React Native
+75,Spring
+76,.NET
+82,Keras
+82,Scikit-Learn
+82,TensorFlow
+83,.NET
+83,Electron
+83,React Native
+83,TensorFlow
+85,Flutter
+85,Hugging Face Transformers
+85,Keras
+85,NumPy
+85,Scikit-Learn
+85,Spring
+85,TensorFlow
+85,Torch/PyTorch
+87,.NET
+87,Xamarin
+90,NumPy
+90,Pandas
+92,Keras
+92,NumPy
+92,Pandas
+92,Scikit-Learn
+92,TensorFlow
+92,Tidyverse
+92,Torch/PyTorch
+94,Apache Spark
+94,Tidyverse
+97,.NET
+99,NumPy
+99,Pandas
+99,Scikit-Learn
+102,.NET
+104,Apache Kafka
+106,Electron
+106,React Native
+106,TensorFlow
+107,.NET
+107,NumPy
+107,Pandas
+108,.NET
+109,.NET
+111,.NET
+111,Hadoop
+114,Electron
+114,Flutter
+117,.NET
+123,.NET
+123,Flutter
+124,Electron
+125,.NET
+126,Apache Spark
+126,NumPy
+126,Pandas
+128,.NET
+128,Keras
+128,NumPy
+128,Pandas
+128,TensorFlow
+128,Torch/PyTorch
+129,Qt
+132,.NET
+132,Flutter
+132,React Native
+133,Pandas
+136,Electron
+136,Torch/PyTorch
+138,Apache Kafka
+139,Apache Kafka
+139,Apache Spark
+140,React Native
+142,Hugging Face Transformers
+142,NumPy
+142,Scikit-Learn
+142,Torch/PyTorch
+147,Apache Kafka
+147,Apache Spark
+147,Spring
+149,.NET
+149,Xamarin
+150,NumPy
+151,NumPy
+151,Pandas
+151,Spring
+152,Flutter
+152,NumPy
+152,Pandas
+152,TensorFlow
+154,.NET
+154,Apache Kafka
+154,NumPy
+156,Electron
+156,TensorFlow
+160,.NET
+164,.NET
+166,Spring
+167,Hugging Face Transformers
+167,NumPy
+167,Pandas
+167,Scikit-Learn
+167,TensorFlow
+167,Torch/PyTorch
+168,Electron
+168,NumPy
+168,Pandas
+168,Scikit-Learn
+168,Tidyverse
+168,Torch/PyTorch
+173,Hugging Face Transformers
+173,TensorFlow
+173,Torch/PyTorch
+176,Flutter
+180,.NET
+181,Apache Kafka
+181,Spring
+182,.NET
+182,Apache Kafka
+182,Apache Spark
+182,Electron
+184,.NET
+184,Apache Kafka
+184,Apache Spark
+184,Electron
+184,Pandas
+184,React Native
+184,Spring
+184,Xamarin
+188,Cordova
+188,Electron
+188,Ionic
+191,Uno Platform
+191,Xamarin
+192,Apache Kafka
+193,.NET
+194,React Native
+196,Apache Spark
+196,Hadoop
+196,Hugging Face Transformers
+196,NumPy
+196,Pandas
+196,Scikit-Learn
+196,Torch/PyTorch
+200,.NET
+200,TensorFlow
+202,NumPy
+204,Qt
+205,.NET
+205,Apache Kafka
+206,Flutter
+207,.NET
+209,.NET
+209,Apache Kafka
+209,Apache Spark
+211,Spring
+212,.NET
+212,Electron
+212,Flutter
+212,Hadoop
+212,NumPy
+212,Pandas
+212,React Native
+212,Spring
+212,Xamarin
+214,Electron
+214,NumPy
+214,Pandas
+214,React Native
+214,TensorFlow
+214,Torch/PyTorch
+216,NumPy
+216,Pandas
+216,TensorFlow
+216,Torch/PyTorch
+218,.NET
+222,.NET
+225,.NET
+226,.NET
+231,Flutter
+232,.NET
+232,Apache Kafka
+232,Apache Spark
+232,NumPy
+232,Pandas
+233,.NET
+233,NumPy
+233,TensorFlow
+235,Apache Kafka
+235,Apache Spark
+235,Spring
+236,.NET
+237,Apache Spark
+237,Pandas
+240,NumPy
+240,Pandas
+241,NumPy
+241,Pandas
+242,.NET
+242,Xamarin
+244,.NET
+244,Electron
+244,Flutter
+244,NumPy
+244,Pandas
+244,React Native
+245,Hugging Face Transformers
+245,Keras
+245,NumPy
+245,Pandas
+245,Scikit-Learn
+245,TensorFlow
+245,Torch/PyTorch
+247,.NET
+247,NumPy
+247,Pandas
+247,React Native
+247,Scikit-Learn
+247,TensorFlow
+249,Apache Spark
+249,Keras
+249,NumPy
+249,Pandas
+249,Scikit-Learn
+249,TensorFlow
+249,Torch/PyTorch
+250,Flutter
+250,NumPy
+250,Qt
+252,.NET
+253,.NET
+257,Apache Kafka
+257,NumPy
+257,Pandas
+257,Scikit-Learn
+259,Apache Spark
+261,.NET
+261,Xamarin
+263,GTK
+265,Apache Kafka
+269,.NET
+273,.NET
+273,Spring
+275,Hadoop
+275,React Native
+277,NumPy
+277,Pandas
+278,.NET
+279,.NET
+279,Xamarin
+281,.NET
+281,Flutter
+285,.NET
+287,Spring
+288,Hugging Face Transformers
+288,NumPy
+288,Pandas
+288,Scikit-Learn
+288,Torch/PyTorch
+290,.NET
+290,Flutter
+290,Hadoop
+290,NumPy
+290,TensorFlow
+290,Xamarin
+291,Capacitor
+291,Cordova
+291,Flutter
+291,Ionic
+291,React Native
+294,Apache Spark
+294,NumPy
+294,Pandas
+294,Scikit-Learn
+299,.NET
+301,Flutter
+305,.NET
+305,Electron
+305,Flutter
+306,Flutter
+306,TensorFlow
+307,Xamarin
+308,NumPy
+308,Pandas
+308,Scikit-Learn
+309,.NET
+309,React Native
+309,Xamarin
+311,.NET
+311,Electron
+311,React Native
+311,TensorFlow
+315,NumPy
+315,Pandas
+315,Scikit-Learn
+315,TensorFlow
+317,.NET
+318,Flutter
+322,Apache Kafka
+324,GTK
+325,Flutter
+325,React Native
+329,.NET
+329,GTK
+329,NumPy
+329,Pandas
+329,Scikit-Learn
+329,TensorFlow
+329,Torch/PyTorch
+336,Apache Spark
+336,Hadoop
+336,Hugging Face Transformers
+336,NumPy
+336,Pandas
+336,React Native
+336,Scikit-Learn
+336,TensorFlow
+336,Torch/PyTorch
+338,Apache Kafka
+338,React Native
+340,.NET
+346,Apache Kafka
+346,Flutter
+347,Hugging Face Transformers
+347,NumPy
+347,Pandas
+347,Scikit-Learn
+348,.NET
+350,Capacitor
+350,Scikit-Learn
+350,Torch/PyTorch
+351,Qt
+354,NumPy
+354,Pandas
+354,TensorFlow
+355,.NET
+356,Flutter
+357,Spring
+358,Flutter
+360,.NET
+360,TensorFlow
+361,Flutter
+363,.NET
+364,.NET
+364,Apache Kafka
+365,.NET
+365,Uno Platform
+365,Xamarin
+366,Apache Kafka
+366,Apache Spark
+366,Pandas
+366,Torch/PyTorch
+367,NumPy
+367,Pandas
+368,.NET
+368,NumPy
+368,Pandas
+369,GTK
+369,NumPy
+369,Pandas
+369,Qt
+369,Torch/PyTorch
+371,Apache Kafka
+373,.NET
+373,Apache Kafka
+374,Apache Kafka
+377,Flutter
+377,GTK
+377,Keras
+377,NumPy
+377,Pandas
+377,Scikit-Learn
+377,TensorFlow
+377,Torch/PyTorch
+380,Electron
+383,Qt
+383,TensorFlow
+383,Torch/PyTorch
+385,Pandas
+385,Spring
+387,Spring
+389,.NET
+391,.NET
+391,Electron
+391,React Native
+393,.NET
+396,Electron
+396,Flutter
+396,NumPy
+396,Pandas
+397,.NET
+398,.NET
+399,Apache Kafka
+399,Hugging Face Transformers
+399,NumPy
+399,Pandas
+399,Scikit-Learn
+399,Torch/PyTorch
+400,NumPy
+400,Pandas
+401,.NET
+401,Apache Kafka
+402,Electron
+404,NumPy
+404,Pandas
+404,Qt
+405,Apache Kafka
+406,Flutter
+406,NumPy
+406,Pandas
+406,Torch/PyTorch
+407,.NET
+413,Ionic
+414,GTK
+414,NumPy
+415,Electron
+415,Flutter
+416,Electron
+416,Flutter
+416,GTK
+416,NumPy
+416,Pandas
+416,Qt
+416,React Native
+416,TensorFlow
+418,Torch/PyTorch
+420,GTK
+425,.NET
+426,Apache Spark
+426,NumPy
+426,Torch/PyTorch
+428,Electron
+428,Keras
+428,NumPy
+428,Pandas
+428,React Native
+428,TensorFlow
+428,Torch/PyTorch
+430,Flutter
+432,.NET
+432,Spring
+434,Spring
+436,.NET
+436,Electron
+436,Flutter
+439,.NET
+439,Flutter
+440,Apache Spark
+440,Keras
+440,NumPy
+440,TensorFlow
+442,Apache Kafka
+442,Apache Spark
+442,Flutter
+442,Pandas
+442,Torch/PyTorch
+443,NumPy
+443,Pandas
+445,Spring
+446,Apache Kafka
+446,Apache Spark
+446,Hadoop
+446,Pandas
+446,Torch/PyTorch
+448,Apache Kafka
+448,NumPy
+448,Qt
+448,Spring
+449,Apache Kafka
+449,Apache Spark
+449,Hugging Face Transformers
+449,NumPy
+449,Pandas
+449,Scikit-Learn
+449,Torch/PyTorch
+450,NumPy
+450,Torch/PyTorch
+454,Flutter
+454,React Native
+455,Flutter
+456,.NET
+456,GTK
+456,Qt
+456,Xamarin
+459,Keras
+459,NumPy
+459,Pandas
+459,Qt
+459,Scikit-Learn
+459,TensorFlow
+464,.NET
+464,Apache Kafka
+464,Apache Spark
+468,.NET
+468,React Native
+469,Flutter
+470,.NET
+470,NumPy
+470,Pandas
+470,Qt
+470,Scikit-Learn
+470,TensorFlow
+470,Torch/PyTorch
+472,Torch/PyTorch
+474,Flutter
+474,NumPy
+474,Pandas
+476,Electron
+476,NumPy
+476,React Native
+476,TensorFlow
+479,.NET
+480,NumPy
+481,Electron
+481,Flutter
+481,React Native
+481,Spring
+482,.NET
+482,NumPy
+482,Pandas
+483,NumPy
+483,Pandas
+483,Scikit-Learn
+484,Apache Spark
+484,Electron
+484,React Native
+484,Spring
+484,TensorFlow
+485,.NET
+485,Apache Kafka
+486,Qt
+487,Torch/PyTorch
+489,Flutter
+489,NumPy
+489,Pandas
+489,Qt
+489,Scikit-Learn
+493,.NET
+493,Flutter
+493,Pandas
+494,.NET
+494,Xamarin
+495,.NET
+496,Electron
+496,React Native
+496,Spring
+500,.NET
+501,NumPy
+501,Pandas
+505,Apache Kafka
+505,Apache Spark
+505,Hadoop
+505,Hugging Face Transformers
+505,Ionic
+505,Keras
+505,NumPy
+505,Pandas
+505,Scikit-Learn
+505,Spring
+505,TensorFlow
+505,Tidyverse
+505,Torch/PyTorch
+509,Pandas
+510,.NET
+510,Electron
+510,React Native
+510,TensorFlow
+510,Xamarin
+513,NumPy
+513,Scikit-Learn
+521,GTK
+522,Apache Kafka
+522,Apache Spark
+522,Spring
+526,Electron
+526,Ionic
+531,.NET
+533,NumPy
+533,Pandas
+533,Qt
+533,React Native
+533,Scikit-Learn
+533,TensorFlow
+533,Torch/PyTorch
+536,Apache Kafka
+536,Spring
+537,React Native
+538,.NET
+539,Apache Kafka
+540,Apache Kafka
+544,.NET
+549,.NET
+550,NumPy
+550,Pandas
+550,Scikit-Learn
+554,Electron
+554,Flutter
+555,Tidyverse
+558,.NET
+558,Scikit-Learn
+562,Flutter
+562,NumPy
+562,Pandas
+562,Scikit-Learn
+562,TensorFlow
+562,Torch/PyTorch
+564,Apache Kafka
+564,Spring
+565,.NET
+567,NumPy
+568,.NET
+571,Flutter
+571,NumPy
+571,Pandas
+573,Electron
+573,Hugging Face Transformers
+573,NumPy
+573,React Native
+573,Scikit-Learn
+574,Capacitor
+574,Cordova
+574,Electron
+574,GTK
+574,Qt
+576,.NET
+584,.NET
+593,Electron
+593,React Native
+593,TensorFlow
+594,.NET
+594,Apache Kafka
+595,Spring
+596,Apache Kafka
+596,Spring
+598,React Native
+602,NumPy
+602,Pandas
+602,Spring
+603,GTK
+603,NumPy
+603,Qt
+604,NumPy
+604,Pandas
+604,Scikit-Learn
+604,TensorFlow
+604,Torch/PyTorch
+608,Apache Spark
+608,Spring
+609,NumPy
+613,Apache Kafka
+613,Hugging Face Transformers
+613,Torch/PyTorch
+616,Apache Kafka
+616,Spring
+617,.NET
+617,Xamarin
+619,Apache Kafka
+620,Hadoop
+620,Qt
+620,Tidyverse
+623,.NET
+628,NumPy
+628,Pandas
+628,Scikit-Learn
+631,.NET
+631,Apache Spark
+634,.NET
+635,Keras
+635,NumPy
+635,Pandas
+635,Scikit-Learn
+635,TensorFlow
+635,Torch/PyTorch
+636,Flutter
+636,Keras
+636,NumPy
+636,Pandas
+636,Scikit-Learn
+636,Spring
+636,Torch/PyTorch
+637,.NET
+638,.NET
+640,Apache Kafka
+642,Apache Kafka
+642,Apache Spark
+642,NumPy
+642,Pandas
+642,Scikit-Learn
+649,Flutter
+650,Pandas
+651,Keras
+651,NumPy
+651,Scikit-Learn
+651,TensorFlow
+651,Torch/PyTorch
+659,NumPy
+659,Pandas
+661,NumPy
+661,Pandas
+661,Scikit-Learn
+661,TensorFlow
+663,.NET
+664,NumPy
+664,Scikit-Learn
+665,.NET
+665,Flutter
+666,.NET
+666,Electron
+666,GTK
+667,.NET
+673,Apache Kafka
+673,Hadoop
+673,Qt
+678,.NET
+681,Flutter
+681,Torch/PyTorch
+682,React Native
+684,Apache Kafka
+684,Electron
+684,Flutter
+684,NumPy
+684,Pandas
+685,.NET
+686,.NET
+688,NumPy
+688,Pandas
+691,GTK
+692,Scikit-Learn
+694,Hugging Face Transformers
+694,NumPy
+694,Pandas
+694,Torch/PyTorch
+695,Apache Kafka
+695,Flutter
+698,Capacitor
+698,Electron
+698,Ionic
+700,GTK
+704,Apache Kafka
+704,Spring
+706,.NET
+706,Apache Kafka
+706,Apache Spark
+706,NumPy
+706,Pandas
+706,React Native
+706,Spring
+706,Torch/PyTorch
+707,GTK
+708,Scikit-Learn
+708,TensorFlow
+708,Torch/PyTorch
+709,Apache Kafka
+709,Hadoop
+709,NumPy
+709,Spring
+709,TensorFlow
+709,Xamarin
+710,Qt
+711,Flutter
+711,React Native
+711,Spring
+713,.NET
+713,TensorFlow
+713,Torch/PyTorch
+715,GTK
+717,Apache Kafka
+717,Apache Spark
+717,NumPy
+717,Pandas
+717,TensorFlow
+719,.NET
+719,Qt
+720,.NET
+721,Apache Kafka
+721,Apache Spark
+723,Spring
+726,.NET
+728,.NET
+730,.NET
+730,Tidyverse
+731,Flutter
+731,Qt
+734,Spring
+737,.NET
+738,React Native
+738,Torch/PyTorch
+739,.NET
+740,.NET
+740,Flutter
+741,.NET
+741,TensorFlow
+743,Capacitor
+743,Ionic
+743,NumPy
+743,Pandas
+743,TensorFlow
+744,Flutter
+744,TensorFlow
+744,Torch/PyTorch
+747,Spring
+749,.NET
+749,Apache Kafka
+749,Spring
+751,Apache Kafka
+751,Apache Spark
+752,.NET
+756,Apache Kafka
+756,NumPy
+756,Pandas
+760,.NET
+764,Spring
+765,Apache Kafka
+765,Apache Spark
+765,Hugging Face Transformers
+765,Scikit-Learn
+765,Torch/PyTorch
+767,Apache Kafka
+767,NumPy
+767,Pandas
+768,Apache Kafka
+769,.NET
+770,NumPy
+770,Pandas
+772,Electron
+776,Cordova
+776,Electron
+777,Keras
+777,NumPy
+777,Torch/PyTorch
+780,Apache Kafka
+784,.NET
+785,.NET
+786,NumPy
+786,Torch/PyTorch
+790,.NET
+790,Apache Kafka
+790,Spring
+792,Spring
+795,Hadoop
+795,Spring
+799,NumPy
+799,Pandas
+799,Scikit-Learn
+800,Torch/PyTorch
+803,Keras
+803,NumPy
+803,Pandas
+803,Scikit-Learn
+803,TensorFlow
+803,Torch/PyTorch
+806,.NET
+806,Qt
+808,React Native
+811,.NET
+811,NumPy
+811,Pandas
+811,TensorFlow
+811,Torch/PyTorch
+814,Electron
+814,Hugging Face Transformers
+814,Torch/PyTorch
+819,Flutter
+819,GTK
+819,NumPy
+819,Pandas
+819,Scikit-Learn
+821,.NET
+822,.NET
+822,NumPy
+822,Pandas
+822,TensorFlow
+823,Electron
+823,Flutter
+824,.NET
+824,Flutter
+825,.NET
+825,Keras
+825,NumPy
+826,NumPy
+826,Pandas
+827,Apache Kafka
+829,Apache Kafka
+829,Apache Spark
+829,Qt
+829,Spring
+834,Torch/PyTorch
+835,NumPy
+835,Scikit-Learn
+835,TensorFlow
+835,Torch/PyTorch
+836,React Native
+837,.NET
+837,NumPy
+837,Pandas
+837,React Native
+837,Scikit-Learn
+837,TensorFlow
+837,Torch/PyTorch
+837,Xamarin
+838,React Native
+839,Apache Kafka
+839,NumPy
+839,Pandas
+843,.NET
+843,Uno Platform
+844,Apache Kafka
+844,Apache Spark
+844,Flutter
+844,NumPy
+844,Pandas
+844,React Native
+844,TensorFlow
+844,Torch/PyTorch
+845,.NET
+845,Uno Platform
+849,Apache Kafka
+849,Apache Spark
+850,Torch/PyTorch
+851,.NET
+851,Qt
+852,Apache Kafka
+852,Apache Spark
+852,Keras
+852,NumPy
+852,Pandas
+852,Scikit-Learn
+852,TensorFlow
+852,Torch/PyTorch
+853,NumPy
+853,Pandas
+854,.NET
+855,.NET
+857,Apache Kafka
+857,Electron
+860,Apache Kafka
+862,React Native
+866,NumPy
+870,Electron
+870,NumPy
+870,Qt
+874,Flutter
+875,.NET
+875,Electron
+875,Pandas
+877,.NET
+877,Qt
+878,Apache Kafka
+879,Apache Kafka
+879,Spring
+884,Keras
+884,TensorFlow
+884,Torch/PyTorch
+885,.NET
+885,GTK
+885,NumPy
+885,Qt
+885,React Native
+890,Qt
+891,Apache Kafka
+892,Qt
+894,NumPy
+894,Pandas
+894,TensorFlow
+894,Torch/PyTorch
+898,Apache Kafka
+899,.NET
+900,NumPy
+900,Pandas
+904,NumPy
+907,Flutter
+907,NumPy
+909,.NET
+918,GTK
+919,GTK
+919,Qt
+928,Spring
+929,Keras
+929,TensorFlow
+930,Electron
+930,React Native
+931,GTK
+931,Qt
+932,NumPy
+932,Qt
+933,Keras
+933,NumPy
+933,Pandas
+933,Scikit-Learn
+933,TensorFlow
+933,Torch/PyTorch
+936,.NET
+936,Xamarin
+938,Apache Kafka
+938,Spring
+939,Electron
+939,Flutter
+940,Electron
+940,Flutter
+940,React Native
+944,Apache Kafka
+945,.NET
+945,Flutter
+946,Qt
+946,React Native
+946,Xamarin
+948,.NET
+948,React Native
+949,Spring
+951,Capacitor
+952,.NET
+953,.NET
+953,Apache Kafka
+957,.NET
+961,Apache Kafka
+961,Pandas
+966,.NET
+966,Electron
+966,React Native
+966,TensorFlow
+966,Xamarin
+968,NumPy
+971,GTK
+978,.NET
+980,Torch/PyTorch
+981,Qt
+984,.NET
+986,Keras
+986,NumPy
+986,Pandas
+986,Scikit-Learn
+986,TensorFlow
+986,Torch/PyTorch
+989,NumPy
+989,Pandas
+990,.NET
+990,Uno Platform
+990,Xamarin
+994,Flutter
+994,TensorFlow
+994,Torch/PyTorch
+995,.NET
+996,NumPy
+996,Pandas
+996,React Native
+996,TensorFlow
+996,Torch/PyTorch
+997,.NET
+998,Apache Kafka
+1001,.NET
+1002,.NET
+1002,Electron
+1002,Flutter
+1002,GTK
+1002,NumPy
+1002,Qt
+1002,React Native
+1002,TensorFlow
+1002,Torch/PyTorch
+1002,Xamarin
+1003,Apache Kafka
+1003,Spring
+1005,Electron
+1007,Spring
+1008,Apache Spark
+1008,NumPy
+1008,Scikit-Learn
+1008,TensorFlow
+1008,Torch/PyTorch
+1009,Hugging Face Transformers
+1009,Keras
+1009,NumPy
+1009,Pandas
+1009,TensorFlow
+1009,Torch/PyTorch
+1010,.NET
+1012,Apache Kafka
+1012,Spring
+1015,.NET
+1015,Uno Platform
+1015,Xamarin
+1016,.NET
+1017,.NET
+1017,Flutter
+1018,GTK
+1021,.NET
+1021,React Native
+1022,Flutter
+1023,Pandas
+1026,Electron
+1026,Flutter
+1026,Keras
+1026,NumPy
+1026,Pandas
+1026,React Native
+1026,Scikit-Learn
+1026,TensorFlow
+1026,Torch/PyTorch
+1028,Apache Spark
+1028,Scikit-Learn
+1028,Torch/PyTorch
+1029,Apache Kafka
+1030,Apache Kafka
+1031,Flutter
+1031,NumPy
+1031,Pandas
+1031,Scikit-Learn
+1031,TensorFlow
+1034,Electron
+1034,Flutter
+1034,React Native
+1034,Spring
+1035,Flutter
+1036,Flutter
+1037,Flutter
+1037,React Native
+1038,Cordova
+1038,Electron
+1038,Xamarin
+1039,Apache Spark
+1039,Keras
+1039,NumPy
+1039,Pandas
+1039,Scikit-Learn
+1039,TensorFlow
+1039,Tidyverse
+1041,.NET
+1042,GTK
+1042,NumPy
+1043,Electron
+1044,Spring
+1045,Keras
+1045,NumPy
+1045,TensorFlow
+1053,.NET
+1054,Pandas
+1054,Scikit-Learn
+1054,Torch/PyTorch
+1055,.NET
+1055,NumPy
+1055,Spring
+1055,TensorFlow
+1055,Torch/PyTorch
+1057,Apache Kafka
+1057,Apache Spark
+1057,Hadoop
+1057,NumPy
+1057,Pandas
+1057,Scikit-Learn
+1057,TensorFlow
+1057,Torch/PyTorch
+1058,Keras
+1058,NumPy
+1058,Scikit-Learn
+1058,TensorFlow
+1060,Apache Kafka
+1060,NumPy
+1060,React Native
+1060,TensorFlow
+1060,Torch/PyTorch
+1062,Apache Kafka
+1062,Apache Spark
+1062,NumPy
+1062,Pandas
+1062,Scikit-Learn
+1066,Apache Spark
+1070,Hugging Face Transformers
+1070,NumPy
+1070,Pandas
+1070,Torch/PyTorch
+1074,.NET
+1074,Electron
+1074,TensorFlow
+1078,GTK
+1078,Qt
+1078,Spring
+1081,.NET
+1082,.NET
+1083,.NET
+1083,Pandas
+1085,TensorFlow
+1090,.NET
+1091,NumPy
+1091,Pandas
+1091,Scikit-Learn
+1091,TensorFlow
+1091,Torch/PyTorch
+1094,GTK
+1095,Keras
+1095,NumPy
+1095,TensorFlow
+1098,Apache Kafka
+1098,Apache Spark
+1098,React Native
+1098,Spring
+1100,.NET
+1100,Electron
+1100,Ionic
+1100,TensorFlow
+1104,Spring
+1105,NumPy
+1105,Torch/PyTorch
+1108,Apache Kafka
+1108,Apache Spark
+1108,Keras
+1108,NumPy
+1108,Pandas
+1108,TensorFlow
+1111,Pandas
+1111,Qt
+1113,Apache Kafka
+1115,Apache Kafka
+1116,React Native
+1119,.NET
+1119,NumPy
+1119,Pandas
+1119,TensorFlow
+1119,Torch/PyTorch
+1120,GTK
+1120,Qt
+1122,GTK
+1123,.NET
+1124,.NET
+1126,GTK
+1126,Pandas
+1126,Qt
+1126,React Native
+1127,.NET
+1127,Xamarin
+1128,Flutter
+1129,Apache Kafka
+1129,React Native
+1132,Flutter
+1132,NumPy
+1132,Pandas
+1132,Qt
+1132,Scikit-Learn
+1132,Torch/PyTorch
+1133,NumPy
+1135,Apache Kafka
+1135,TensorFlow
+1135,Torch/PyTorch
+1137,.NET
+1138,.NET
+1138,Flutter
+1138,TensorFlow
+1138,Torch/PyTorch
+1139,Keras
+1139,Pandas
+1139,TensorFlow
+1139,Tidyverse
+1139,Torch/PyTorch
+1141,Flutter
+1143,.NET
+1144,Electron
+1144,NumPy
+1144,Pandas
+1144,React Native
+1149,Electron
+1149,NumPy
+1149,Pandas
+1150,Spring
+1155,.NET
+1156,React Native
+1157,NumPy
+1157,Pandas
+1157,Scikit-Learn
+1157,Spring
+1157,TensorFlow
+1160,GTK
+1162,.NET
+1162,React Native
+1164,.NET
+1164,Apache Kafka
+1165,Flutter
+1165,Keras
+1165,NumPy
+1165,Pandas
+1165,Scikit-Learn
+1165,TensorFlow
+1165,Torch/PyTorch
+1167,Flutter
+1167,Qt
+1167,React Native
+1170,.NET
+1171,Qt
+1173,Apache Kafka
+1173,Apache Spark
+1173,Electron
+1173,Flutter
+1173,React Native
+1174,.NET
+1178,Pandas
+1179,NumPy
+1179,Pandas
+1179,Scikit-Learn
+1179,TensorFlow
+1181,Apache Kafka
+1182,.NET
+1184,Apache Kafka
+1184,Flutter
+1184,NumPy
+1184,React Native
+1184,Scikit-Learn
+1185,.NET
+1185,Flutter
+1185,Pandas
+1185,TensorFlow
+1185,Torch/PyTorch
+1186,.NET
+1189,Apache Kafka
+1189,Cordova
+1189,Ionic
+1190,Qt
+1191,Scikit-Learn
+1194,.NET
+1194,Electron
+1194,Flutter
+1194,Keras
+1194,NumPy
+1194,Pandas
+1194,React Native
+1194,Scikit-Learn
+1194,TensorFlow
+1197,Apache Spark
+1197,Spring
+1199,NumPy
+1203,Pandas
+1205,NumPy
+1206,Flutter
+1211,Apache Kafka
+1215,.NET
+1215,Qt
+1215,React Native
+1216,Flutter
+1216,NumPy
+1216,Pandas
+1217,Apache Kafka
+1217,Hadoop
+1218,Apache Kafka
+1218,Spring
+1219,.NET
+1219,Apache Kafka
+1219,Apache Spark
+1219,Cordova
+1219,Ionic
+1219,React Native
+1219,Spring
+1219,Torch/PyTorch
+1219,Xamarin
+1224,Electron
+1224,Pandas
+1225,React Native
+1226,Flutter
+1227,Qt
+1228,Pandas
+1229,.NET
+1230,Qt
+1233,.NET
+1237,Qt
+1238,.NET
+1240,.NET
+1240,Flutter
+1246,Apache Kafka
+1252,.NET
+1254,TensorFlow
+1256,Hugging Face Transformers
+1256,NumPy
+1256,Torch/PyTorch
+1259,.NET
+1261,.NET
+1261,Keras
+1261,TensorFlow
+1261,Torch/PyTorch
+1263,.NET
+1263,GTK
+1263,NumPy
+1263,Pandas
+1263,Qt
+1263,Xamarin
+1265,Spring
+1266,.NET
+1266,Electron
+1266,Pandas
+1266,React Native
+1266,Scikit-Learn
+1266,TensorFlow
+1268,Capacitor
+1268,Flutter
+1268,Ionic
+1270,.NET
+1275,TensorFlow
+1277,.NET
+1277,Flutter
+1277,NumPy
+1277,Pandas
+1277,Qt
+1278,Capacitor
+1278,Ionic
+1278,NumPy
+1278,Pandas
+1278,Scikit-Learn
+1278,TensorFlow
+1278,Torch/PyTorch
+1280,Spring
+1281,Apache Kafka
+1281,Spring
+1282,Flutter
+1282,Spring
+1283,Apache Kafka
+1283,Apache Spark
+1283,Hadoop
+1284,NumPy
+1284,Pandas
+1287,.NET
+1293,Flutter
+1293,GTK
+1294,Electron
+1294,React Native
+1299,.NET
+1299,NumPy
+1299,Pandas
+1299,React Native
+1303,.NET
+1303,Spring
+1304,Apache Spark
+1304,Electron
+1304,Keras
+1304,NumPy
+1304,Pandas
+1304,Scikit-Learn
+1304,Spring
+1305,Apache Kafka
+1305,NumPy
+1305,Pandas
+1305,Scikit-Learn
+1305,Torch/PyTorch
+1306,Qt
+1306,TensorFlow
+1310,Apache Kafka
+1311,Electron
+1311,React Native
+1312,Apache Kafka
+1312,NumPy
+1312,Pandas
+1312,Qt
+1314,Electron
+1314,NumPy
+1314,Pandas
+1314,Scikit-Learn
+1314,Torch/PyTorch
+1318,.NET
+1322,Keras
+1322,Pandas
+1322,TensorFlow
+1322,Torch/PyTorch
+1323,Apache Spark
+1324,Electron
+1324,Flutter
+1324,React Native
+1325,TensorFlow
+1328,.NET
+1328,Electron
+1328,React Native
+1332,Apache Kafka
+1332,Spring
+1333,.NET
+1333,Electron
+1334,.NET
+1334,Apache Kafka
+1334,Apache Spark
+1339,Keras
+1339,NumPy
+1339,Pandas
+1339,Qt
+1339,Scikit-Learn
+1339,TensorFlow
+1344,Keras
+1344,NumPy
+1344,Pandas
+1344,TensorFlow
+1344,Torch/PyTorch
+1349,GTK
+1355,Apache Kafka
+1355,Keras
+1355,NumPy
+1355,Pandas
+1355,React Native
+1355,Spring
+1355,TensorFlow
+1357,GTK
+1357,TensorFlow
+1358,Capacitor
+1358,Cordova
+1358,Electron
+1358,Flutter
+1362,Apache Kafka
+1362,GTK
+1364,Apache Kafka
+1364,Flutter
+1367,Flutter
+1369,.NET
+1369,Flutter
+1370,.NET
+1371,.NET
+1374,Spring
+1375,GTK
+1376,GTK
+1376,Qt
+1377,NumPy
+1377,Pandas
+1377,Scikit-Learn
+1377,TensorFlow
+1377,Torch/PyTorch
+1381,React Native
+1383,.NET
+1389,.NET
+1389,Electron
+1389,Flutter
+1389,Ionic
+1389,Uno Platform
+1390,Flutter
+1390,Hugging Face Transformers
+1390,NumPy
+1390,Pandas
+1394,Spring
+1395,.NET
+1399,.NET
+1399,Flutter
+1399,GTK
+1400,.NET
+1400,Uno Platform
+1401,React Native
+1402,.NET
+1405,Apache Kafka
+1405,Spring
+1407,Apache Kafka
+1407,Apache Spark
+1407,Hugging Face Transformers
+1407,Spring
+1407,TensorFlow
+1407,Torch/PyTorch
+1409,.NET
+1409,Flutter
+1413,.NET
+1415,Flutter
+1418,React Native
+1421,Electron
+1423,NumPy
+1423,Pandas
+1423,Scikit-Learn
+1423,Tidyverse
+1427,Flutter
+1427,NumPy
+1427,Pandas
+1438,.NET
+1439,Torch/PyTorch
+1448,Apache Kafka
+1449,Spring
+1452,TensorFlow
+1453,Electron
+1453,Flutter
+1453,Qt
+1456,Qt
+1457,Apache Kafka
+1459,.NET
+1459,Keras
+1459,NumPy
+1459,TensorFlow
+1460,.NET
+1462,Electron
+1462,NumPy
+1462,Pandas
+1462,Scikit-Learn
+1462,Spring
+1462,TensorFlow
+1462,Torch/PyTorch
+1464,.NET
+1464,Apache Spark
+1464,NumPy
+1464,Pandas
+1464,Torch/PyTorch
+1465,.NET
+1466,GTK
+1466,Hugging Face Transformers
+1466,NumPy
+1466,Pandas
+1466,Scikit-Learn
+1466,Torch/PyTorch
+1469,.NET
+1470,Flutter
+1471,React Native
+1472,Spring
+1473,Pandas
+1474,.NET
+1477,Apache Kafka
+1477,Capacitor
+1477,NumPy
+1477,Torch/PyTorch
+1478,.NET
+1478,Flutter
+1478,GTK
+1479,Electron
+1479,Flutter
+1479,GTK
+1481,Keras
+1481,NumPy
+1481,Pandas
+1481,Qt
+1481,Scikit-Learn
+1481,TensorFlow
+1481,Torch/PyTorch
+1482,Flutter
+1482,Keras
+1482,NumPy
+1482,TensorFlow
+1483,NumPy
+1483,Pandas
+1483,Torch/PyTorch
+1484,Apache Spark
+1484,NumPy
+1485,.NET
+1486,Electron
+1486,React Native
+1488,NumPy
+1488,Pandas
+1488,Scikit-Learn
+1488,TensorFlow
+1488,Torch/PyTorch
+1494,Apache Kafka
+1494,NumPy
+1494,Pandas
+1494,TensorFlow
+1494,Torch/PyTorch
+1496,NumPy
+1496,TensorFlow
+1496,Torch/PyTorch
+1498,Torch/PyTorch
+1501,.NET
+1501,Electron
+1502,NumPy
+1502,Pandas
+1502,Scikit-Learn
+1503,Flutter
+1503,Xamarin
+1507,Apache Kafka
+1508,NumPy
+1508,TensorFlow
+1508,Torch/PyTorch
+1509,Tidyverse
+1513,.NET
+1514,.NET
+1516,Qt
+1518,Electron
+1518,Flutter
+1518,Qt
+1520,.NET
+1523,Spring
+1524,.NET
+1524,Keras
+1524,NumPy
+1524,Pandas
+1524,TensorFlow
+1524,Torch/PyTorch
+1526,Flutter
+1526,Hugging Face Transformers
+1526,Keras
+1526,NumPy
+1526,Pandas
+1526,TensorFlow
+1526,Torch/PyTorch
+1528,.NET
+1528,Uno Platform
+1528,Xamarin
+1529,Electron
+1529,Keras
+1529,NumPy
+1529,Pandas
+1529,Scikit-Learn
+1529,TensorFlow
+1529,Torch/PyTorch
+1530,NumPy
+1531,NumPy
+1531,Pandas
+1533,.NET
+1533,Flutter
+1533,GTK
+1533,NumPy
+1533,Pandas
+1533,Torch/PyTorch
+1538,.NET
+1541,Electron
+1542,.NET
+1543,Electron
+1543,React Native
+1544,NumPy
+1547,Apache Kafka
+1548,Apache Kafka
+1548,Apache Spark
+1548,Hadoop
+1550,Apache Kafka
+1550,NumPy
+1550,Pandas
+1550,Spring
+1552,Apache Kafka
+1552,Flutter
+1553,.NET
+1553,Flutter
+1553,NumPy
+1553,Torch/PyTorch
+1554,GTK
+1554,TensorFlow
+1557,.NET
+1557,Torch/PyTorch
+1558,.NET
+1560,.NET
+1565,Torch/PyTorch
+1566,.NET
+1566,Flutter
+1571,Capacitor
+1571,Ionic
+1574,NumPy
+1576,Capacitor
+1576,Cordova
+1576,Flutter
+1576,Ionic
+1576,React Native
+1578,Electron
+1578,React Native
+1578,TensorFlow
+1579,Spring
+1581,Flutter
+1581,GTK
+1582,.NET
+1582,Electron
+1582,Flutter
+1582,Qt
+1582,React Native
+1584,Scikit-Learn
+1584,TensorFlow
+1584,Tidyverse
+1584,Torch/PyTorch
+1587,React Native
+1588,Apache Kafka
+1589,.NET
+1596,NumPy
+1596,Pandas
+1596,Qt
+1598,GTK
+1599,.NET
+1599,Electron
+1599,NumPy
+1599,TensorFlow
+1600,.NET
+1601,GTK
+1601,NumPy
+1601,Pandas
+1603,.NET
+1603,Qt
+1603,Torch/PyTorch
+1604,Apache Kafka
+1604,Apache Spark
+1604,Electron
+1604,NumPy
+1604,Pandas
+1604,Spring
+1604,TensorFlow
+1604,Torch/PyTorch
+1605,Apache Spark
+1605,Flutter
+1606,Pandas
+1609,Hugging Face Transformers
+1609,NumPy
+1609,Pandas
+1609,Scikit-Learn
+1609,Torch/PyTorch
+1610,Electron
+1610,TensorFlow
+1611,Apache Kafka
+1611,Flutter
+1611,Spring
+1612,Cordova
+1612,Ionic
+1619,Electron
+1619,Flutter
+1619,React Native
+1620,NumPy
+1625,GTK
+1625,NumPy
+1627,.NET
+1627,Apache Kafka
+1629,Apache Kafka
+1632,Apache Kafka
+1633,.NET
+1634,NumPy
+1634,Pandas
+1636,.NET
+1637,.NET
+1637,NumPy
+1637,Pandas
+1638,.NET
+1638,NumPy
+1639,Spring
+1642,.NET
+1643,.NET
+1645,Apache Kafka
+1645,Electron
+1645,React Native
+1646,Spring
+1648,NumPy
+1648,Pandas
+1649,Flutter
+1650,Torch/PyTorch
+1652,.NET
+1652,Flutter
+1658,Hugging Face Transformers
+1658,NumPy
+1658,TensorFlow
+1658,Torch/PyTorch
+1663,Qt
+1666,React Native
+1667,Apache Kafka
+1668,.NET
+1670,Apache Kafka
+1670,Flutter
+1670,Hadoop
+1670,TensorFlow
+1672,Flutter
+1677,Flutter
+1677,Keras
+1677,NumPy
+1677,Scikit-Learn
+1677,TensorFlow
+1677,Torch/PyTorch
+1679,Keras
+1679,NumPy
+1679,Pandas
+1679,Qt
+1679,Scikit-Learn
+1679,TensorFlow
+1679,Torch/PyTorch
+1687,.NET
+1689,.NET
+1690,.NET
+1690,Flutter
+1690,Torch/PyTorch
+1692,Electron
+1692,React Native
+1696,.NET
+1696,Electron
+1696,Flutter
+1696,NumPy
+1699,.NET
+1699,Apache Kafka
+1699,Electron
+1699,Xamarin
+1700,Electron
+1700,NumPy
+1700,React Native
+1702,Flutter
+1702,NumPy
+1702,Pandas
+1702,Scikit-Learn
+1704,GTK
+1704,Hugging Face Transformers
+1704,NumPy
+1704,Pandas
+1704,Scikit-Learn
+1704,Torch/PyTorch
+1706,.NET
+1706,TensorFlow
+1707,NumPy
+1707,Pandas
+1707,Torch/PyTorch
+1709,.NET
+1710,Xamarin
+1714,Apache Spark
+1714,Hadoop
+1714,NumPy
+1714,Pandas
+1715,.NET
+1716,Apache Kafka
+1716,Spring
+1717,Apache Kafka
+1717,Electron
+1717,Spring
+1719,React Native
+1720,Apache Kafka
+1721,NumPy
+1721,Pandas
+1721,Scikit-Learn
+1721,TensorFlow
+1721,Torch/PyTorch
+1726,.NET
+1726,TensorFlow
+1727,.NET
+1731,.NET
+1732,.NET
+1736,NumPy
+1736,Pandas
+1737,GTK
+1737,Qt
+1738,Apache Kafka
+1739,.NET
+1739,GTK
+1743,Electron
+1743,Flutter
+1749,Flutter
+1749,Hugging Face Transformers
+1749,NumPy
+1749,Pandas
+1749,Scikit-Learn
+1749,Torch/PyTorch
+1751,Flutter
+1751,NumPy
+1751,Pandas
+1752,Electron
+1752,Flutter
+1752,NumPy
+1752,Pandas
+1752,React Native
+1752,Scikit-Learn
+1752,TensorFlow
+1752,Torch/PyTorch
+1753,NumPy
+1755,NumPy
+1757,Spring
+1762,NumPy
+1762,Pandas
+1762,TensorFlow
+1764,.NET
+1765,Flutter
+1765,NumPy
+1765,Qt
+1766,Apache Kafka
+1767,Apache Kafka
+1768,.NET
+1768,NumPy
+1768,Pandas
+1768,Scikit-Learn
+1769,NumPy
+1769,Pandas
+1769,Qt
+1769,Scikit-Learn
+1769,Torch/PyTorch
+1771,.NET
+1772,NumPy
+1772,Pandas
+1772,TensorFlow
+1772,Torch/PyTorch
+1777,GTK
+1777,Qt
+1777,TensorFlow
+1779,Apache Kafka
+1779,Apache Spark
+1779,Capacitor
+1779,Cordova
+1779,Electron
+1779,Flutter
+1779,GTK
+1779,Hadoop
+1779,Hugging Face Transformers
+1779,Ionic
+1779,Keras
+1779,React Native
+1779,Spring
+1779,Tidyverse
+1779,Torch/PyTorch
+1779,Uno Platform
+1779,Xamarin
+1781,Flutter
+1784,Apache Kafka
+1785,Apache Kafka
+1785,Electron
+1785,Pandas
+1785,TensorFlow
+1787,.NET
+1788,Apache Kafka
+1789,Apache Kafka
+1790,GTK
+1794,.NET
+1795,.NET
+1796,.NET
+1797,.NET
+1797,Electron
+1801,Spring
+1802,.NET
+1804,Apache Kafka
+1804,Apache Spark
+1804,NumPy
+1804,Pandas
+1804,Torch/PyTorch
+1807,React Native
+1807,TensorFlow
+1807,Torch/PyTorch
+1809,Electron
+1809,GTK
+1809,NumPy
+1809,Pandas
+1809,Qt
+1809,Spring
+1810,NumPy
+1810,Pandas
+1815,Torch/PyTorch
+1818,.NET
+1822,GTK
+1823,GTK
+1823,NumPy
+1823,Qt
+1824,Flutter
+1827,.NET
+1827,Flutter
+1827,GTK
+1830,.NET
+1830,TensorFlow
+1831,Apache Kafka
+1831,Spring
+1833,Apache Spark
+1833,NumPy
+1833,Pandas
+1833,TensorFlow
+1833,Torch/PyTorch
+1834,React Native
+1835,Spring
+1837,GTK
+1838,Spring
+1839,NumPy
+1839,Pandas
+1839,Scikit-Learn
+1848,.NET
+1848,Apache Kafka
+1848,Uno Platform
+1848,Xamarin
+1850,Electron
+1850,React Native
+1852,Apache Kafka
+1855,Apache Kafka
+1855,Apache Spark
+1855,Flutter
+1855,Hugging Face Transformers
+1855,NumPy
+1855,Pandas
+1855,Scikit-Learn
+1855,Torch/PyTorch
+1857,Spring
+1859,.NET
+1864,Flutter
+1865,.NET
+1867,Torch/PyTorch
+1869,Flutter
+1870,NumPy
+1870,Pandas
+1870,TensorFlow
+1870,Torch/PyTorch
+1871,.NET
+1874,.NET
+1874,Tidyverse
+1876,GTK
+1876,Qt
+1879,Electron
+1879,Flutter
+1879,React Native
+1881,React Native
+1882,.NET
+1882,Flutter
+1882,React Native
+1882,TensorFlow
+1882,Xamarin
+1885,GTK
+1885,TensorFlow
+1886,Qt
+1886,TensorFlow
+1888,NumPy
+1889,Apache Kafka
+1889,Spring
+1894,Apache Kafka
+1894,Apache Spark
+1895,Qt
+1897,Qt
+1898,Electron
+1898,Spring
+1899,.NET
+1900,Cordova
+1900,Electron
+1900,React Native
+1901,NumPy
+1901,Qt
+1901,React Native
+1905,NumPy
+1905,Scikit-Learn
+1905,Spring
+1905,TensorFlow
+1910,Flutter
+1910,Pandas
+1910,React Native
+1910,TensorFlow
+1910,Torch/PyTorch
+1911,.NET
+1914,React Native
+1915,.NET
+1916,React Native
+1917,.NET
+1917,Apache Kafka
+1917,NumPy
+1917,Spring
+1918,NumPy
+1918,Scikit-Learn
+1918,Torch/PyTorch
+1922,React Native
+1923,Keras
+1923,NumPy
+1923,Pandas
+1926,Keras
+1926,Qt
+1926,TensorFlow
+1926,Torch/PyTorch
+1927,Spring
+1930,.NET
+1930,Flutter
+1931,.NET
+1931,Apache Spark
+1931,Electron
+1931,Flutter
+1931,Hadoop
+1931,Pandas
+1931,Scikit-Learn
+1931,Spring
+1931,TensorFlow
+1931,Torch/PyTorch
+1931,Xamarin
+1932,GTK
+1932,Qt
+1933,Electron
+1933,Flutter
+1933,React Native
+1933,TensorFlow
+1934,Apache Kafka
+1934,Hadoop
+1935,Hugging Face Transformers
+1935,NumPy
+1935,Pandas
+1935,Scikit-Learn
+1935,Torch/PyTorch
+1937,.NET
+1939,NumPy
+1939,Torch/PyTorch
+1942,.NET
+1942,Apache Kafka
+1942,Apache Spark
+1942,NumPy
+1942,Pandas
+1942,Qt
+1943,.NET
+1943,Apache Kafka
+1943,Apache Spark
+1943,Hadoop
+1945,.NET
+1950,.NET
+1957,Hugging Face Transformers
+1957,NumPy
+1957,Pandas
+1957,Scikit-Learn
+1957,Torch/PyTorch
+1958,NumPy
+1958,Pandas
+1958,TensorFlow
+1958,Torch/PyTorch
+1961,Apache Kafka
+1961,TensorFlow
+1961,Torch/PyTorch
+1963,Flutter
+1963,TensorFlow
+1963,Torch/PyTorch
+1964,GTK
+1964,NumPy
+1964,Pandas
+1964,Qt
+1964,Scikit-Learn
+1964,TensorFlow
+1964,Torch/PyTorch
+1965,Apache Spark
+1965,React Native
+1967,.NET
+1968,Flutter
+1968,GTK
+1968,Qt
+1969,Spring
+1970,TensorFlow
+1970,Torch/PyTorch
+1976,React Native
+1977,Apache Kafka
+1981,Hugging Face Transformers
+1981,NumPy
+1981,Pandas
+1981,Scikit-Learn
+1981,Tidyverse
+1981,Torch/PyTorch
+1983,.NET
+1983,Apache Kafka
+1984,Spring
+1986,Keras
+1986,NumPy
+1986,TensorFlow
+1986,Torch/PyTorch
+1989,NumPy
+1990,React Native
+1995,.NET
+1996,.NET
+1996,Capacitor
+1999,Apache Kafka
+2000,.NET
+2003,.NET
+2004,Keras
+2004,NumPy
+2004,Pandas
+2004,TensorFlow
+2005,.NET
+2005,Apache Kafka
+2005,TensorFlow
+2005,Torch/PyTorch
+2006,.NET
+2007,Electron
+2007,Flutter
+2007,Spring
+2013,NumPy
+2013,Pandas
+2015,Flutter
+2015,Hugging Face Transformers
+2016,Apache Kafka
+2017,Electron
+2018,NumPy
+2018,Torch/PyTorch
+2020,Spring
+2021,Electron
+2021,Keras
+2021,Pandas
+2021,React Native
+2021,TensorFlow
+2021,Torch/PyTorch
+2022,.NET
+2022,Electron
+2022,Qt
+2023,GTK
+2023,Qt
+2024,Electron
+2026,NumPy
+2026,Pandas
+2031,Qt
+2034,Flutter
+2039,.NET
+2039,Qt
+2040,.NET
+2040,Flutter
+2040,TensorFlow
+2041,Apache Kafka
+2041,Apache Spark
+2041,TensorFlow
+2041,Torch/PyTorch
+2043,.NET
+2049,Hugging Face Transformers
+2049,NumPy
+2049,Pandas
+2049,Qt
+2049,Scikit-Learn
+2049,TensorFlow
+2049,Torch/PyTorch
+2050,TensorFlow
+2050,Torch/PyTorch
+2051,Apache Kafka
+2051,Electron
+2051,Flutter
+2051,Spring
+2052,Flutter
+2055,.NET
+2055,Uno Platform
+2055,Xamarin
+2058,NumPy
+2058,Pandas
+2059,Apache Kafka
+2059,Flutter
+2059,Spring
+2060,Hugging Face Transformers
+2060,Keras
+2060,NumPy
+2060,TensorFlow
+2061,Apache Kafka
+2061,Spring
+2062,Ionic
+2063,.NET
+2063,Electron
+2066,GTK
+2072,GTK
+2073,.NET
+2073,Flutter
+2074,.NET
+2075,Flutter
+2077,.NET
+2077,NumPy
+2077,Pandas
+2077,Torch/PyTorch
+2079,Flutter
+2079,NumPy
+2080,.NET
+2083,Flutter
+2086,Apache Kafka
+2086,NumPy
+2086,Scikit-Learn
+2090,.NET
+2090,Apache Kafka
+2090,Electron
+2090,Flutter
+2090,Ionic
+2090,React Native
+2090,Uno Platform
+2093,NumPy
+2093,Scikit-Learn
+2094,React Native
+2097,Spring
+2099,GTK
+2099,Qt
+2099,Spring
+2100,Apache Spark
+2101,.NET
+2101,Apache Spark
+2101,NumPy
+2101,Pandas
+2101,Qt
+2101,TensorFlow
+2101,Torch/PyTorch
+2102,Apache Kafka
+2102,Hadoop
+2102,Pandas
+2102,TensorFlow
+2114,.NET
+2115,.NET
+2117,.NET
+2117,Flutter
+2117,GTK
+2117,NumPy
+2118,.NET
+2118,TensorFlow
+2120,.NET
+2120,Spring
+2121,.NET
+2122,Electron
+2122,GTK
+2122,NumPy
+2122,Pandas
+2122,Qt
+2122,React Native
+2122,Scikit-Learn
+2122,Spring
+2122,TensorFlow
+2122,Torch/PyTorch
+2125,React Native
+2128,Apache Kafka
+2128,NumPy
+2128,Pandas
+2131,NumPy
+2131,React Native
+2134,.NET
+2134,Flutter
+2134,Spring
