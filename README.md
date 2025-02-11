@@ -12,7 +12,7 @@ Looking at the data available, we can derive the following insights:
   - NoSQL database usage is in the rise, as both the supply and the demand for unstructured data rises
   - Compensation is linearly dependent on seniority and education level for the most part, but entry-level positions' pay has gone down
   - Online learning methods' popularity is increasing with each year, though bias must be accounted for as this survey is aimed at an online community
-  - Demand for Python is dispropotionally higher than its actual usage, even considering its rise in professional work, especially among data-related work like business analysts and data scientists
+  - Demand for Python is disproportionately higher than its actual usage, even considering its rise in professional work, especially among data-related work like business analysts and data scientists
   - The data in this anonymized, public-access survey is not entirely reliable (the most egregious example being that 37 respondents identified as younger than 24 with more than 18 years of coding experience), so common sense and intuition is invaluable when parsing it
 
 The steps taken to arrive at these results are listed below.
