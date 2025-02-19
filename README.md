@@ -5,7 +5,7 @@ This analysis is mostly focused on how compensation of respondents changed in ti
 
 [Tableau Visualization Link](https://public.tableau.com/views/StackOverflowSurveyAnalysis2022-2024/Overview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-# Takeaways
+## Takeaways
 
 Looking at the data available, we can derive the following insights:
 
@@ -18,7 +18,7 @@ Looking at the data available, we can derive the following insights:
 The steps taken to arrive at these results are listed below.
 
 
-# Data Cleaning and Merging Work (Python)
+## Data Cleaning and Merging Work (Python)
 
 The Python code to clean the data is written such that making adjustments to include or exclude years in this analysis is straightforward. However, as the gap in years grows it becomes more taxing to parse the data manually, and the count of rows makes running SQL operations on the dataframes much more slow, so this project is limited to the years 2022, 2023 and 2024. The dataframe for year 2022 has 73268 rows and 80 columns, the dataframe for 2023 has 89184 rows and 85 columns, and finally for 2024 we have 65437 rows and 115 columns, where the response IDs are no longer unique since they track responses per year, so we redefine a response ID column based on row index.
 
@@ -52,7 +52,7 @@ Then we have the dataframes that correspond to existing columns of the dataframe
 
 As the dataframes that store info as multiple boolean columns have edge cases where the majority of rows have one or two positive entries with dozens of blank values, these dataframes are also stored in an alternate pivoted format, where, rather than storing everything in a multitude of columns with unique respondent IDs, the data is stored in two columns; one to store the responses as strings and another to store respondent IDs (which is no longer necessarily unique within the dataframe itself as respondents can have multiple answers to these questions). This format is not necessarily more efficient depending on the initial dataframe, but is easier to work with when using certain BI programs like Tableau than it would be otherwise, so rather than storing these dataframes as just these pivoted versions, they're stored in separate subfolders in this format to use when it makes more sense than to use the initial version.
 
-# Visualization Work (SQL and Tableau)
+## Visualization Work (SQL and Tableau)
 
 By joining the previously separated dataframes by their response ID columns, we can work with only the data we want to work with, which greatly improves performance as opposed to if we just had one dataframe. Separating by context also makes it much easier to parse the fields we have access to in Tableau, so in general our Python work pays dividends here. The visualizations are separated into 5 dashboards, and a top frame that is shared across all dashboards that contains total respondent count, respondent counts by year, buttons to access the dashboards and filters for survey year, coding experience and professional coding experience. To keep the visualizations clean, responses that do not include any meaningful data in terms of visualizations created here (like respondents that claim to not use ANY coding language at work despite identifying as developers) are excluded from the tracked counts, but not from the '% of total' values. The 5 dashboards are as follows:
 
